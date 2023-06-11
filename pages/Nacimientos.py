@@ -35,7 +35,7 @@ def display_cs_filters(df, year):
 def display_datos_nacimientos(df, years, cs):
 
     if len(cs)==0:
-            st.error("Please select at least one country.")
+            st.error("Por favor, seleccione al menos un estado civil de la madre.")
 
     else:
         df = df[(df['Periodo'].between(years[0], years[1])) & (df['Estado civil de la madre'].isin(cs)) ]
