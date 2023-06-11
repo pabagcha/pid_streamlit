@@ -90,5 +90,5 @@ with col3:
     else: lesbianas = 0
 
 total = heteros + gays + lesbianas
-temp = pd.DataFrame(data={'Sexo': ['Entre hombre y mujer', 'Entre hombres', 'Entre mujeres'], '%':[100*heteros/total, 100*gays/total, 100*lesbianas/total]})
+temp = pd.DataFrame(data={'Sexo': ['Hombre y mujer', 'Hombres', 'Mujeres'], '%':[100*heteros/total, 100*gays/total, 100*lesbianas/total]})
 st.bar_chart(temp, x='Sexo', y='%')
