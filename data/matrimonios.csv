@@ -1,0 +1,4375 @@
+;Provincias;Periodo;Total;Sexo
+0;Total;2021;143515;Entre hombre y mujer
+1;Total;2020;87481;Entre hombre y mujer
+2;Total;2019;161389;Entre hombre y mujer
+3;Total;2018;162743;Entre hombre y mujer
+4;Total;2017;168989;Entre hombre y mujer
+5;Total;2016;171023;Entre hombre y mujer
+6;Total;2015;165172;Entre hombre y mujer
+7;Total;2014;159279;Entre hombre y mujer
+8;Total;2013;153375;Entre hombre y mujer
+9;Total;2012;165101;Entre hombre y mujer
+10;Total;2011;159798;Entre hombre y mujer
+11;Total;2010;167247;Entre hombre y mujer
+12;Total;2009;174062;Entre hombre y mujer
+13;Total;2008;194022;Entre hombre y mujer
+14;Total;2007;201579;Entre hombre y mujer
+15;Total;2006;203453;Entre hombre y mujer
+16;Total;2005;208146;Entre hombre y mujer
+17;Total;2004;216149;Entre hombre y mujer
+18;Total;2003;212300;Entre hombre y mujer
+19;Total;2002;211522;Entre hombre y mujer
+20;Total;2001;208057;Entre hombre y mujer
+21;Total;2000;216451;Entre hombre y mujer
+22;Total;1999;208129;Entre hombre y mujer
+23;Total;1998;207041;Entre hombre y mujer
+24;Total;1997;196499;Entre hombre y mujer
+25;Total;1996;194084;Entre hombre y mujer
+26;Total;1995;200688;Entre hombre y mujer
+27;Total;1994;199731;Entre hombre y mujer
+28;Total;1993;201463;Entre hombre y mujer
+29;Total;1992;217512;Entre hombre y mujer
+30;Total;1991;218121;Entre hombre y mujer
+31;Total;1990;220533;Entre hombre y mujer
+32;Total;1989;221470;Entre hombre y mujer
+33;Total;1988;219027;Entre hombre y mujer
+34;Total;1987;215771;Entre hombre y mujer
+35;Total;1986;207929;Entre hombre y mujer
+36;Total;1985;199658;Entre hombre y mujer
+37;Total;1984;197542;Entre hombre y mujer
+38;Total;1983;196155;Entre hombre y mujer
+39;Total;1982;193319;Entre hombre y mujer
+40;Total;1981;202037;Entre hombre y mujer
+41;Total;1980;220674;Entre hombre y mujer
+42;Total;1979;246349;Entre hombre y mujer
+43;Total;1978;258070;Entre hombre y mujer
+44;Total;1977;262015;Entre hombre y mujer
+45;Total;1976;260974;Entre hombre y mujer
+46;Total;1975;271347;Entre hombre y mujer
+47;02 Albacete;2021;1073;Entre hombre y mujer
+48;02 Albacete;2020;552;Entre hombre y mujer
+49;02 Albacete;2019;1203;Entre hombre y mujer
+50;02 Albacete;2018;1267;Entre hombre y mujer
+51;02 Albacete;2017;1367;Entre hombre y mujer
+52;02 Albacete;2016;1417;Entre hombre y mujer
+53;02 Albacete;2015;1344;Entre hombre y mujer
+54;02 Albacete;2014;1300;Entre hombre y mujer
+55;02 Albacete;2013;1191;Entre hombre y mujer
+56;02 Albacete;2012;1345;Entre hombre y mujer
+57;02 Albacete;2011;1309;Entre hombre y mujer
+58;02 Albacete;2010;1346;Entre hombre y mujer
+59;02 Albacete;2009;1399;Entre hombre y mujer
+60;02 Albacete;2008;1483;Entre hombre y mujer
+61;02 Albacete;2007;1628;Entre hombre y mujer
+62;02 Albacete;2006;1661;Entre hombre y mujer
+63;02 Albacete;2005;1720;Entre hombre y mujer
+64;02 Albacete;2004;1759;Entre hombre y mujer
+65;02 Albacete;2003;1783;Entre hombre y mujer
+66;02 Albacete;2002;1738;Entre hombre y mujer
+67;02 Albacete;2001;1769;Entre hombre y mujer
+68;02 Albacete;2000;1864;Entre hombre y mujer
+69;02 Albacete;1999;1872;Entre hombre y mujer
+70;02 Albacete;1998;1802;Entre hombre y mujer
+71;02 Albacete;1997;1784;Entre hombre y mujer
+72;02 Albacete;1996;1706;Entre hombre y mujer
+73;02 Albacete;1995;1844;Entre hombre y mujer
+74;02 Albacete;1994;1949;Entre hombre y mujer
+75;02 Albacete;1993;1963;Entre hombre y mujer
+76;02 Albacete;1992;1963;Entre hombre y mujer
+77;02 Albacete;1991;1915;Entre hombre y mujer
+78;02 Albacete;1990;1876;Entre hombre y mujer
+79;02 Albacete;1989;2190;Entre hombre y mujer
+80;02 Albacete;1988;2128;Entre hombre y mujer
+81;02 Albacete;1987;2089;Entre hombre y mujer
+82;02 Albacete;1986;2122;Entre hombre y mujer
+83;02 Albacete;1985;2066;Entre hombre y mujer
+84;02 Albacete;1984;2088;Entre hombre y mujer
+85;02 Albacete;1983;2194;Entre hombre y mujer
+86;02 Albacete;1982;1894;Entre hombre y mujer
+87;02 Albacete;1981;1946;Entre hombre y mujer
+88;02 Albacete;1980;2090;Entre hombre y mujer
+89;02 Albacete;1979;1998;Entre hombre y mujer
+90;02 Albacete;1978;1991;Entre hombre y mujer
+91;02 Albacete;1977;1935;Entre hombre y mujer
+92;02 Albacete;1976;1906;Entre hombre y mujer
+93;02 Albacete;1975;1943;Entre hombre y mujer
+94;03 Alicante/Alacant;2021;5721;Entre hombre y mujer
+95;03 Alicante/Alacant;2020;3828;Entre hombre y mujer
+96;03 Alicante/Alacant;2019;6013;Entre hombre y mujer
+97;03 Alicante/Alacant;2018;6273;Entre hombre y mujer
+98;03 Alicante/Alacant;2017;6590;Entre hombre y mujer
+99;03 Alicante/Alacant;2016;6576;Entre hombre y mujer
+100;03 Alicante/Alacant;2015;5977;Entre hombre y mujer
+101;03 Alicante/Alacant;2014;5754;Entre hombre y mujer
+102;03 Alicante/Alacant;2013;5318;Entre hombre y mujer
+103;03 Alicante/Alacant;2012;5538;Entre hombre y mujer
+104;03 Alicante/Alacant;2011;5344;Entre hombre y mujer
+105;03 Alicante/Alacant;2010;5466;Entre hombre y mujer
+106;03 Alicante/Alacant;2009;5877;Entre hombre y mujer
+107;03 Alicante/Alacant;2008;6921;Entre hombre y mujer
+108;03 Alicante/Alacant;2007;7350;Entre hombre y mujer
+109;03 Alicante/Alacant;2006;7606;Entre hombre y mujer
+110;03 Alicante/Alacant;2005;7935;Entre hombre y mujer
+111;03 Alicante/Alacant;2004;8537;Entre hombre y mujer
+112;03 Alicante/Alacant;2003;8113;Entre hombre y mujer
+113;03 Alicante/Alacant;2002;8027;Entre hombre y mujer
+114;03 Alicante/Alacant;2001;7798;Entre hombre y mujer
+115;03 Alicante/Alacant;2000;7998;Entre hombre y mujer
+116;03 Alicante/Alacant;1999;7526;Entre hombre y mujer
+117;03 Alicante/Alacant;1998;7493;Entre hombre y mujer
+118;03 Alicante/Alacant;1997;7247;Entre hombre y mujer
+119;03 Alicante/Alacant;1996;6819;Entre hombre y mujer
+120;03 Alicante/Alacant;1995;7357;Entre hombre y mujer
+121;03 Alicante/Alacant;1994;6891;Entre hombre y mujer
+122;03 Alicante/Alacant;1993;6768;Entre hombre y mujer
+123;03 Alicante/Alacant;1992;7497;Entre hombre y mujer
+124;03 Alicante/Alacant;1991;7239;Entre hombre y mujer
+125;03 Alicante/Alacant;1990;7728;Entre hombre y mujer
+126;03 Alicante/Alacant;1989;6681;Entre hombre y mujer
+127;03 Alicante/Alacant;1988;6723;Entre hombre y mujer
+128;03 Alicante/Alacant;1987;6317;Entre hombre y mujer
+129;03 Alicante/Alacant;1986;5775;Entre hombre y mujer
+130;03 Alicante/Alacant;1985;4759;Entre hombre y mujer
+131;03 Alicante/Alacant;1984;4186;Entre hombre y mujer
+132;03 Alicante/Alacant;1983;4200;Entre hombre y mujer
+133;03 Alicante/Alacant;1982;3866;Entre hombre y mujer
+134;03 Alicante/Alacant;1981;7160;Entre hombre y mujer
+135;03 Alicante/Alacant;1980;7495;Entre hombre y mujer
+136;03 Alicante/Alacant;1979;8234;Entre hombre y mujer
+137;03 Alicante/Alacant;1978;8356;Entre hombre y mujer
+138;03 Alicante/Alacant;1977;8272;Entre hombre y mujer
+139;03 Alicante/Alacant;1976;7947;Entre hombre y mujer
+140;03 Alicante/Alacant;1975;8464;Entre hombre y mujer
+141;04 Almería;2021;1844;Entre hombre y mujer
+142;04 Almería;2020;1143;Entre hombre y mujer
+143;04 Almería;2019;2091;Entre hombre y mujer
+144;04 Almería;2018;2139;Entre hombre y mujer
+145;04 Almería;2017;2136;Entre hombre y mujer
+146;04 Almería;2016;2216;Entre hombre y mujer
+147;04 Almería;2015;2082;Entre hombre y mujer
+148;04 Almería;2014;1977;Entre hombre y mujer
+149;04 Almería;2013;1954;Entre hombre y mujer
+150;04 Almería;2012;2293;Entre hombre y mujer
+151;04 Almería;2011;2048;Entre hombre y mujer
+152;04 Almería;2010;2128;Entre hombre y mujer
+153;04 Almería;2009;2379;Entre hombre y mujer
+154;04 Almería;2008;2759;Entre hombre y mujer
+155;04 Almería;2007;2836;Entre hombre y mujer
+156;04 Almería;2006;3015;Entre hombre y mujer
+157;04 Almería;2005;2973;Entre hombre y mujer
+158;04 Almería;2004;3006;Entre hombre y mujer
+159;04 Almería;2003;2925;Entre hombre y mujer
+160;04 Almería;2002;2842;Entre hombre y mujer
+161;04 Almería;2001;2758;Entre hombre y mujer
+162;04 Almería;2000;2814;Entre hombre y mujer
+163;04 Almería;1999;2744;Entre hombre y mujer
+164;04 Almería;1998;2683;Entre hombre y mujer
+165;04 Almería;1997;2585;Entre hombre y mujer
+166;04 Almería;1996;2583;Entre hombre y mujer
+167;04 Almería;1995;2614;Entre hombre y mujer
+168;04 Almería;1994;2647;Entre hombre y mujer
+169;04 Almería;1993;2518;Entre hombre y mujer
+170;04 Almería;1992;2662;Entre hombre y mujer
+171;04 Almería;1991;2727;Entre hombre y mujer
+172;04 Almería;1990;2817;Entre hombre y mujer
+173;04 Almería;1989;2875;Entre hombre y mujer
+174;04 Almería;1988;2912;Entre hombre y mujer
+175;04 Almería;1987;2989;Entre hombre y mujer
+176;04 Almería;1986;2780;Entre hombre y mujer
+177;04 Almería;1985;2636;Entre hombre y mujer
+178;04 Almería;1984;2595;Entre hombre y mujer
+179;04 Almería;1983;2776;Entre hombre y mujer
+180;04 Almería;1982;2555;Entre hombre y mujer
+181;04 Almería;1981;2617;Entre hombre y mujer
+182;04 Almería;1980;2742;Entre hombre y mujer
+183;04 Almería;1979;2939;Entre hombre y mujer
+184;04 Almería;1978;2961;Entre hombre y mujer
+185;04 Almería;1977;2824;Entre hombre y mujer
+186;04 Almería;1976;2855;Entre hombre y mujer
+187;04 Almería;1975;2835;Entre hombre y mujer
+188;01 Araba/Álava;2021;900;Entre hombre y mujer
+189;01 Araba/Álava;2020;516;Entre hombre y mujer
+190;01 Araba/Álava;2019;1004;Entre hombre y mujer
+191;01 Araba/Álava;2018;1092;Entre hombre y mujer
+192;01 Araba/Álava;2017;1067;Entre hombre y mujer
+193;01 Araba/Álava;2016;1111;Entre hombre y mujer
+194;01 Araba/Álava;2015;1187;Entre hombre y mujer
+195;01 Araba/Álava;2014;1191;Entre hombre y mujer
+196;01 Araba/Álava;2013;1080;Entre hombre y mujer
+197;01 Araba/Álava;2012;1186;Entre hombre y mujer
+198;01 Araba/Álava;2011;1140;Entre hombre y mujer
+199;01 Araba/Álava;2010;1258;Entre hombre y mujer
+200;01 Araba/Álava;2009;1205;Entre hombre y mujer
+201;01 Araba/Álava;2008;1240;Entre hombre y mujer
+202;01 Araba/Álava;2007;1216;Entre hombre y mujer
+203;01 Araba/Álava;2006;1263;Entre hombre y mujer
+204;01 Araba/Álava;2005;1277;Entre hombre y mujer
+205;01 Araba/Álava;2004;1377;Entre hombre y mujer
+206;01 Araba/Álava;2003;1449;Entre hombre y mujer
+207;01 Araba/Álava;2002;1405;Entre hombre y mujer
+208;01 Araba/Álava;2001;1289;Entre hombre y mujer
+209;01 Araba/Álava;2000;1470;Entre hombre y mujer
+210;01 Araba/Álava;1999;1351;Entre hombre y mujer
+211;01 Araba/Álava;1998;1413;Entre hombre y mujer
+212;01 Araba/Álava;1997;1383;Entre hombre y mujer
+213;01 Araba/Álava;1996;1330;Entre hombre y mujer
+214;01 Araba/Álava;1995;1365;Entre hombre y mujer
+215;01 Araba/Álava;1994;1363;Entre hombre y mujer
+216;01 Araba/Álava;1993;1311;Entre hombre y mujer
+217;01 Araba/Álava;1992;1342;Entre hombre y mujer
+218;01 Araba/Álava;1991;1312;Entre hombre y mujer
+219;01 Araba/Álava;1990;1335;Entre hombre y mujer
+220;01 Araba/Álava;1989;1347;Entre hombre y mujer
+221;01 Araba/Álava;1988;1374;Entre hombre y mujer
+222;01 Araba/Álava;1987;1326;Entre hombre y mujer
+223;01 Araba/Álava;1986;1327;Entre hombre y mujer
+224;01 Araba/Álava;1985;1305;Entre hombre y mujer
+225;01 Araba/Álava;1984;1406;Entre hombre y mujer
+226;01 Araba/Álava;1983;1388;Entre hombre y mujer
+227;01 Araba/Álava;1982;1544;Entre hombre y mujer
+228;01 Araba/Álava;1981;1557;Entre hombre y mujer
+229;01 Araba/Álava;1980;1762;Entre hombre y mujer
+230;01 Araba/Álava;1979;1908;Entre hombre y mujer
+231;01 Araba/Álava;1978;2076;Entre hombre y mujer
+232;01 Araba/Álava;1977;2112;Entre hombre y mujer
+233;01 Araba/Álava;1976;1745;Entre hombre y mujer
+234;01 Araba/Álava;1975;2061;Entre hombre y mujer
+235;33 Asturias;2021;2875;Entre hombre y mujer
+236;33 Asturias;2020;1807;Entre hombre y mujer
+237;33 Asturias;2019;3255;Entre hombre y mujer
+238;33 Asturias;2018;3425;Entre hombre y mujer
+239;33 Asturias;2017;3569;Entre hombre y mujer
+240;33 Asturias;2016;3679;Entre hombre y mujer
+241;33 Asturias;2015;3483;Entre hombre y mujer
+242;33 Asturias;2014;3498;Entre hombre y mujer
+243;33 Asturias;2013;3327;Entre hombre y mujer
+244;33 Asturias;2012;3968;Entre hombre y mujer
+245;33 Asturias;2011;3884;Entre hombre y mujer
+246;33 Asturias;2010;4233;Entre hombre y mujer
+247;33 Asturias;2009;4485;Entre hombre y mujer
+248;33 Asturias;2008;4775;Entre hombre y mujer
+249;33 Asturias;2007;4857;Entre hombre y mujer
+250;33 Asturias;2006;4810;Entre hombre y mujer
+251;33 Asturias;2005;4905;Entre hombre y mujer
+252;33 Asturias;2004;4958;Entre hombre y mujer
+253;33 Asturias;2003;4999;Entre hombre y mujer
+254;33 Asturias;2002;4895;Entre hombre y mujer
+255;33 Asturias;2001;4771;Entre hombre y mujer
+256;33 Asturias;2000;4934;Entre hombre y mujer
+257;33 Asturias;1999;4735;Entre hombre y mujer
+258;33 Asturias;1998;4628;Entre hombre y mujer
+259;33 Asturias;1997;4548;Entre hombre y mujer
+260;33 Asturias;1996;4401;Entre hombre y mujer
+261;33 Asturias;1995;4512;Entre hombre y mujer
+262;33 Asturias;1994;4643;Entre hombre y mujer
+263;33 Asturias;1993;4747;Entre hombre y mujer
+264;33 Asturias;1992;5347;Entre hombre y mujer
+265;33 Asturias;1991;5433;Entre hombre y mujer
+266;33 Asturias;1990;5454;Entre hombre y mujer
+267;33 Asturias;1989;5426;Entre hombre y mujer
+268;33 Asturias;1988;5541;Entre hombre y mujer
+269;33 Asturias;1987;5693;Entre hombre y mujer
+270;33 Asturias;1986;5803;Entre hombre y mujer
+271;33 Asturias;1985;5910;Entre hombre y mujer
+272;33 Asturias;1984;6067;Entre hombre y mujer
+273;33 Asturias;1983;5905;Entre hombre y mujer
+274;33 Asturias;1982;6125;Entre hombre y mujer
+275;33 Asturias;1981;5890;Entre hombre y mujer
+276;33 Asturias;1980;6796;Entre hombre y mujer
+277;33 Asturias;1979;7344;Entre hombre y mujer
+278;33 Asturias;1978;7705;Entre hombre y mujer
+279;33 Asturias;1977;7939;Entre hombre y mujer
+280;33 Asturias;1976;7877;Entre hombre y mujer
+281;33 Asturias;1975;8262;Entre hombre y mujer
+282;05 Ávila;2021;379;Entre hombre y mujer
+283;05 Ávila;2020;234;Entre hombre y mujer
+284;05 Ávila;2019;437;Entre hombre y mujer
+285;05 Ávila;2018;436;Entre hombre y mujer
+286;05 Ávila;2017;435;Entre hombre y mujer
+287;05 Ávila;2016;460;Entre hombre y mujer
+288;05 Ávila;2015;434;Entre hombre y mujer
+289;05 Ávila;2014;425;Entre hombre y mujer
+290;05 Ávila;2013;433;Entre hombre y mujer
+291;05 Ávila;2012;465;Entre hombre y mujer
+292;05 Ávila;2011;466;Entre hombre y mujer
+293;05 Ávila;2010;500;Entre hombre y mujer
+294;05 Ávila;2009;531;Entre hombre y mujer
+295;05 Ávila;2008;596;Entre hombre y mujer
+296;05 Ávila;2007;579;Entre hombre y mujer
+297;05 Ávila;2006;594;Entre hombre y mujer
+298;05 Ávila;2005;588;Entre hombre y mujer
+299;05 Ávila;2004;603;Entre hombre y mujer
+300;05 Ávila;2003;621;Entre hombre y mujer
+301;05 Ávila;2002;629;Entre hombre y mujer
+302;05 Ávila;2001;604;Entre hombre y mujer
+303;05 Ávila;2000;635;Entre hombre y mujer
+304;05 Ávila;1999;608;Entre hombre y mujer
+305;05 Ávila;1998;633;Entre hombre y mujer
+306;05 Ávila;1997;611;Entre hombre y mujer
+307;05 Ávila;1996;599;Entre hombre y mujer
+308;05 Ávila;1995;700;Entre hombre y mujer
+309;05 Ávila;1994;736;Entre hombre y mujer
+310;05 Ávila;1993;681;Entre hombre y mujer
+311;05 Ávila;1992;797;Entre hombre y mujer
+312;05 Ávila;1991;766;Entre hombre y mujer
+313;05 Ávila;1990;774;Entre hombre y mujer
+314;05 Ávila;1989;802;Entre hombre y mujer
+315;05 Ávila;1988;826;Entre hombre y mujer
+316;05 Ávila;1987;817;Entre hombre y mujer
+317;05 Ávila;1986;822;Entre hombre y mujer
+318;05 Ávila;1985;689;Entre hombre y mujer
+319;05 Ávila;1984;847;Entre hombre y mujer
+320;05 Ávila;1983;768;Entre hombre y mujer
+321;05 Ávila;1982;769;Entre hombre y mujer
+322;05 Ávila;1981;761;Entre hombre y mujer
+323;05 Ávila;1980;879;Entre hombre y mujer
+324;05 Ávila;1979;892;Entre hombre y mujer
+325;05 Ávila;1978;806;Entre hombre y mujer
+326;05 Ávila;1977;801;Entre hombre y mujer
+327;05 Ávila;1976;871;Entre hombre y mujer
+328;05 Ávila;1975;934;Entre hombre y mujer
+329;06 Badajoz;2021;1852;Entre hombre y mujer
+330;06 Badajoz;2020;996;Entre hombre y mujer
+331;06 Badajoz;2019;2166;Entre hombre y mujer
+332;06 Badajoz;2018;2156;Entre hombre y mujer
+333;06 Badajoz;2017;2304;Entre hombre y mujer
+334;06 Badajoz;2016;2311;Entre hombre y mujer
+335;06 Badajoz;2015;2271;Entre hombre y mujer
+336;06 Badajoz;2014;2160;Entre hombre y mujer
+337;06 Badajoz;2013;2044;Entre hombre y mujer
+338;06 Badajoz;2012;2452;Entre hombre y mujer
+339;06 Badajoz;2011;2368;Entre hombre y mujer
+340;06 Badajoz;2010;2682;Entre hombre y mujer
+341;06 Badajoz;2009;2832;Entre hombre y mujer
+342;06 Badajoz;2008;2917;Entre hombre y mujer
+343;06 Badajoz;2007;2892;Entre hombre y mujer
+344;06 Badajoz;2006;3083;Entre hombre y mujer
+345;06 Badajoz;2005;3050;Entre hombre y mujer
+346;06 Badajoz;2004;3158;Entre hombre y mujer
+347;06 Badajoz;2003;3193;Entre hombre y mujer
+348;06 Badajoz;2002;3148;Entre hombre y mujer
+349;06 Badajoz;2001;3304;Entre hombre y mujer
+350;06 Badajoz;2000;3442;Entre hombre y mujer
+351;06 Badajoz;1999;3206;Entre hombre y mujer
+352;06 Badajoz;1998;3194;Entre hombre y mujer
+353;06 Badajoz;1997;3128;Entre hombre y mujer
+354;06 Badajoz;1996;2966;Entre hombre y mujer
+355;06 Badajoz;1995;3278;Entre hombre y mujer
+356;06 Badajoz;1994;3161;Entre hombre y mujer
+357;06 Badajoz;1993;3373;Entre hombre y mujer
+358;06 Badajoz;1992;3712;Entre hombre y mujer
+359;06 Badajoz;1991;3775;Entre hombre y mujer
+360;06 Badajoz;1990;3779;Entre hombre y mujer
+361;06 Badajoz;1989;3900;Entre hombre y mujer
+362;06 Badajoz;1988;3871;Entre hombre y mujer
+363;06 Badajoz;1987;3929;Entre hombre y mujer
+364;06 Badajoz;1986;4099;Entre hombre y mujer
+365;06 Badajoz;1985;3815;Entre hombre y mujer
+366;06 Badajoz;1984;3788;Entre hombre y mujer
+367;06 Badajoz;1983;3849;Entre hombre y mujer
+368;06 Badajoz;1982;3840;Entre hombre y mujer
+369;06 Badajoz;1981;3874;Entre hombre y mujer
+370;06 Badajoz;1980;3943;Entre hombre y mujer
+371;06 Badajoz;1979;4044;Entre hombre y mujer
+372;06 Badajoz;1978;4079;Entre hombre y mujer
+373;06 Badajoz;1977;3830;Entre hombre y mujer
+374;06 Badajoz;1976;3885;Entre hombre y mujer
+375;06 Badajoz;1975;3687;Entre hombre y mujer
+376;07 Balears, Illes;2021;4166;Entre hombre y mujer
+377;07 Balears, Illes;2020;2847;Entre hombre y mujer
+378;07 Balears, Illes;2019;4880;Entre hombre y mujer
+379;07 Balears, Illes;2018;4615;Entre hombre y mujer
+380;07 Balears, Illes;2017;4570;Entre hombre y mujer
+381;07 Balears, Illes;2016;4593;Entre hombre y mujer
+382;07 Balears, Illes;2015;4496;Entre hombre y mujer
+383;07 Balears, Illes;2014;4104;Entre hombre y mujer
+384;07 Balears, Illes;2013;3942;Entre hombre y mujer
+385;07 Balears, Illes;2012;3925;Entre hombre y mujer
+386;07 Balears, Illes;2011;3950;Entre hombre y mujer
+387;07 Balears, Illes;2010;3947;Entre hombre y mujer
+388;07 Balears, Illes;2009;4151;Entre hombre y mujer
+389;07 Balears, Illes;2008;4138;Entre hombre y mujer
+390;07 Balears, Illes;2007;4345;Entre hombre y mujer
+391;07 Balears, Illes;2006;4260;Entre hombre y mujer
+392;07 Balears, Illes;2005;4267;Entre hombre y mujer
+393;07 Balears, Illes;2004;4555;Entre hombre y mujer
+394;07 Balears, Illes;2003;4651;Entre hombre y mujer
+395;07 Balears, Illes;2002;4581;Entre hombre y mujer
+396;07 Balears, Illes;2001;4326;Entre hombre y mujer
+397;07 Balears, Illes;2000;4499;Entre hombre y mujer
+398;07 Balears, Illes;1999;4503;Entre hombre y mujer
+399;07 Balears, Illes;1998;4402;Entre hombre y mujer
+400;07 Balears, Illes;1997;4116;Entre hombre y mujer
+401;07 Balears, Illes;1996;4143;Entre hombre y mujer
+402;07 Balears, Illes;1995;4100;Entre hombre y mujer
+403;07 Balears, Illes;1994;4215;Entre hombre y mujer
+404;07 Balears, Illes;1993;4090;Entre hombre y mujer
+405;07 Balears, Illes;1992;4336;Entre hombre y mujer
+406;07 Balears, Illes;1991;4413;Entre hombre y mujer
+407;07 Balears, Illes;1990;4606;Entre hombre y mujer
+408;07 Balears, Illes;1989;4740;Entre hombre y mujer
+409;07 Balears, Illes;1988;4557;Entre hombre y mujer
+410;07 Balears, Illes;1987;4304;Entre hombre y mujer
+411;07 Balears, Illes;1986;4164;Entre hombre y mujer
+412;07 Balears, Illes;1985;4014;Entre hombre y mujer
+413;07 Balears, Illes;1984;4082;Entre hombre y mujer
+414;07 Balears, Illes;1983;4028;Entre hombre y mujer
+415;07 Balears, Illes;1982;3748;Entre hombre y mujer
+416;07 Balears, Illes;1981;3484;Entre hombre y mujer
+417;07 Balears, Illes;1980;3882;Entre hombre y mujer
+418;07 Balears, Illes;1979;4366;Entre hombre y mujer
+419;07 Balears, Illes;1978;4329;Entre hombre y mujer
+420;07 Balears, Illes;1977;4499;Entre hombre y mujer
+421;07 Balears, Illes;1976;4718;Entre hombre y mujer
+422;07 Balears, Illes;1975;4959;Entre hombre y mujer
+423;08 Barcelona;2021;16506;Entre hombre y mujer
+424;08 Barcelona;2020;10954;Entre hombre y mujer
+425;08 Barcelona;2019;19122;Entre hombre y mujer
+426;08 Barcelona;2018;20014;Entre hombre y mujer
+427;08 Barcelona;2017;21223;Entre hombre y mujer
+428;08 Barcelona;2016;21230;Entre hombre y mujer
+429;08 Barcelona;2015;19812;Entre hombre y mujer
+430;08 Barcelona;2014;19181;Entre hombre y mujer
+431;08 Barcelona;2013;18795;Entre hombre y mujer
+432;08 Barcelona;2012;19757;Entre hombre y mujer
+433;08 Barcelona;2011;19066;Entre hombre y mujer
+434;08 Barcelona;2010;20162;Entre hombre y mujer
+435;08 Barcelona;2009;20303;Entre hombre y mujer
+436;08 Barcelona;2008;22430;Entre hombre y mujer
+437;08 Barcelona;2007;22382;Entre hombre y mujer
+438;08 Barcelona;2006;22831;Entre hombre y mujer
+439;08 Barcelona;2005;24133;Entre hombre y mujer
+440;08 Barcelona;2004;25101;Entre hombre y mujer
+441;08 Barcelona;2003;24352;Entre hombre y mujer
+442;08 Barcelona;2002;24931;Entre hombre y mujer
+443;08 Barcelona;2001;24759;Entre hombre y mujer
+444;08 Barcelona;2000;25982;Entre hombre y mujer
+445;08 Barcelona;1999;24978;Entre hombre y mujer
+446;08 Barcelona;1998;25743;Entre hombre y mujer
+447;08 Barcelona;1997;24194;Entre hombre y mujer
+448;08 Barcelona;1996;24334;Entre hombre y mujer
+449;08 Barcelona;1995;24903;Entre hombre y mujer
+450;08 Barcelona;1994;24420;Entre hombre y mujer
+451;08 Barcelona;1993;24710;Entre hombre y mujer
+452;08 Barcelona;1992;26050;Entre hombre y mujer
+453;08 Barcelona;1991;26766;Entre hombre y mujer
+454;08 Barcelona;1990;26054;Entre hombre y mujer
+455;08 Barcelona;1989;26130;Entre hombre y mujer
+456;08 Barcelona;1988;25484;Entre hombre y mujer
+457;08 Barcelona;1987;24552;Entre hombre y mujer
+458;08 Barcelona;1986;23547;Entre hombre y mujer
+459;08 Barcelona;1985;23470;Entre hombre y mujer
+460;08 Barcelona;1984;21588;Entre hombre y mujer
+461;08 Barcelona;1983;19355;Entre hombre y mujer
+462;08 Barcelona;1982;20317;Entre hombre y mujer
+463;08 Barcelona;1981;20196;Entre hombre y mujer
+464;08 Barcelona;1980;22533;Entre hombre y mujer
+465;08 Barcelona;1979;27219;Entre hombre y mujer
+466;08 Barcelona;1978;30602;Entre hombre y mujer
+467;08 Barcelona;1977;33446;Entre hombre y mujer
+468;08 Barcelona;1976;35229;Entre hombre y mujer
+469;08 Barcelona;1975;36251;Entre hombre y mujer
+470;48 Bizkaia;2021;2840;Entre hombre y mujer
+471;48 Bizkaia;2020;1881;Entre hombre y mujer
+472;48 Bizkaia;2019;3529;Entre hombre y mujer
+473;48 Bizkaia;2018;3561;Entre hombre y mujer
+474;48 Bizkaia;2017;3790;Entre hombre y mujer
+475;48 Bizkaia;2016;3777;Entre hombre y mujer
+476;48 Bizkaia;2015;3608;Entre hombre y mujer
+477;48 Bizkaia;2014;3599;Entre hombre y mujer
+478;48 Bizkaia;2013;3632;Entre hombre y mujer
+479;48 Bizkaia;2012;4094;Entre hombre y mujer
+480;48 Bizkaia;2011;4204;Entre hombre y mujer
+481;48 Bizkaia;2010;4297;Entre hombre y mujer
+482;48 Bizkaia;2009;4307;Entre hombre y mujer
+483;48 Bizkaia;2008;4731;Entre hombre y mujer
+484;48 Bizkaia;2007;4753;Entre hombre y mujer
+485;48 Bizkaia;2006;4740;Entre hombre y mujer
+486;48 Bizkaia;2005;4979;Entre hombre y mujer
+487;48 Bizkaia;2004;5155;Entre hombre y mujer
+488;48 Bizkaia;2003;5163;Entre hombre y mujer
+489;48 Bizkaia;2002;5152;Entre hombre y mujer
+490;48 Bizkaia;2001;5206;Entre hombre y mujer
+491;48 Bizkaia;2000;5576;Entre hombre y mujer
+492;48 Bizkaia;1999;5220;Entre hombre y mujer
+493;48 Bizkaia;1998;5357;Entre hombre y mujer
+494;48 Bizkaia;1997;5033;Entre hombre y mujer
+495;48 Bizkaia;1996;4909;Entre hombre y mujer
+496;48 Bizkaia;1995;4975;Entre hombre y mujer
+497;48 Bizkaia;1994;5042;Entre hombre y mujer
+498;48 Bizkaia;1993;5176;Entre hombre y mujer
+499;48 Bizkaia;1992;5639;Entre hombre y mujer
+500;48 Bizkaia;1991;5441;Entre hombre y mujer
+501;48 Bizkaia;1990;5368;Entre hombre y mujer
+502;48 Bizkaia;1989;5393;Entre hombre y mujer
+503;48 Bizkaia;1988;5367;Entre hombre y mujer
+504;48 Bizkaia;1987;5494;Entre hombre y mujer
+505;48 Bizkaia;1986;5647;Entre hombre y mujer
+506;48 Bizkaia;1985;5365;Entre hombre y mujer
+507;48 Bizkaia;1984;5788;Entre hombre y mujer
+508;48 Bizkaia;1983;5932;Entre hombre y mujer
+509;48 Bizkaia;1982;6535;Entre hombre y mujer
+510;48 Bizkaia;1981;6358;Entre hombre y mujer
+511;48 Bizkaia;1980;7295;Entre hombre y mujer
+512;48 Bizkaia;1979;7825;Entre hombre y mujer
+513;48 Bizkaia;1978;8613;Entre hombre y mujer
+514;48 Bizkaia;1977;9128;Entre hombre y mujer
+515;48 Bizkaia;1976;8914;Entre hombre y mujer
+516;48 Bizkaia;1975;9659;Entre hombre y mujer
+517;09 Burgos;2021;950;Entre hombre y mujer
+518;09 Burgos;2020;514;Entre hombre y mujer
+519;09 Burgos;2019;1051;Entre hombre y mujer
+520;09 Burgos;2018;1050;Entre hombre y mujer
+521;09 Burgos;2017;1129;Entre hombre y mujer
+522;09 Burgos;2016;1082;Entre hombre y mujer
+523;09 Burgos;2015;1098;Entre hombre y mujer
+524;09 Burgos;2014;1043;Entre hombre y mujer
+525;09 Burgos;2013;1047;Entre hombre y mujer
+526;09 Burgos;2012;1192;Entre hombre y mujer
+527;09 Burgos;2011;1137;Entre hombre y mujer
+528;09 Burgos;2010;1287;Entre hombre y mujer
+529;09 Burgos;2009;1245;Entre hombre y mujer
+530;09 Burgos;2008;1365;Entre hombre y mujer
+531;09 Burgos;2007;1447;Entre hombre y mujer
+532;09 Burgos;2006;1407;Entre hombre y mujer
+533;09 Burgos;2005;1430;Entre hombre y mujer
+534;09 Burgos;2004;1596;Entre hombre y mujer
+535;09 Burgos;2003;1635;Entre hombre y mujer
+536;09 Burgos;2002;1540;Entre hombre y mujer
+537;09 Burgos;2001;1388;Entre hombre y mujer
+538;09 Burgos;2000;1556;Entre hombre y mujer
+539;09 Burgos;1999;1402;Entre hombre y mujer
+540;09 Burgos;1998;1497;Entre hombre y mujer
+541;09 Burgos;1997;1427;Entre hombre y mujer
+542;09 Burgos;1996;1443;Entre hombre y mujer
+543;09 Burgos;1995;1535;Entre hombre y mujer
+544;09 Burgos;1994;1538;Entre hombre y mujer
+545;09 Burgos;1993;1433;Entre hombre y mujer
+546;09 Burgos;1992;1669;Entre hombre y mujer
+547;09 Burgos;1991;1594;Entre hombre y mujer
+548;09 Burgos;1990;1533;Entre hombre y mujer
+549;09 Burgos;1989;1652;Entre hombre y mujer
+550;09 Burgos;1988;1663;Entre hombre y mujer
+551;09 Burgos;1987;1677;Entre hombre y mujer
+552;09 Burgos;1986;1711;Entre hombre y mujer
+553;09 Burgos;1985;1682;Entre hombre y mujer
+554;09 Burgos;1984;1632;Entre hombre y mujer
+555;09 Burgos;1983;1737;Entre hombre y mujer
+556;09 Burgos;1982;1597;Entre hombre y mujer
+557;09 Burgos;1981;1682;Entre hombre y mujer
+558;09 Burgos;1980;1805;Entre hombre y mujer
+559;09 Burgos;1979;1902;Entre hombre y mujer
+560;09 Burgos;1978;2122;Entre hombre y mujer
+561;09 Burgos;1977;2078;Entre hombre y mujer
+562;09 Burgos;1976;2007;Entre hombre y mujer
+563;09 Burgos;1975;2463;Entre hombre y mujer
+564;10 Cáceres;2021;951;Entre hombre y mujer
+565;10 Cáceres;2020;552;Entre hombre y mujer
+566;10 Cáceres;2019;1112;Entre hombre y mujer
+567;10 Cáceres;2018;1110;Entre hombre y mujer
+568;10 Cáceres;2017;1159;Entre hombre y mujer
+569;10 Cáceres;2016;1274;Entre hombre y mujer
+570;10 Cáceres;2015;1172;Entre hombre y mujer
+571;10 Cáceres;2014;1138;Entre hombre y mujer
+572;10 Cáceres;2013;1066;Entre hombre y mujer
+573;10 Cáceres;2012;1192;Entre hombre y mujer
+574;10 Cáceres;2011;1143;Entre hombre y mujer
+575;10 Cáceres;2010;1167;Entre hombre y mujer
+576;10 Cáceres;2009;1346;Entre hombre y mujer
+577;10 Cáceres;2008;1481;Entre hombre y mujer
+578;10 Cáceres;2007;1527;Entre hombre y mujer
+579;10 Cáceres;2006;1588;Entre hombre y mujer
+580;10 Cáceres;2005;1537;Entre hombre y mujer
+581;10 Cáceres;2004;1678;Entre hombre y mujer
+582;10 Cáceres;2003;1677;Entre hombre y mujer
+583;10 Cáceres;2002;1631;Entre hombre y mujer
+584;10 Cáceres;2001;1673;Entre hombre y mujer
+585;10 Cáceres;2000;1926;Entre hombre y mujer
+586;10 Cáceres;1999;1854;Entre hombre y mujer
+587;10 Cáceres;1998;1818;Entre hombre y mujer
+588;10 Cáceres;1997;1827;Entre hombre y mujer
+589;10 Cáceres;1996;1795;Entre hombre y mujer
+590;10 Cáceres;1995;1749;Entre hombre y mujer
+591;10 Cáceres;1994;1920;Entre hombre y mujer
+592;10 Cáceres;1993;1945;Entre hombre y mujer
+593;10 Cáceres;1992;2165;Entre hombre y mujer
+594;10 Cáceres;1991;2125;Entre hombre y mujer
+595;10 Cáceres;1990;2246;Entre hombre y mujer
+596;10 Cáceres;1989;2270;Entre hombre y mujer
+597;10 Cáceres;1988;2313;Entre hombre y mujer
+598;10 Cáceres;1987;2499;Entre hombre y mujer
+599;10 Cáceres;1986;2476;Entre hombre y mujer
+600;10 Cáceres;1985;2318;Entre hombre y mujer
+601;10 Cáceres;1984;2467;Entre hombre y mujer
+602;10 Cáceres;1983;2411;Entre hombre y mujer
+603;10 Cáceres;1982;2356;Entre hombre y mujer
+604;10 Cáceres;1981;2459;Entre hombre y mujer
+605;10 Cáceres;1980;2511;Entre hombre y mujer
+606;10 Cáceres;1979;2649;Entre hombre y mujer
+607;10 Cáceres;1978;2519;Entre hombre y mujer
+608;10 Cáceres;1977;2542;Entre hombre y mujer
+609;10 Cáceres;1976;2345;Entre hombre y mujer
+610;10 Cáceres;1975;2252;Entre hombre y mujer
+611;11 Cádiz;2021;4221;Entre hombre y mujer
+612;11 Cádiz;2020;2408;Entre hombre y mujer
+613;11 Cádiz;2019;4900;Entre hombre y mujer
+614;11 Cádiz;2018;4446;Entre hombre y mujer
+615;11 Cádiz;2017;4708;Entre hombre y mujer
+616;11 Cádiz;2016;4703;Entre hombre y mujer
+617;11 Cádiz;2015;4573;Entre hombre y mujer
+618;11 Cádiz;2014;4251;Entre hombre y mujer
+619;11 Cádiz;2013;3911;Entre hombre y mujer
+620;11 Cádiz;2012;4383;Entre hombre y mujer
+621;11 Cádiz;2011;4054;Entre hombre y mujer
+622;11 Cádiz;2010;4263;Entre hombre y mujer
+623;11 Cádiz;2009;4635;Entre hombre y mujer
+624;11 Cádiz;2008;5587;Entre hombre y mujer
+625;11 Cádiz;2007;5892;Entre hombre y mujer
+626;11 Cádiz;2006;6253;Entre hombre y mujer
+627;11 Cádiz;2005;6728;Entre hombre y mujer
+628;11 Cádiz;2004;6779;Entre hombre y mujer
+629;11 Cádiz;2003;6604;Entre hombre y mujer
+630;11 Cádiz;2002;6521;Entre hombre y mujer
+631;11 Cádiz;2001;6360;Entre hombre y mujer
+632;11 Cádiz;2000;6519;Entre hombre y mujer
+633;11 Cádiz;1999;6105;Entre hombre y mujer
+634;11 Cádiz;1998;5819;Entre hombre y mujer
+635;11 Cádiz;1997;5596;Entre hombre y mujer
+636;11 Cádiz;1996;5587;Entre hombre y mujer
+637;11 Cádiz;1995;5835;Entre hombre y mujer
+638;11 Cádiz;1994;5827;Entre hombre y mujer
+639;11 Cádiz;1993;5582;Entre hombre y mujer
+640;11 Cádiz;1992;6332;Entre hombre y mujer
+641;11 Cádiz;1991;6614;Entre hombre y mujer
+642;11 Cádiz;1990;6848;Entre hombre y mujer
+643;11 Cádiz;1989;6614;Entre hombre y mujer
+644;11 Cádiz;1988;6443;Entre hombre y mujer
+645;11 Cádiz;1987;6659;Entre hombre y mujer
+646;11 Cádiz;1986;6561;Entre hombre y mujer
+647;11 Cádiz;1985;6139;Entre hombre y mujer
+648;11 Cádiz;1984;6316;Entre hombre y mujer
+649;11 Cádiz;1983;6550;Entre hombre y mujer
+650;11 Cádiz;1982;6207;Entre hombre y mujer
+651;11 Cádiz;1981;6655;Entre hombre y mujer
+652;11 Cádiz;1980;6992;Entre hombre y mujer
+653;11 Cádiz;1979;7176;Entre hombre y mujer
+654;11 Cádiz;1978;7581;Entre hombre y mujer
+655;11 Cádiz;1977;7474;Entre hombre y mujer
+656;11 Cádiz;1976;7359;Entre hombre y mujer
+657;11 Cádiz;1975;7202;Entre hombre y mujer
+658;39 Cantabria;2021;1836;Entre hombre y mujer
+659;39 Cantabria;2020;1111;Entre hombre y mujer
+660;39 Cantabria;2019;1951;Entre hombre y mujer
+661;39 Cantabria;2018;2067;Entre hombre y mujer
+662;39 Cantabria;2017;2079;Entre hombre y mujer
+663;39 Cantabria;2016;2228;Entre hombre y mujer
+664;39 Cantabria;2015;2124;Entre hombre y mujer
+665;39 Cantabria;2014;2069;Entre hombre y mujer
+666;39 Cantabria;2013;1936;Entre hombre y mujer
+667;39 Cantabria;2012;2326;Entre hombre y mujer
+668;39 Cantabria;2011;2184;Entre hombre y mujer
+669;39 Cantabria;2010;2500;Entre hombre y mujer
+670;39 Cantabria;2009;2581;Entre hombre y mujer
+671;39 Cantabria;2008;2936;Entre hombre y mujer
+672;39 Cantabria;2007;2948;Entre hombre y mujer
+673;39 Cantabria;2006;2822;Entre hombre y mujer
+674;39 Cantabria;2005;2876;Entre hombre y mujer
+675;39 Cantabria;2004;2902;Entre hombre y mujer
+676;39 Cantabria;2003;2864;Entre hombre y mujer
+677;39 Cantabria;2002;2897;Entre hombre y mujer
+678;39 Cantabria;2001;2742;Entre hombre y mujer
+679;39 Cantabria;2000;2728;Entre hombre y mujer
+680;39 Cantabria;1999;2611;Entre hombre y mujer
+681;39 Cantabria;1998;2521;Entre hombre y mujer
+682;39 Cantabria;1997;2353;Entre hombre y mujer
+683;39 Cantabria;1996;2369;Entre hombre y mujer
+684;39 Cantabria;1995;2266;Entre hombre y mujer
+685;39 Cantabria;1994;2302;Entre hombre y mujer
+686;39 Cantabria;1993;2310;Entre hombre y mujer
+687;39 Cantabria;1992;2572;Entre hombre y mujer
+688;39 Cantabria;1991;2530;Entre hombre y mujer
+689;39 Cantabria;1990;2694;Entre hombre y mujer
+690;39 Cantabria;1989;2692;Entre hombre y mujer
+691;39 Cantabria;1988;2665;Entre hombre y mujer
+692;39 Cantabria;1987;2496;Entre hombre y mujer
+693;39 Cantabria;1986;2570;Entre hombre y mujer
+694;39 Cantabria;1985;2605;Entre hombre y mujer
+695;39 Cantabria;1984;2796;Entre hombre y mujer
+696;39 Cantabria;1983;2807;Entre hombre y mujer
+697;39 Cantabria;1982;2931;Entre hombre y mujer
+698;39 Cantabria;1981;2950;Entre hombre y mujer
+699;39 Cantabria;1980;3255;Entre hombre y mujer
+700;39 Cantabria;1979;3472;Entre hombre y mujer
+701;39 Cantabria;1978;3703;Entre hombre y mujer
+702;39 Cantabria;1977;3924;Entre hombre y mujer
+703;39 Cantabria;1976;3733;Entre hombre y mujer
+704;39 Cantabria;1975;3767;Entre hombre y mujer
+705;12 Castellón/Castelló;2021;1843;Entre hombre y mujer
+706;12 Castellón/Castelló;2020;1123;Entre hombre y mujer
+707;12 Castellón/Castelló;2019;2029;Entre hombre y mujer
+708;12 Castellón/Castelló;2018;1892;Entre hombre y mujer
+709;12 Castellón/Castelló;2017;2022;Entre hombre y mujer
+710;12 Castellón/Castelló;2016;2007;Entre hombre y mujer
+711;12 Castellón/Castelló;2015;1992;Entre hombre y mujer
+712;12 Castellón/Castelló;2014;1922;Entre hombre y mujer
+713;12 Castellón/Castelló;2013;1763;Entre hombre y mujer
+714;12 Castellón/Castelló;2012;1880;Entre hombre y mujer
+715;12 Castellón/Castelló;2011;1805;Entre hombre y mujer
+716;12 Castellón/Castelló;2010;2037;Entre hombre y mujer
+717;12 Castellón/Castelló;2009;2135;Entre hombre y mujer
+718;12 Castellón/Castelló;2008;2484;Entre hombre y mujer
+719;12 Castellón/Castelló;2007;2695;Entre hombre y mujer
+720;12 Castellón/Castelló;2006;2638;Entre hombre y mujer
+721;12 Castellón/Castelló;2005;2708;Entre hombre y mujer
+722;12 Castellón/Castelló;2004;2814;Entre hombre y mujer
+723;12 Castellón/Castelló;2003;2863;Entre hombre y mujer
+724;12 Castellón/Castelló;2002;2784;Entre hombre y mujer
+725;12 Castellón/Castelló;2001;2672;Entre hombre y mujer
+726;12 Castellón/Castelló;2000;2865;Entre hombre y mujer
+727;12 Castellón/Castelló;1999;2614;Entre hombre y mujer
+728;12 Castellón/Castelló;1998;2640;Entre hombre y mujer
+729;12 Castellón/Castelló;1997;2359;Entre hombre y mujer
+730;12 Castellón/Castelló;1996;2514;Entre hombre y mujer
+731;12 Castellón/Castelló;1995;2492;Entre hombre y mujer
+732;12 Castellón/Castelló;1994;2482;Entre hombre y mujer
+733;12 Castellón/Castelló;1993;2347;Entre hombre y mujer
+734;12 Castellón/Castelló;1992;2613;Entre hombre y mujer
+735;12 Castellón/Castelló;1991;2531;Entre hombre y mujer
+736;12 Castellón/Castelló;1990;2481;Entre hombre y mujer
+737;12 Castellón/Castelló;1989;2622;Entre hombre y mujer
+738;12 Castellón/Castelló;1988;2533;Entre hombre y mujer
+739;12 Castellón/Castelló;1987;2512;Entre hombre y mujer
+740;12 Castellón/Castelló;1986;2417;Entre hombre y mujer
+741;12 Castellón/Castelló;1985;2288;Entre hombre y mujer
+742;12 Castellón/Castelló;1984;2466;Entre hombre y mujer
+743;12 Castellón/Castelló;1983;2407;Entre hombre y mujer
+744;12 Castellón/Castelló;1982;2484;Entre hombre y mujer
+745;12 Castellón/Castelló;1981;2421;Entre hombre y mujer
+746;12 Castellón/Castelló;1980;2248;Entre hombre y mujer
+747;12 Castellón/Castelló;1979;2836;Entre hombre y mujer
+748;12 Castellón/Castelló;1978;2990;Entre hombre y mujer
+749;12 Castellón/Castelló;1977;2909;Entre hombre y mujer
+750;12 Castellón/Castelló;1976;2841;Entre hombre y mujer
+751;12 Castellón/Castelló;1975;3105;Entre hombre y mujer
+752;13 Ciudad Real;2021;1478;Entre hombre y mujer
+753;13 Ciudad Real;2020;654;Entre hombre y mujer
+754;13 Ciudad Real;2019;1643;Entre hombre y mujer
+755;13 Ciudad Real;2018;1698;Entre hombre y mujer
+756;13 Ciudad Real;2017;1659;Entre hombre y mujer
+757;13 Ciudad Real;2016;1722;Entre hombre y mujer
+758;13 Ciudad Real;2015;1651;Entre hombre y mujer
+759;13 Ciudad Real;2014;1557;Entre hombre y mujer
+760;13 Ciudad Real;2013;1527;Entre hombre y mujer
+761;13 Ciudad Real;2012;1731;Entre hombre y mujer
+762;13 Ciudad Real;2011;1633;Entre hombre y mujer
+763;13 Ciudad Real;2010;1748;Entre hombre y mujer
+764;13 Ciudad Real;2009;1918;Entre hombre y mujer
+765;13 Ciudad Real;2008;2228;Entre hombre y mujer
+766;13 Ciudad Real;2007;2321;Entre hombre y mujer
+767;13 Ciudad Real;2006;2257;Entre hombre y mujer
+768;13 Ciudad Real;2005;2330;Entre hombre y mujer
+769;13 Ciudad Real;2004;2309;Entre hombre y mujer
+770;13 Ciudad Real;2003;2218;Entre hombre y mujer
+771;13 Ciudad Real;2002;2192;Entre hombre y mujer
+772;13 Ciudad Real;2001;2290;Entre hombre y mujer
+773;13 Ciudad Real;2000;2391;Entre hombre y mujer
+774;13 Ciudad Real;1999;2262;Entre hombre y mujer
+775;13 Ciudad Real;1998;2281;Entre hombre y mujer
+776;13 Ciudad Real;1997;2189;Entre hombre y mujer
+777;13 Ciudad Real;1996;2294;Entre hombre y mujer
+778;13 Ciudad Real;1995;2329;Entre hombre y mujer
+779;13 Ciudad Real;1994;2415;Entre hombre y mujer
+780;13 Ciudad Real;1993;2650;Entre hombre y mujer
+781;13 Ciudad Real;1992;2865;Entre hombre y mujer
+782;13 Ciudad Real;1991;2812;Entre hombre y mujer
+783;13 Ciudad Real;1990;3014;Entre hombre y mujer
+784;13 Ciudad Real;1989;3114;Entre hombre y mujer
+785;13 Ciudad Real;1988;3079;Entre hombre y mujer
+786;13 Ciudad Real;1987;2946;Entre hombre y mujer
+787;13 Ciudad Real;1986;2926;Entre hombre y mujer
+788;13 Ciudad Real;1985;2783;Entre hombre y mujer
+789;13 Ciudad Real;1984;2789;Entre hombre y mujer
+790;13 Ciudad Real;1983;2920;Entre hombre y mujer
+791;13 Ciudad Real;1982;2729;Entre hombre y mujer
+792;13 Ciudad Real;1981;2925;Entre hombre y mujer
+793;13 Ciudad Real;1980;2843;Entre hombre y mujer
+794;13 Ciudad Real;1979;2879;Entre hombre y mujer
+795;13 Ciudad Real;1978;2784;Entre hombre y mujer
+796;13 Ciudad Real;1977;2824;Entre hombre y mujer
+797;13 Ciudad Real;1976;2670;Entre hombre y mujer
+798;13 Ciudad Real;1975;2694;Entre hombre y mujer
+799;14 Córdoba;2021;2246;Entre hombre y mujer
+800;14 Córdoba;2020;1193;Entre hombre y mujer
+801;14 Córdoba;2019;2750;Entre hombre y mujer
+802;14 Córdoba;2018;2769;Entre hombre y mujer
+803;14 Córdoba;2017;2841;Entre hombre y mujer
+804;14 Córdoba;2016;2952;Entre hombre y mujer
+805;14 Córdoba;2015;2701;Entre hombre y mujer
+806;14 Córdoba;2014;2550;Entre hombre y mujer
+807;14 Córdoba;2013;2336;Entre hombre y mujer
+808;14 Córdoba;2012;2708;Entre hombre y mujer
+809;14 Córdoba;2011;2760;Entre hombre y mujer
+810;14 Córdoba;2010;2911;Entre hombre y mujer
+811;14 Córdoba;2009;3290;Entre hombre y mujer
+812;14 Córdoba;2008;3893;Entre hombre y mujer
+813;14 Córdoba;2007;3971;Entre hombre y mujer
+814;14 Córdoba;2006;4042;Entre hombre y mujer
+815;14 Córdoba;2005;3979;Entre hombre y mujer
+816;14 Córdoba;2004;4057;Entre hombre y mujer
+817;14 Córdoba;2003;4160;Entre hombre y mujer
+818;14 Córdoba;2002;4082;Entre hombre y mujer
+819;14 Córdoba;2001;4226;Entre hombre y mujer
+820;14 Córdoba;2000;4362;Entre hombre y mujer
+821;14 Córdoba;1999;4203;Entre hombre y mujer
+822;14 Córdoba;1998;4134;Entre hombre y mujer
+823;14 Córdoba;1997;3836;Entre hombre y mujer
+824;14 Córdoba;1996;3867;Entre hombre y mujer
+825;14 Córdoba;1995;4133;Entre hombre y mujer
+826;14 Córdoba;1994;4219;Entre hombre y mujer
+827;14 Córdoba;1993;4165;Entre hombre y mujer
+828;14 Córdoba;1992;4722;Entre hombre y mujer
+829;14 Córdoba;1991;4778;Entre hombre y mujer
+830;14 Córdoba;1990;5044;Entre hombre y mujer
+831;14 Córdoba;1989;5093;Entre hombre y mujer
+832;14 Córdoba;1988;5041;Entre hombre y mujer
+833;14 Córdoba;1987;4984;Entre hombre y mujer
+834;14 Córdoba;1986;4875;Entre hombre y mujer
+835;14 Córdoba;1985;4563;Entre hombre y mujer
+836;14 Córdoba;1984;4597;Entre hombre y mujer
+837;14 Córdoba;1983;4741;Entre hombre y mujer
+838;14 Córdoba;1982;4560;Entre hombre y mujer
+839;14 Córdoba;1981;4281;Entre hombre y mujer
+840;14 Córdoba;1980;4667;Entre hombre y mujer
+841;14 Córdoba;1979;4781;Entre hombre y mujer
+842;14 Córdoba;1978;4852;Entre hombre y mujer
+843;14 Córdoba;1977;4563;Entre hombre y mujer
+844;14 Córdoba;1976;4769;Entre hombre y mujer
+845;14 Córdoba;1975;4731;Entre hombre y mujer
+846;15 Coruña, A;2021;3577;Entre hombre y mujer
+847;15 Coruña, A;2020;2400;Entre hombre y mujer
+848;15 Coruña, A;2019;4034;Entre hombre y mujer
+849;15 Coruña, A;2018;3879;Entre hombre y mujer
+850;15 Coruña, A;2017;4055;Entre hombre y mujer
+851;15 Coruña, A;2016;4120;Entre hombre y mujer
+852;15 Coruña, A;2015;4120;Entre hombre y mujer
+853;15 Coruña, A;2014;3963;Entre hombre y mujer
+854;15 Coruña, A;2013;3789;Entre hombre y mujer
+855;15 Coruña, A;2012;4292;Entre hombre y mujer
+856;15 Coruña, A;2011;4077;Entre hombre y mujer
+857;15 Coruña, A;2010;4290;Entre hombre y mujer
+858;15 Coruña, A;2009;4397;Entre hombre y mujer
+859;15 Coruña, A;2008;4741;Entre hombre y mujer
+860;15 Coruña, A;2007;4749;Entre hombre y mujer
+861;15 Coruña, A;2006;4776;Entre hombre y mujer
+862;15 Coruña, A;2005;4683;Entre hombre y mujer
+863;15 Coruña, A;2004;4899;Entre hombre y mujer
+864;15 Coruña, A;2003;4745;Entre hombre y mujer
+865;15 Coruña, A;2002;4874;Entre hombre y mujer
+866;15 Coruña, A;2001;4651;Entre hombre y mujer
+867;15 Coruña, A;2000;5039;Entre hombre y mujer
+868;15 Coruña, A;1999;4973;Entre hombre y mujer
+869;15 Coruña, A;1998;4823;Entre hombre y mujer
+870;15 Coruña, A;1997;4888;Entre hombre y mujer
+871;15 Coruña, A;1996;4851;Entre hombre y mujer
+872;15 Coruña, A;1995;4874;Entre hombre y mujer
+873;15 Coruña, A;1994;4851;Entre hombre y mujer
+874;15 Coruña, A;1993;5086;Entre hombre y mujer
+875;15 Coruña, A;1992;5506;Entre hombre y mujer
+876;15 Coruña, A;1991;5403;Entre hombre y mujer
+877;15 Coruña, A;1990;5683;Entre hombre y mujer
+878;15 Coruña, A;1989;5721;Entre hombre y mujer
+879;15 Coruña, A;1988;5805;Entre hombre y mujer
+880;15 Coruña, A;1987;5811;Entre hombre y mujer
+881;15 Coruña, A;1986;5544;Entre hombre y mujer
+882;15 Coruña, A;1985;5624;Entre hombre y mujer
+883;15 Coruña, A;1984;6046;Entre hombre y mujer
+884;15 Coruña, A;1983;5972;Entre hombre y mujer
+885;15 Coruña, A;1982;6133;Entre hombre y mujer
+886;15 Coruña, A;1981;4919;Entre hombre y mujer
+887;15 Coruña, A;1980;5374;Entre hombre y mujer
+888;15 Coruña, A;1979;7603;Entre hombre y mujer
+889;15 Coruña, A;1978;7808;Entre hombre y mujer
+890;15 Coruña, A;1977;7790;Entre hombre y mujer
+891;15 Coruña, A;1976;8024;Entre hombre y mujer
+892;15 Coruña, A;1975;7931;Entre hombre y mujer
+893;16 Cuenca;2021;490;Entre hombre y mujer
+894;16 Cuenca;2020;243;Entre hombre y mujer
+895;16 Cuenca;2019;547;Entre hombre y mujer
+896;16 Cuenca;2018;567;Entre hombre y mujer
+897;16 Cuenca;2017;489;Entre hombre y mujer
+898;16 Cuenca;2016;544;Entre hombre y mujer
+899;16 Cuenca;2015;582;Entre hombre y mujer
+900;16 Cuenca;2014;566;Entre hombre y mujer
+901;16 Cuenca;2013;553;Entre hombre y mujer
+902;16 Cuenca;2012;609;Entre hombre y mujer
+903;16 Cuenca;2011;557;Entre hombre y mujer
+904;16 Cuenca;2010;592;Entre hombre y mujer
+905;16 Cuenca;2009;572;Entre hombre y mujer
+906;16 Cuenca;2008;688;Entre hombre y mujer
+907;16 Cuenca;2007;699;Entre hombre y mujer
+908;16 Cuenca;2006;699;Entre hombre y mujer
+909;16 Cuenca;2005;738;Entre hombre y mujer
+910;16 Cuenca;2004;711;Entre hombre y mujer
+911;16 Cuenca;2003;752;Entre hombre y mujer
+912;16 Cuenca;2002;747;Entre hombre y mujer
+913;16 Cuenca;2001;733;Entre hombre y mujer
+914;16 Cuenca;2000;804;Entre hombre y mujer
+915;16 Cuenca;1999;799;Entre hombre y mujer
+916;16 Cuenca;1998;829;Entre hombre y mujer
+917;16 Cuenca;1997;776;Entre hombre y mujer
+918;16 Cuenca;1996;852;Entre hombre y mujer
+919;16 Cuenca;1995;896;Entre hombre y mujer
+920;16 Cuenca;1994;898;Entre hombre y mujer
+921;16 Cuenca;1993;877;Entre hombre y mujer
+922;16 Cuenca;1992;987;Entre hombre y mujer
+923;16 Cuenca;1991;1020;Entre hombre y mujer
+924;16 Cuenca;1990;994;Entre hombre y mujer
+925;16 Cuenca;1989;1163;Entre hombre y mujer
+926;16 Cuenca;1988;1093;Entre hombre y mujer
+927;16 Cuenca;1987;1104;Entre hombre y mujer
+928;16 Cuenca;1986;1125;Entre hombre y mujer
+929;16 Cuenca;1985;1044;Entre hombre y mujer
+930;16 Cuenca;1984;1085;Entre hombre y mujer
+931;16 Cuenca;1983;1182;Entre hombre y mujer
+932;16 Cuenca;1982;1087;Entre hombre y mujer
+933;16 Cuenca;1981;1043;Entre hombre y mujer
+934;16 Cuenca;1980;1096;Entre hombre y mujer
+935;16 Cuenca;1979;1054;Entre hombre y mujer
+936;16 Cuenca;1978;1100;Entre hombre y mujer
+937;16 Cuenca;1977;1113;Entre hombre y mujer
+938;16 Cuenca;1976;1077;Entre hombre y mujer
+939;16 Cuenca;1975;1077;Entre hombre y mujer
+940;20 Gipuzkoa;2021;2084;Entre hombre y mujer
+941;20 Gipuzkoa;2020;1332;Entre hombre y mujer
+942;20 Gipuzkoa;2019;2496;Entre hombre y mujer
+943;20 Gipuzkoa;2018;2484;Entre hombre y mujer
+944;20 Gipuzkoa;2017;2581;Entre hombre y mujer
+945;20 Gipuzkoa;2016;2492;Entre hombre y mujer
+946;20 Gipuzkoa;2015;2450;Entre hombre y mujer
+947;20 Gipuzkoa;2014;2504;Entre hombre y mujer
+948;20 Gipuzkoa;2013;2477;Entre hombre y mujer
+949;20 Gipuzkoa;2012;2659;Entre hombre y mujer
+950;20 Gipuzkoa;2011;2742;Entre hombre y mujer
+951;20 Gipuzkoa;2010;2825;Entre hombre y mujer
+952;20 Gipuzkoa;2009;2981;Entre hombre y mujer
+953;20 Gipuzkoa;2008;3068;Entre hombre y mujer
+954;20 Gipuzkoa;2007;3093;Entre hombre y mujer
+955;20 Gipuzkoa;2006;3191;Entre hombre y mujer
+956;20 Gipuzkoa;2005;3300;Entre hombre y mujer
+957;20 Gipuzkoa;2004;3511;Entre hombre y mujer
+958;20 Gipuzkoa;2003;3499;Entre hombre y mujer
+959;20 Gipuzkoa;2002;3435;Entre hombre y mujer
+960;20 Gipuzkoa;2001;3335;Entre hombre y mujer
+961;20 Gipuzkoa;2000;3480;Entre hombre y mujer
+962;20 Gipuzkoa;1999;3230;Entre hombre y mujer
+963;20 Gipuzkoa;1998;3280;Entre hombre y mujer
+964;20 Gipuzkoa;1997;3103;Entre hombre y mujer
+965;20 Gipuzkoa;1996;3147;Entre hombre y mujer
+966;20 Gipuzkoa;1995;3265;Entre hombre y mujer
+967;20 Gipuzkoa;1994;3131;Entre hombre y mujer
+968;20 Gipuzkoa;1993;3105;Entre hombre y mujer
+969;20 Gipuzkoa;1992;3434;Entre hombre y mujer
+970;20 Gipuzkoa;1991;3197;Entre hombre y mujer
+971;20 Gipuzkoa;1990;3319;Entre hombre y mujer
+972;20 Gipuzkoa;1989;3224;Entre hombre y mujer
+973;20 Gipuzkoa;1988;3058;Entre hombre y mujer
+974;20 Gipuzkoa;1987;3097;Entre hombre y mujer
+975;20 Gipuzkoa;1986;3036;Entre hombre y mujer
+976;20 Gipuzkoa;1985;2766;Entre hombre y mujer
+977;20 Gipuzkoa;1984;3189;Entre hombre y mujer
+978;20 Gipuzkoa;1983;3167;Entre hombre y mujer
+979;20 Gipuzkoa;1982;3450;Entre hombre y mujer
+980;20 Gipuzkoa;1981;2895;Entre hombre y mujer
+981;20 Gipuzkoa;1980;3257;Entre hombre y mujer
+982;20 Gipuzkoa;1979;3950;Entre hombre y mujer
+983;20 Gipuzkoa;1978;4419;Entre hombre y mujer
+984;20 Gipuzkoa;1977;4838;Entre hombre y mujer
+985;20 Gipuzkoa;1976;5434;Entre hombre y mujer
+986;20 Gipuzkoa;1975;5616;Entre hombre y mujer
+987;17 Girona;2021;2525;Entre hombre y mujer
+988;17 Girona;2020;1600;Entre hombre y mujer
+989;17 Girona;2019;2820;Entre hombre y mujer
+990;17 Girona;2018;2770;Entre hombre y mujer
+991;17 Girona;2017;2810;Entre hombre y mujer
+992;17 Girona;2016;2776;Entre hombre y mujer
+993;17 Girona;2015;2838;Entre hombre y mujer
+994;17 Girona;2014;2815;Entre hombre y mujer
+995;17 Girona;2013;2597;Entre hombre y mujer
+996;17 Girona;2012;2526;Entre hombre y mujer
+997;17 Girona;2011;2534;Entre hombre y mujer
+998;17 Girona;2010;2499;Entre hombre y mujer
+999;17 Girona;2009;2674;Entre hombre y mujer
+1000;17 Girona;2008;2840;Entre hombre y mujer
+1001;17 Girona;2007;2865;Entre hombre y mujer
+1002;17 Girona;2006;2853;Entre hombre y mujer
+1003;17 Girona;2005;2826;Entre hombre y mujer
+1004;17 Girona;2004;2940;Entre hombre y mujer
+1005;17 Girona;2003;2718;Entre hombre y mujer
+1006;17 Girona;2002;2597;Entre hombre y mujer
+1007;17 Girona;2001;2382;Entre hombre y mujer
+1008;17 Girona;2000;2387;Entre hombre y mujer
+1009;17 Girona;1999;2277;Entre hombre y mujer
+1010;17 Girona;1998;2417;Entre hombre y mujer
+1011;17 Girona;1997;2472;Entre hombre y mujer
+1012;17 Girona;1996;2514;Entre hombre y mujer
+1013;17 Girona;1995;2502;Entre hombre y mujer
+1014;17 Girona;1994;2545;Entre hombre y mujer
+1015;17 Girona;1993;2570;Entre hombre y mujer
+1016;17 Girona;1992;2884;Entre hombre y mujer
+1017;17 Girona;1991;2736;Entre hombre y mujer
+1018;17 Girona;1990;2842;Entre hombre y mujer
+1019;17 Girona;1989;2895;Entre hombre y mujer
+1020;17 Girona;1988;2780;Entre hombre y mujer
+1021;17 Girona;1987;2657;Entre hombre y mujer
+1022;17 Girona;1986;2626;Entre hombre y mujer
+1023;17 Girona;1985;2608;Entre hombre y mujer
+1024;17 Girona;1984;1218;Entre hombre y mujer
+1025;17 Girona;1983;1185;Entre hombre y mujer
+1026;17 Girona;1982;1093;Entre hombre y mujer
+1027;17 Girona;1981;2621;Entre hombre y mujer
+1028;17 Girona;1980;2981;Entre hombre y mujer
+1029;17 Girona;1979;3322;Entre hombre y mujer
+1030;17 Girona;1978;3529;Entre hombre y mujer
+1031;17 Girona;1977;3468;Entre hombre y mujer
+1032;17 Girona;1976;3423;Entre hombre y mujer
+1033;17 Girona;1975;3467;Entre hombre y mujer
+1034;18 Granada;2021;2764;Entre hombre y mujer
+1035;18 Granada;2020;1448;Entre hombre y mujer
+1036;18 Granada;2019;3078;Entre hombre y mujer
+1037;18 Granada;2018;2986;Entre hombre y mujer
+1038;18 Granada;2017;3125;Entre hombre y mujer
+1039;18 Granada;2016;3183;Entre hombre y mujer
+1040;18 Granada;2015;3137;Entre hombre y mujer
+1041;18 Granada;2014;3099;Entre hombre y mujer
+1042;18 Granada;2013;2747;Entre hombre y mujer
+1043;18 Granada;2012;3020;Entre hombre y mujer
+1044;18 Granada;2011;2814;Entre hombre y mujer
+1045;18 Granada;2010;2976;Entre hombre y mujer
+1046;18 Granada;2009;3201;Entre hombre y mujer
+1047;18 Granada;2008;3783;Entre hombre y mujer
+1048;18 Granada;2007;4177;Entre hombre y mujer
+1049;18 Granada;2006;4084;Entre hombre y mujer
+1050;18 Granada;2005;4281;Entre hombre y mujer
+1051;18 Granada;2004;4583;Entre hombre y mujer
+1052;18 Granada;2003;4463;Entre hombre y mujer
+1053;18 Granada;2002;4267;Entre hombre y mujer
+1054;18 Granada;2001;4400;Entre hombre y mujer
+1055;18 Granada;2000;4543;Entre hombre y mujer
+1056;18 Granada;1999;4205;Entre hombre y mujer
+1057;18 Granada;1998;4166;Entre hombre y mujer
+1058;18 Granada;1997;4143;Entre hombre y mujer
+1059;18 Granada;1996;4077;Entre hombre y mujer
+1060;18 Granada;1995;4280;Entre hombre y mujer
+1061;18 Granada;1994;4313;Entre hombre y mujer
+1062;18 Granada;1993;4273;Entre hombre y mujer
+1063;18 Granada;1992;4682;Entre hombre y mujer
+1064;18 Granada;1991;4749;Entre hombre y mujer
+1065;18 Granada;1990;4951;Entre hombre y mujer
+1066;18 Granada;1989;4972;Entre hombre y mujer
+1067;18 Granada;1988;5151;Entre hombre y mujer
+1068;18 Granada;1987;4942;Entre hombre y mujer
+1069;18 Granada;1986;4862;Entre hombre y mujer
+1070;18 Granada;1985;4746;Entre hombre y mujer
+1071;18 Granada;1984;4668;Entre hombre y mujer
+1072;18 Granada;1983;4619;Entre hombre y mujer
+1073;18 Granada;1982;4202;Entre hombre y mujer
+1074;18 Granada;1981;4517;Entre hombre y mujer
+1075;18 Granada;1980;4643;Entre hombre y mujer
+1076;18 Granada;1979;4800;Entre hombre y mujer
+1077;18 Granada;1978;4716;Entre hombre y mujer
+1078;18 Granada;1977;4708;Entre hombre y mujer
+1079;18 Granada;1976;4471;Entre hombre y mujer
+1080;18 Granada;1975;4609;Entre hombre y mujer
+1081;19 Guadalajara;2021;836;Entre hombre y mujer
+1082;19 Guadalajara;2020;520;Entre hombre y mujer
+1083;19 Guadalajara;2019;953;Entre hombre y mujer
+1084;19 Guadalajara;2018;976;Entre hombre y mujer
+1085;19 Guadalajara;2017;939;Entre hombre y mujer
+1086;19 Guadalajara;2016;999;Entre hombre y mujer
+1087;19 Guadalajara;2015;1011;Entre hombre y mujer
+1088;19 Guadalajara;2014;928;Entre hombre y mujer
+1089;19 Guadalajara;2013;925;Entre hombre y mujer
+1090;19 Guadalajara;2012;1069;Entre hombre y mujer
+1091;19 Guadalajara;2011;1001;Entre hombre y mujer
+1092;19 Guadalajara;2010;1083;Entre hombre y mujer
+1093;19 Guadalajara;2009;1032;Entre hombre y mujer
+1094;19 Guadalajara;2008;1199;Entre hombre y mujer
+1095;19 Guadalajara;2007;1244;Entre hombre y mujer
+1096;19 Guadalajara;2006;1182;Entre hombre y mujer
+1097;19 Guadalajara;2005;1142;Entre hombre y mujer
+1098;19 Guadalajara;2004;1055;Entre hombre y mujer
+1099;19 Guadalajara;2003;1006;Entre hombre y mujer
+1100;19 Guadalajara;2002;978;Entre hombre y mujer
+1101;19 Guadalajara;2001;914;Entre hombre y mujer
+1102;19 Guadalajara;2000;976;Entre hombre y mujer
+1103;19 Guadalajara;1999;958;Entre hombre y mujer
+1104;19 Guadalajara;1998;860;Entre hombre y mujer
+1105;19 Guadalajara;1997;847;Entre hombre y mujer
+1106;19 Guadalajara;1996;804;Entre hombre y mujer
+1107;19 Guadalajara;1995;793;Entre hombre y mujer
+1108;19 Guadalajara;1994;759;Entre hombre y mujer
+1109;19 Guadalajara;1993;798;Entre hombre y mujer
+1110;19 Guadalajara;1992;816;Entre hombre y mujer
+1111;19 Guadalajara;1991;830;Entre hombre y mujer
+1112;19 Guadalajara;1990;819;Entre hombre y mujer
+1113;19 Guadalajara;1989;774;Entre hombre y mujer
+1114;19 Guadalajara;1988;750;Entre hombre y mujer
+1115;19 Guadalajara;1987;780;Entre hombre y mujer
+1116;19 Guadalajara;1986;716;Entre hombre y mujer
+1117;19 Guadalajara;1985;673;Entre hombre y mujer
+1118;19 Guadalajara;1984;625;Entre hombre y mujer
+1119;19 Guadalajara;1983;641;Entre hombre y mujer
+1120;19 Guadalajara;1982;377;Entre hombre y mujer
+1121;19 Guadalajara;1981;642;Entre hombre y mujer
+1122;19 Guadalajara;1980;705;Entre hombre y mujer
+1123;19 Guadalajara;1979;713;Entre hombre y mujer
+1124;19 Guadalajara;1978;796;Entre hombre y mujer
+1125;19 Guadalajara;1977;703;Entre hombre y mujer
+1126;19 Guadalajara;1976;691;Entre hombre y mujer
+1127;19 Guadalajara;1975;658;Entre hombre y mujer
+1128;21 Huelva;2021;1624;Entre hombre y mujer
+1129;21 Huelva;2020;995;Entre hombre y mujer
+1130;21 Huelva;2019;1811;Entre hombre y mujer
+1131;21 Huelva;2018;1647;Entre hombre y mujer
+1132;21 Huelva;2017;1666;Entre hombre y mujer
+1133;21 Huelva;2016;1856;Entre hombre y mujer
+1134;21 Huelva;2015;1723;Entre hombre y mujer
+1135;21 Huelva;2014;1671;Entre hombre y mujer
+1136;21 Huelva;2013;1558;Entre hombre y mujer
+1137;21 Huelva;2012;1863;Entre hombre y mujer
+1138;21 Huelva;2011;1695;Entre hombre y mujer
+1139;21 Huelva;2010;1750;Entre hombre y mujer
+1140;21 Huelva;2009;1810;Entre hombre y mujer
+1141;21 Huelva;2008;2384;Entre hombre y mujer
+1142;21 Huelva;2007;2469;Entre hombre y mujer
+1143;21 Huelva;2006;2539;Entre hombre y mujer
+1144;21 Huelva;2005;2645;Entre hombre y mujer
+1145;21 Huelva;2004;2581;Entre hombre y mujer
+1146;21 Huelva;2003;2563;Entre hombre y mujer
+1147;21 Huelva;2002;2456;Entre hombre y mujer
+1148;21 Huelva;2001;2510;Entre hombre y mujer
+1149;21 Huelva;2000;2601;Entre hombre y mujer
+1150;21 Huelva;1999;2510;Entre hombre y mujer
+1151;21 Huelva;1998;2453;Entre hombre y mujer
+1152;21 Huelva;1997;2222;Entre hombre y mujer
+1153;21 Huelva;1996;2163;Entre hombre y mujer
+1154;21 Huelva;1995;2284;Entre hombre y mujer
+1155;21 Huelva;1994;2373;Entre hombre y mujer
+1156;21 Huelva;1993;2311;Entre hombre y mujer
+1157;21 Huelva;1992;2470;Entre hombre y mujer
+1158;21 Huelva;1991;2324;Entre hombre y mujer
+1159;21 Huelva;1990;2381;Entre hombre y mujer
+1160;21 Huelva;1989;2700;Entre hombre y mujer
+1161;21 Huelva;1988;2688;Entre hombre y mujer
+1162;21 Huelva;1987;2772;Entre hombre y mujer
+1163;21 Huelva;1986;2480;Entre hombre y mujer
+1164;21 Huelva;1985;2270;Entre hombre y mujer
+1165;21 Huelva;1984;2329;Entre hombre y mujer
+1166;21 Huelva;1983;2396;Entre hombre y mujer
+1167;21 Huelva;1982;2327;Entre hombre y mujer
+1168;21 Huelva;1981;2546;Entre hombre y mujer
+1169;21 Huelva;1980;2768;Entre hombre y mujer
+1170;21 Huelva;1979;2880;Entre hombre y mujer
+1171;21 Huelva;1978;2951;Entre hombre y mujer
+1172;21 Huelva;1977;2874;Entre hombre y mujer
+1173;21 Huelva;1976;2847;Entre hombre y mujer
+1174;21 Huelva;1975;2856;Entre hombre y mujer
+1175;22 Huesca;2021;692;Entre hombre y mujer
+1176;22 Huesca;2020;355;Entre hombre y mujer
+1177;22 Huesca;2019;694;Entre hombre y mujer
+1178;22 Huesca;2018;625;Entre hombre y mujer
+1179;22 Huesca;2017;615;Entre hombre y mujer
+1180;22 Huesca;2016;686;Entre hombre y mujer
+1181;22 Huesca;2015;605;Entre hombre y mujer
+1182;22 Huesca;2014;674;Entre hombre y mujer
+1183;22 Huesca;2013;643;Entre hombre y mujer
+1184;22 Huesca;2012;766;Entre hombre y mujer
+1185;22 Huesca;2011;626;Entre hombre y mujer
+1186;22 Huesca;2010;670;Entre hombre y mujer
+1187;22 Huesca;2009;694;Entre hombre y mujer
+1188;22 Huesca;2008;732;Entre hombre y mujer
+1189;22 Huesca;2007;796;Entre hombre y mujer
+1190;22 Huesca;2006;819;Entre hombre y mujer
+1191;22 Huesca;2005;797;Entre hombre y mujer
+1192;22 Huesca;2004;867;Entre hombre y mujer
+1193;22 Huesca;2003;773;Entre hombre y mujer
+1194;22 Huesca;2002;818;Entre hombre y mujer
+1195;22 Huesca;2001;801;Entre hombre y mujer
+1196;22 Huesca;2000;855;Entre hombre y mujer
+1197;22 Huesca;1999;811;Entre hombre y mujer
+1198;22 Huesca;1998;861;Entre hombre y mujer
+1199;22 Huesca;1997;803;Entre hombre y mujer
+1200;22 Huesca;1996;829;Entre hombre y mujer
+1201;22 Huesca;1995;843;Entre hombre y mujer
+1202;22 Huesca;1994;859;Entre hombre y mujer
+1203;22 Huesca;1993;941;Entre hombre y mujer
+1204;22 Huesca;1992;993;Entre hombre y mujer
+1205;22 Huesca;1991;916;Entre hombre y mujer
+1206;22 Huesca;1990;1036;Entre hombre y mujer
+1207;22 Huesca;1989;1028;Entre hombre y mujer
+1208;22 Huesca;1988;997;Entre hombre y mujer
+1209;22 Huesca;1987;952;Entre hombre y mujer
+1210;22 Huesca;1986;985;Entre hombre y mujer
+1211;22 Huesca;1985;959;Entre hombre y mujer
+1212;22 Huesca;1984;996;Entre hombre y mujer
+1213;22 Huesca;1983;1000;Entre hombre y mujer
+1214;22 Huesca;1982;984;Entre hombre y mujer
+1215;22 Huesca;1981;975;Entre hombre y mujer
+1216;22 Huesca;1980;1150;Entre hombre y mujer
+1217;22 Huesca;1979;1109;Entre hombre y mujer
+1218;22 Huesca;1978;1221;Entre hombre y mujer
+1219;22 Huesca;1977;1213;Entre hombre y mujer
+1220;22 Huesca;1976;1221;Entre hombre y mujer
+1221;22 Huesca;1975;1285;Entre hombre y mujer
+1222;23 Jaén;2021;1863;Entre hombre y mujer
+1223;23 Jaén;2020;718;Entre hombre y mujer
+1224;23 Jaén;2019;2182;Entre hombre y mujer
+1225;23 Jaén;2018;2259;Entre hombre y mujer
+1226;23 Jaén;2017;2274;Entre hombre y mujer
+1227;23 Jaén;2016;2244;Entre hombre y mujer
+1228;23 Jaén;2015;2143;Entre hombre y mujer
+1229;23 Jaén;2014;2052;Entre hombre y mujer
+1230;23 Jaén;2013;1818;Entre hombre y mujer
+1231;23 Jaén;2012;2226;Entre hombre y mujer
+1232;23 Jaén;2011;2175;Entre hombre y mujer
+1233;23 Jaén;2010;2198;Entre hombre y mujer
+1234;23 Jaén;2009;2449;Entre hombre y mujer
+1235;23 Jaén;2008;2959;Entre hombre y mujer
+1236;23 Jaén;2007;3108;Entre hombre y mujer
+1237;23 Jaén;2006;3186;Entre hombre y mujer
+1238;23 Jaén;2005;3198;Entre hombre y mujer
+1239;23 Jaén;2004;3187;Entre hombre y mujer
+1240;23 Jaén;2003;3168;Entre hombre y mujer
+1241;23 Jaén;2002;3201;Entre hombre y mujer
+1242;23 Jaén;2001;3090;Entre hombre y mujer
+1243;23 Jaén;2000;3403;Entre hombre y mujer
+1244;23 Jaén;1999;3306;Entre hombre y mujer
+1245;23 Jaén;1998;3250;Entre hombre y mujer
+1246;23 Jaén;1997;3227;Entre hombre y mujer
+1247;23 Jaén;1996;3081;Entre hombre y mujer
+1248;23 Jaén;1995;3329;Entre hombre y mujer
+1249;23 Jaén;1994;3199;Entre hombre y mujer
+1250;23 Jaén;1993;3380;Entre hombre y mujer
+1251;23 Jaén;1992;3684;Entre hombre y mujer
+1252;23 Jaén;1991;3928;Entre hombre y mujer
+1253;23 Jaén;1990;4055;Entre hombre y mujer
+1254;23 Jaén;1989;4207;Entre hombre y mujer
+1255;23 Jaén;1988;4321;Entre hombre y mujer
+1256;23 Jaén;1987;4247;Entre hombre y mujer
+1257;23 Jaén;1986;4106;Entre hombre y mujer
+1258;23 Jaén;1985;4059;Entre hombre y mujer
+1259;23 Jaén;1984;3992;Entre hombre y mujer
+1260;23 Jaén;1983;4174;Entre hombre y mujer
+1261;23 Jaén;1982;3708;Entre hombre y mujer
+1262;23 Jaén;1981;3990;Entre hombre y mujer
+1263;23 Jaén;1980;4145;Entre hombre y mujer
+1264;23 Jaén;1979;4408;Entre hombre y mujer
+1265;23 Jaén;1978;4255;Entre hombre y mujer
+1266;23 Jaén;1977;3913;Entre hombre y mujer
+1267;23 Jaén;1976;3836;Entre hombre y mujer
+1268;23 Jaén;1975;3891;Entre hombre y mujer
+1269;24 León;2021;1211;Entre hombre y mujer
+1270;24 León;2020;690;Entre hombre y mujer
+1271;24 León;2019;1251;Entre hombre y mujer
+1272;24 León;2018;1343;Entre hombre y mujer
+1273;24 León;2017;1412;Entre hombre y mujer
+1274;24 León;2016;1380;Entre hombre y mujer
+1275;24 León;2015;1294;Entre hombre y mujer
+1276;24 León;2014;1430;Entre hombre y mujer
+1277;24 León;2013;1367;Entre hombre y mujer
+1278;24 León;2012;1586;Entre hombre y mujer
+1279;24 León;2011;1448;Entre hombre y mujer
+1280;24 León;2010;1518;Entre hombre y mujer
+1281;24 León;2009;1517;Entre hombre y mujer
+1282;24 León;2008;1646;Entre hombre y mujer
+1283;24 León;2007;1760;Entre hombre y mujer
+1284;24 León;2006;1623;Entre hombre y mujer
+1285;24 León;2005;1727;Entre hombre y mujer
+1286;24 León;2004;1760;Entre hombre y mujer
+1287;24 León;2003;1771;Entre hombre y mujer
+1288;24 León;2002;1800;Entre hombre y mujer
+1289;24 León;2001;1757;Entre hombre y mujer
+1290;24 León;2000;1940;Entre hombre y mujer
+1291;24 León;1999;1961;Entre hombre y mujer
+1292;24 León;1998;1925;Entre hombre y mujer
+1293;24 León;1997;1972;Entre hombre y mujer
+1294;24 León;1996;1910;Entre hombre y mujer
+1295;24 León;1995;1896;Entre hombre y mujer
+1296;24 León;1994;1984;Entre hombre y mujer
+1297;24 León;1993;2000;Entre hombre y mujer
+1298;24 León;1992;2283;Entre hombre y mujer
+1299;24 León;1991;2267;Entre hombre y mujer
+1300;24 León;1990;2361;Entre hombre y mujer
+1301;24 León;1989;2518;Entre hombre y mujer
+1302;24 León;1988;2642;Entre hombre y mujer
+1303;24 León;1987;2595;Entre hombre y mujer
+1304;24 León;1986;2793;Entre hombre y mujer
+1305;24 León;1985;2734;Entre hombre y mujer
+1306;24 León;1984;2857;Entre hombre y mujer
+1307;24 León;1983;2908;Entre hombre y mujer
+1308;24 León;1982;2980;Entre hombre y mujer
+1309;24 León;1981;2961;Entre hombre y mujer
+1310;24 León;1980;3046;Entre hombre y mujer
+1311;24 León;1979;3155;Entre hombre y mujer
+1312;24 León;1978;3276;Entre hombre y mujer
+1313;24 León;1977;3048;Entre hombre y mujer
+1314;24 León;1976;3121;Entre hombre y mujer
+1315;24 León;1975;3234;Entre hombre y mujer
+1316;25 Lleida;2021;1220;Entre hombre y mujer
+1317;25 Lleida;2020;827;Entre hombre y mujer
+1318;25 Lleida;2019;1349;Entre hombre y mujer
+1319;25 Lleida;2018;1334;Entre hombre y mujer
+1320;25 Lleida;2017;1411;Entre hombre y mujer
+1321;25 Lleida;2016;1442;Entre hombre y mujer
+1322;25 Lleida;2015;1311;Entre hombre y mujer
+1323;25 Lleida;2014;1413;Entre hombre y mujer
+1324;25 Lleida;2013;1330;Entre hombre y mujer
+1325;25 Lleida;2012;1443;Entre hombre y mujer
+1326;25 Lleida;2011;1433;Entre hombre y mujer
+1327;25 Lleida;2010;1560;Entre hombre y mujer
+1328;25 Lleida;2009;1582;Entre hombre y mujer
+1329;25 Lleida;2008;1785;Entre hombre y mujer
+1330;25 Lleida;2007;1821;Entre hombre y mujer
+1331;25 Lleida;2006;1778;Entre hombre y mujer
+1332;25 Lleida;2005;1726;Entre hombre y mujer
+1333;25 Lleida;2004;1757;Entre hombre y mujer
+1334;25 Lleida;2003;1745;Entre hombre y mujer
+1335;25 Lleida;2002;1741;Entre hombre y mujer
+1336;25 Lleida;2001;1626;Entre hombre y mujer
+1337;25 Lleida;2000;1687;Entre hombre y mujer
+1338;25 Lleida;1999;1782;Entre hombre y mujer
+1339;25 Lleida;1998;1663;Entre hombre y mujer
+1340;25 Lleida;1997;1627;Entre hombre y mujer
+1341;25 Lleida;1996;1664;Entre hombre y mujer
+1342;25 Lleida;1995;1732;Entre hombre y mujer
+1343;25 Lleida;1994;1656;Entre hombre y mujer
+1344;25 Lleida;1993;1729;Entre hombre y mujer
+1345;25 Lleida;1992;1890;Entre hombre y mujer
+1346;25 Lleida;1991;1834;Entre hombre y mujer
+1347;25 Lleida;1990;1779;Entre hombre y mujer
+1348;25 Lleida;1989;1857;Entre hombre y mujer
+1349;25 Lleida;1988;1832;Entre hombre y mujer
+1350;25 Lleida;1987;1888;Entre hombre y mujer
+1351;25 Lleida;1986;1852;Entre hombre y mujer
+1352;25 Lleida;1985;1836;Entre hombre y mujer
+1353;25 Lleida;1984;1708;Entre hombre y mujer
+1354;25 Lleida;1983;1740;Entre hombre y mujer
+1355;25 Lleida;1982;1796;Entre hombre y mujer
+1356;25 Lleida;1981;1711;Entre hombre y mujer
+1357;25 Lleida;1980;1942;Entre hombre y mujer
+1358;25 Lleida;1979;2119;Entre hombre y mujer
+1359;25 Lleida;1978;2283;Entre hombre y mujer
+1360;25 Lleida;1977;2199;Entre hombre y mujer
+1361;25 Lleida;1976;2170;Entre hombre y mujer
+1362;25 Lleida;1975;2351;Entre hombre y mujer
+1363;27 Lugo;2021;903;Entre hombre y mujer
+1364;27 Lugo;2020;633;Entre hombre y mujer
+1365;27 Lugo;2019;998;Entre hombre y mujer
+1366;27 Lugo;2018;1018;Entre hombre y mujer
+1367;27 Lugo;2017;1053;Entre hombre y mujer
+1368;27 Lugo;2016;1045;Entre hombre y mujer
+1369;27 Lugo;2015;975;Entre hombre y mujer
+1370;27 Lugo;2014;977;Entre hombre y mujer
+1371;27 Lugo;2013;924;Entre hombre y mujer
+1372;27 Lugo;2012;1026;Entre hombre y mujer
+1373;27 Lugo;2011;1027;Entre hombre y mujer
+1374;27 Lugo;2010;1069;Entre hombre y mujer
+1375;27 Lugo;2009;1080;Entre hombre y mujer
+1376;27 Lugo;2008;1122;Entre hombre y mujer
+1377;27 Lugo;2007;1141;Entre hombre y mujer
+1378;27 Lugo;2006;1113;Entre hombre y mujer
+1379;27 Lugo;2005;1075;Entre hombre y mujer
+1380;27 Lugo;2004;1173;Entre hombre y mujer
+1381;27 Lugo;2003;1190;Entre hombre y mujer
+1382;27 Lugo;2002;1194;Entre hombre y mujer
+1383;27 Lugo;2001;1132;Entre hombre y mujer
+1384;27 Lugo;2000;1289;Entre hombre y mujer
+1385;27 Lugo;1999;1293;Entre hombre y mujer
+1386;27 Lugo;1998;1345;Entre hombre y mujer
+1387;27 Lugo;1997;1322;Entre hombre y mujer
+1388;27 Lugo;1996;1341;Entre hombre y mujer
+1389;27 Lugo;1995;1411;Entre hombre y mujer
+1390;27 Lugo;1994;1390;Entre hombre y mujer
+1391;27 Lugo;1993;1494;Entre hombre y mujer
+1392;27 Lugo;1992;1584;Entre hombre y mujer
+1393;27 Lugo;1991;1683;Entre hombre y mujer
+1394;27 Lugo;1990;1745;Entre hombre y mujer
+1395;27 Lugo;1989;1950;Entre hombre y mujer
+1396;27 Lugo;1988;1810;Entre hombre y mujer
+1397;27 Lugo;1987;1767;Entre hombre y mujer
+1398;27 Lugo;1986;1827;Entre hombre y mujer
+1399;27 Lugo;1985;1791;Entre hombre y mujer
+1400;27 Lugo;1984;1909;Entre hombre y mujer
+1401;27 Lugo;1983;2061;Entre hombre y mujer
+1402;27 Lugo;1982;1986;Entre hombre y mujer
+1403;27 Lugo;1981;2225;Entre hombre y mujer
+1404;27 Lugo;1980;2314;Entre hombre y mujer
+1405;27 Lugo;1979;2471;Entre hombre y mujer
+1406;27 Lugo;1978;2415;Entre hombre y mujer
+1407;27 Lugo;1977;2406;Entre hombre y mujer
+1408;27 Lugo;1976;2323;Entre hombre y mujer
+1409;27 Lugo;1975;2301;Entre hombre y mujer
+1410;28 Madrid;2021;21416;Entre hombre y mujer
+1411;28 Madrid;2020;12394;Entre hombre y mujer
+1412;28 Madrid;2019;23538;Entre hombre y mujer
+1413;28 Madrid;2018;23797;Entre hombre y mujer
+1414;28 Madrid;2017;25039;Entre hombre y mujer
+1415;28 Madrid;2016;25215;Entre hombre y mujer
+1416;28 Madrid;2015;24848;Entre hombre y mujer
+1417;28 Madrid;2014;23222;Entre hombre y mujer
+1418;28 Madrid;2013;23878;Entre hombre y mujer
+1419;28 Madrid;2012;24526;Entre hombre y mujer
+1420;28 Madrid;2011;24306;Entre hombre y mujer
+1421;28 Madrid;2010;24603;Entre hombre y mujer
+1422;28 Madrid;2009;24505;Entre hombre y mujer
+1423;28 Madrid;2008;26583;Entre hombre y mujer
+1424;28 Madrid;2007;28000;Entre hombre y mujer
+1425;28 Madrid;2006;27684;Entre hombre y mujer
+1426;28 Madrid;2005;28387;Entre hombre y mujer
+1427;28 Madrid;2004;30205;Entre hombre y mujer
+1428;28 Madrid;2003;29735;Entre hombre y mujer
+1429;28 Madrid;2002;30021;Entre hombre y mujer
+1430;28 Madrid;2001;29854;Entre hombre y mujer
+1431;28 Madrid;2000;30631;Entre hombre y mujer
+1432;28 Madrid;1999;29051;Entre hombre y mujer
+1433;28 Madrid;1998;28722;Entre hombre y mujer
+1434;28 Madrid;1997;26448;Entre hombre y mujer
+1435;28 Madrid;1996;25773;Entre hombre y mujer
+1436;28 Madrid;1995;27069;Entre hombre y mujer
+1437;28 Madrid;1994;27014;Entre hombre y mujer
+1438;28 Madrid;1993;27540;Entre hombre y mujer
+1439;28 Madrid;1992;29650;Entre hombre y mujer
+1440;28 Madrid;1991;29585;Entre hombre y mujer
+1441;28 Madrid;1990;29132;Entre hombre y mujer
+1442;28 Madrid;1989;28487;Entre hombre y mujer
+1443;28 Madrid;1988;27564;Entre hombre y mujer
+1444;28 Madrid;1987;26990;Entre hombre y mujer
+1445;28 Madrid;1986;26201;Entre hombre y mujer
+1446;28 Madrid;1985;25046;Entre hombre y mujer
+1447;28 Madrid;1984;25990;Entre hombre y mujer
+1448;28 Madrid;1983;26733;Entre hombre y mujer
+1449;28 Madrid;1982;26514;Entre hombre y mujer
+1450;28 Madrid;1981;25453;Entre hombre y mujer
+1451;28 Madrid;1980;28808;Entre hombre y mujer
+1452;28 Madrid;1979;31524;Entre hombre y mujer
+1453;28 Madrid;1978;33858;Entre hombre y mujer
+1454;28 Madrid;1977;35592;Entre hombre y mujer
+1455;28 Madrid;1976;35766;Entre hombre y mujer
+1456;28 Madrid;1975;38812;Entre hombre y mujer
+1457;29 Málaga;2021;4980;Entre hombre y mujer
+1458;29 Málaga;2020;3055;Entre hombre y mujer
+1459;29 Málaga;2019;5537;Entre hombre y mujer
+1460;29 Málaga;2018;5446;Entre hombre y mujer
+1461;29 Málaga;2017;5720;Entre hombre y mujer
+1462;29 Málaga;2016;5554;Entre hombre y mujer
+1463;29 Málaga;2015;5551;Entre hombre y mujer
+1464;29 Málaga;2014;5392;Entre hombre y mujer
+1465;29 Málaga;2013;5036;Entre hombre y mujer
+1466;29 Málaga;2012;5355;Entre hombre y mujer
+1467;29 Málaga;2011;5156;Entre hombre y mujer
+1468;29 Málaga;2010;5591;Entre hombre y mujer
+1469;29 Málaga;2009;5868;Entre hombre y mujer
+1470;29 Málaga;2008;6994;Entre hombre y mujer
+1471;29 Málaga;2007;7238;Entre hombre y mujer
+1472;29 Málaga;2006;7463;Entre hombre y mujer
+1473;29 Málaga;2005;7349;Entre hombre y mujer
+1474;29 Málaga;2004;7648;Entre hombre y mujer
+1475;29 Málaga;2003;7541;Entre hombre y mujer
+1476;29 Málaga;2002;7246;Entre hombre y mujer
+1477;29 Málaga;2001;7306;Entre hombre y mujer
+1478;29 Málaga;2000;6997;Entre hombre y mujer
+1479;29 Málaga;1999;6841;Entre hombre y mujer
+1480;29 Málaga;1998;6511;Entre hombre y mujer
+1481;29 Málaga;1997;6040;Entre hombre y mujer
+1482;29 Málaga;1996;5834;Entre hombre y mujer
+1483;29 Málaga;1995;6445;Entre hombre y mujer
+1484;29 Málaga;1994;6103;Entre hombre y mujer
+1485;29 Málaga;1993;6131;Entre hombre y mujer
+1486;29 Málaga;1992;6401;Entre hombre y mujer
+1487;29 Málaga;1991;6901;Entre hombre y mujer
+1488;29 Málaga;1990;6986;Entre hombre y mujer
+1489;29 Málaga;1989;6813;Entre hombre y mujer
+1490;29 Málaga;1988;6469;Entre hombre y mujer
+1491;29 Málaga;1987;6704;Entre hombre y mujer
+1492;29 Málaga;1986;6336;Entre hombre y mujer
+1493;29 Málaga;1985;5969;Entre hombre y mujer
+1494;29 Málaga;1984;6006;Entre hombre y mujer
+1495;29 Málaga;1983;5890;Entre hombre y mujer
+1496;29 Málaga;1982;5869;Entre hombre y mujer
+1497;29 Málaga;1981;5904;Entre hombre y mujer
+1498;29 Málaga;1980;6063;Entre hombre y mujer
+1499;29 Málaga;1979;6701;Entre hombre y mujer
+1500;29 Málaga;1978;6565;Entre hombre y mujer
+1501;29 Málaga;1977;6584;Entre hombre y mujer
+1502;29 Málaga;1976;6136;Entre hombre y mujer
+1503;29 Málaga;1975;7137;Entre hombre y mujer
+1504;30 Murcia;2021;4298;Entre hombre y mujer
+1505;30 Murcia;2020;2601;Entre hombre y mujer
+1506;30 Murcia;2019;4955;Entre hombre y mujer
+1507;30 Murcia;2018;5079;Entre hombre y mujer
+1508;30 Murcia;2017;5094;Entre hombre y mujer
+1509;30 Murcia;2016;5067;Entre hombre y mujer
+1510;30 Murcia;2015;4815;Entre hombre y mujer
+1511;30 Murcia;2014;4846;Entre hombre y mujer
+1512;30 Murcia;2013;4375;Entre hombre y mujer
+1513;30 Murcia;2012;4867;Entre hombre y mujer
+1514;30 Murcia;2011;4656;Entre hombre y mujer
+1515;30 Murcia;2010;4996;Entre hombre y mujer
+1516;30 Murcia;2009;5125;Entre hombre y mujer
+1517;30 Murcia;2008;5765;Entre hombre y mujer
+1518;30 Murcia;2007;6647;Entre hombre y mujer
+1519;30 Murcia;2006;6484;Entre hombre y mujer
+1520;30 Murcia;2005;6668;Entre hombre y mujer
+1521;30 Murcia;2004;6651;Entre hombre y mujer
+1522;30 Murcia;2003;6816;Entre hombre y mujer
+1523;30 Murcia;2002;6663;Entre hombre y mujer
+1524;30 Murcia;2001;6530;Entre hombre y mujer
+1525;30 Murcia;2000;6942;Entre hombre y mujer
+1526;30 Murcia;1999;6654;Entre hombre y mujer
+1527;30 Murcia;1998;6409;Entre hombre y mujer
+1528;30 Murcia;1997;6203;Entre hombre y mujer
+1529;30 Murcia;1996;5914;Entre hombre y mujer
+1530;30 Murcia;1995;6040;Entre hombre y mujer
+1531;30 Murcia;1994;5893;Entre hombre y mujer
+1532;30 Murcia;1993;5830;Entre hombre y mujer
+1533;30 Murcia;1992;6372;Entre hombre y mujer
+1534;30 Murcia;1991;6434;Entre hombre y mujer
+1535;30 Murcia;1990;6688;Entre hombre y mujer
+1536;30 Murcia;1989;6840;Entre hombre y mujer
+1537;30 Murcia;1988;6728;Entre hombre y mujer
+1538;30 Murcia;1987;6648;Entre hombre y mujer
+1539;30 Murcia;1986;6435;Entre hombre y mujer
+1540;30 Murcia;1985;5931;Entre hombre y mujer
+1541;30 Murcia;1984;1461;Entre hombre y mujer
+1542;30 Murcia;1983;1112;Entre hombre y mujer
+1543;30 Murcia;1982;782;Entre hombre y mujer
+1544;30 Murcia;1981;5795;Entre hombre y mujer
+1545;30 Murcia;1980;6432;Entre hombre y mujer
+1546;30 Murcia;1979;6635;Entre hombre y mujer
+1547;30 Murcia;1978;6595;Entre hombre y mujer
+1548;30 Murcia;1977;6586;Entre hombre y mujer
+1549;30 Murcia;1976;6355;Entre hombre y mujer
+1550;30 Murcia;1975;6467;Entre hombre y mujer
+1551;31 Navarra;2021;1932;Entre hombre y mujer
+1552;31 Navarra;2020;1279;Entre hombre y mujer
+1553;31 Navarra;2019;2050;Entre hombre y mujer
+1554;31 Navarra;2018;2050;Entre hombre y mujer
+1555;31 Navarra;2017;2295;Entre hombre y mujer
+1556;31 Navarra;2016;2383;Entre hombre y mujer
+1557;31 Navarra;2015;2616;Entre hombre y mujer
+1558;31 Navarra;2014;2301;Entre hombre y mujer
+1559;31 Navarra;2013;2097;Entre hombre y mujer
+1560;31 Navarra;2012;2232;Entre hombre y mujer
+1561;31 Navarra;2011;2218;Entre hombre y mujer
+1562;31 Navarra;2010;2285;Entre hombre y mujer
+1563;31 Navarra;2009;2492;Entre hombre y mujer
+1564;31 Navarra;2008;2681;Entre hombre y mujer
+1565;31 Navarra;2007;2705;Entre hombre y mujer
+1566;31 Navarra;2006;2727;Entre hombre y mujer
+1567;31 Navarra;2005;2671;Entre hombre y mujer
+1568;31 Navarra;2004;2920;Entre hombre y mujer
+1569;31 Navarra;2003;2868;Entre hombre y mujer
+1570;31 Navarra;2002;2828;Entre hombre y mujer
+1571;31 Navarra;2001;2694;Entre hombre y mujer
+1572;31 Navarra;2000;2969;Entre hombre y mujer
+1573;31 Navarra;1999;2841;Entre hombre y mujer
+1574;31 Navarra;1998;2736;Entre hombre y mujer
+1575;31 Navarra;1997;2554;Entre hombre y mujer
+1576;31 Navarra;1996;2714;Entre hombre y mujer
+1577;31 Navarra;1995;2653;Entre hombre y mujer
+1578;31 Navarra;1994;2663;Entre hombre y mujer
+1579;31 Navarra;1993;2720;Entre hombre y mujer
+1580;31 Navarra;1992;2689;Entre hombre y mujer
+1581;31 Navarra;1991;2661;Entre hombre y mujer
+1582;31 Navarra;1990;2677;Entre hombre y mujer
+1583;31 Navarra;1989;2630;Entre hombre y mujer
+1584;31 Navarra;1988;2636;Entre hombre y mujer
+1585;31 Navarra;1987;2622;Entre hombre y mujer
+1586;31 Navarra;1986;2506;Entre hombre y mujer
+1587;31 Navarra;1985;2413;Entre hombre y mujer
+1588;31 Navarra;1984;2633;Entre hombre y mujer
+1589;31 Navarra;1983;2575;Entre hombre y mujer
+1590;31 Navarra;1982;2667;Entre hombre y mujer
+1591;31 Navarra;1981;2664;Entre hombre y mujer
+1592;31 Navarra;1980;3017;Entre hombre y mujer
+1593;31 Navarra;1979;3225;Entre hombre y mujer
+1594;31 Navarra;1978;3450;Entre hombre y mujer
+1595;31 Navarra;1977;3480;Entre hombre y mujer
+1596;31 Navarra;1976;3481;Entre hombre y mujer
+1597;31 Navarra;1975;3706;Entre hombre y mujer
+1598;32 Ourense;2021;826;Entre hombre y mujer
+1599;32 Ourense;2020;496;Entre hombre y mujer
+1600;32 Ourense;2019;860;Entre hombre y mujer
+1601;32 Ourense;2018;737;Entre hombre y mujer
+1602;32 Ourense;2017;819;Entre hombre y mujer
+1603;32 Ourense;2016;825;Entre hombre y mujer
+1604;32 Ourense;2015;825;Entre hombre y mujer
+1605;32 Ourense;2014;846;Entre hombre y mujer
+1606;32 Ourense;2013;861;Entre hombre y mujer
+1607;32 Ourense;2012;917;Entre hombre y mujer
+1608;32 Ourense;2011;881;Entre hombre y mujer
+1609;32 Ourense;2010;908;Entre hombre y mujer
+1610;32 Ourense;2009;936;Entre hombre y mujer
+1611;32 Ourense;2008;1062;Entre hombre y mujer
+1612;32 Ourense;2007;1263;Entre hombre y mujer
+1613;32 Ourense;2006;1147;Entre hombre y mujer
+1614;32 Ourense;2005;1119;Entre hombre y mujer
+1615;32 Ourense;2004;1178;Entre hombre y mujer
+1616;32 Ourense;2003;1126;Entre hombre y mujer
+1617;32 Ourense;2002;1237;Entre hombre y mujer
+1618;32 Ourense;2001;1200;Entre hombre y mujer
+1619;32 Ourense;2000;1299;Entre hombre y mujer
+1620;32 Ourense;1999;1280;Entre hombre y mujer
+1621;32 Ourense;1998;1309;Entre hombre y mujer
+1622;32 Ourense;1997;1224;Entre hombre y mujer
+1623;32 Ourense;1996;1301;Entre hombre y mujer
+1624;32 Ourense;1995;1299;Entre hombre y mujer
+1625;32 Ourense;1994;1342;Entre hombre y mujer
+1626;32 Ourense;1993;1403;Entre hombre y mujer
+1627;32 Ourense;1992;1550;Entre hombre y mujer
+1628;32 Ourense;1991;1508;Entre hombre y mujer
+1629;32 Ourense;1990;1600;Entre hombre y mujer
+1630;32 Ourense;1989;1724;Entre hombre y mujer
+1631;32 Ourense;1988;1822;Entre hombre y mujer
+1632;32 Ourense;1987;1811;Entre hombre y mujer
+1633;32 Ourense;1986;1705;Entre hombre y mujer
+1634;32 Ourense;1985;1721;Entre hombre y mujer
+1635;32 Ourense;1984;1826;Entre hombre y mujer
+1636;32 Ourense;1983;1848;Entre hombre y mujer
+1637;32 Ourense;1982;1795;Entre hombre y mujer
+1638;32 Ourense;1981;1805;Entre hombre y mujer
+1639;32 Ourense;1980;2087;Entre hombre y mujer
+1640;32 Ourense;1979;2337;Entre hombre y mujer
+1641;32 Ourense;1978;2491;Entre hombre y mujer
+1642;32 Ourense;1977;2521;Entre hombre y mujer
+1643;32 Ourense;1976;2475;Entre hombre y mujer
+1644;32 Ourense;1975;2538;Entre hombre y mujer
+1645;34 Palencia;2021;403;Entre hombre y mujer
+1646;34 Palencia;2020;190;Entre hombre y mujer
+1647;34 Palencia;2019;443;Entre hombre y mujer
+1648;34 Palencia;2018;477;Entre hombre y mujer
+1649;34 Palencia;2017;500;Entre hombre y mujer
+1650;34 Palencia;2016;531;Entre hombre y mujer
+1651;34 Palencia;2015;492;Entre hombre y mujer
+1652;34 Palencia;2014;495;Entre hombre y mujer
+1653;34 Palencia;2013;440;Entre hombre y mujer
+1654;34 Palencia;2012;550;Entre hombre y mujer
+1655;34 Palencia;2011;480;Entre hombre y mujer
+1656;34 Palencia;2010;542;Entre hombre y mujer
+1657;34 Palencia;2009;525;Entre hombre y mujer
+1658;34 Palencia;2008;596;Entre hombre y mujer
+1659;34 Palencia;2007;621;Entre hombre y mujer
+1660;34 Palencia;2006;671;Entre hombre y mujer
+1661;34 Palencia;2005;695;Entre hombre y mujer
+1662;34 Palencia;2004;686;Entre hombre y mujer
+1663;34 Palencia;2003;640;Entre hombre y mujer
+1664;34 Palencia;2002;702;Entre hombre y mujer
+1665;34 Palencia;2001;680;Entre hombre y mujer
+1666;34 Palencia;2000;762;Entre hombre y mujer
+1667;34 Palencia;1999;710;Entre hombre y mujer
+1668;34 Palencia;1998;610;Entre hombre y mujer
+1669;34 Palencia;1997;696;Entre hombre y mujer
+1670;34 Palencia;1996;703;Entre hombre y mujer
+1671;34 Palencia;1995;763;Entre hombre y mujer
+1672;34 Palencia;1994;776;Entre hombre y mujer
+1673;34 Palencia;1993;746;Entre hombre y mujer
+1674;34 Palencia;1992;795;Entre hombre y mujer
+1675;34 Palencia;1991;898;Entre hombre y mujer
+1676;34 Palencia;1990;859;Entre hombre y mujer
+1677;34 Palencia;1989;908;Entre hombre y mujer
+1678;34 Palencia;1988;947;Entre hombre y mujer
+1679;34 Palencia;1987;883;Entre hombre y mujer
+1680;34 Palencia;1986;973;Entre hombre y mujer
+1681;34 Palencia;1985;903;Entre hombre y mujer
+1682;34 Palencia;1984;938;Entre hombre y mujer
+1683;34 Palencia;1983;959;Entre hombre y mujer
+1684;34 Palencia;1982;1060;Entre hombre y mujer
+1685;34 Palencia;1981;979;Entre hombre y mujer
+1686;34 Palencia;1980;1037;Entre hombre y mujer
+1687;34 Palencia;1979;1095;Entre hombre y mujer
+1688;34 Palencia;1978;1128;Entre hombre y mujer
+1689;34 Palencia;1977;971;Entre hombre y mujer
+1690;34 Palencia;1976;999;Entre hombre y mujer
+1691;34 Palencia;1975;954;Entre hombre y mujer
+1692;35 Palmas, Las;2021;3385;Entre hombre y mujer
+1693;35 Palmas, Las;2020;2399;Entre hombre y mujer
+1694;35 Palmas, Las;2019;3913;Entre hombre y mujer
+1695;35 Palmas, Las;2018;3884;Entre hombre y mujer
+1696;35 Palmas, Las;2017;3787;Entre hombre y mujer
+1697;35 Palmas, Las;2016;3744;Entre hombre y mujer
+1698;35 Palmas, Las;2015;3487;Entre hombre y mujer
+1699;35 Palmas, Las;2014;3337;Entre hombre y mujer
+1700;35 Palmas, Las;2013;3283;Entre hombre y mujer
+1701;35 Palmas, Las;2012;2996;Entre hombre y mujer
+1702;35 Palmas, Las;2011;2756;Entre hombre y mujer
+1703;35 Palmas, Las;2010;2704;Entre hombre y mujer
+1704;35 Palmas, Las;2009;2926;Entre hombre y mujer
+1705;35 Palmas, Las;2008;3153;Entre hombre y mujer
+1706;35 Palmas, Las;2007;3274;Entre hombre y mujer
+1707;35 Palmas, Las;2006;3340;Entre hombre y mujer
+1708;35 Palmas, Las;2005;3339;Entre hombre y mujer
+1709;35 Palmas, Las;2004;3518;Entre hombre y mujer
+1710;35 Palmas, Las;2003;3688;Entre hombre y mujer
+1711;35 Palmas, Las;2002;3631;Entre hombre y mujer
+1712;35 Palmas, Las;2001;3900;Entre hombre y mujer
+1713;35 Palmas, Las;2000;4020;Entre hombre y mujer
+1714;35 Palmas, Las;1999;4197;Entre hombre y mujer
+1715;35 Palmas, Las;1998;4135;Entre hombre y mujer
+1716;35 Palmas, Las;1997;3981;Entre hombre y mujer
+1717;35 Palmas, Las;1996;4052;Entre hombre y mujer
+1718;35 Palmas, Las;1995;4309;Entre hombre y mujer
+1719;35 Palmas, Las;1994;4343;Entre hombre y mujer
+1720;35 Palmas, Las;1993;4387;Entre hombre y mujer
+1721;35 Palmas, Las;1992;4637;Entre hombre y mujer
+1722;35 Palmas, Las;1991;4692;Entre hombre y mujer
+1723;35 Palmas, Las;1990;5101;Entre hombre y mujer
+1724;35 Palmas, Las;1989;5309;Entre hombre y mujer
+1725;35 Palmas, Las;1988;5520;Entre hombre y mujer
+1726;35 Palmas, Las;1987;5389;Entre hombre y mujer
+1727;35 Palmas, Las;1986;4750;Entre hombre y mujer
+1728;35 Palmas, Las;1985;4602;Entre hombre y mujer
+1729;35 Palmas, Las;1984;4446;Entre hombre y mujer
+1730;35 Palmas, Las;1983;4464;Entre hombre y mujer
+1731;35 Palmas, Las;1982;4309;Entre hombre y mujer
+1732;35 Palmas, Las;1981;4604;Entre hombre y mujer
+1733;35 Palmas, Las;1980;5029;Entre hombre y mujer
+1734;35 Palmas, Las;1979;5396;Entre hombre y mujer
+1735;35 Palmas, Las;1978;5333;Entre hombre y mujer
+1736;35 Palmas, Las;1977;5154;Entre hombre y mujer
+1737;35 Palmas, Las;1976;5096;Entre hombre y mujer
+1738;35 Palmas, Las;1975;4981;Entre hombre y mujer
+1739;36 Pontevedra;2021;2999;Entre hombre y mujer
+1740;36 Pontevedra;2020;1987;Entre hombre y mujer
+1741;36 Pontevedra;2019;3303;Entre hombre y mujer
+1742;36 Pontevedra;2018;2879;Entre hombre y mujer
+1743;36 Pontevedra;2017;3223;Entre hombre y mujer
+1744;36 Pontevedra;2016;3256;Entre hombre y mujer
+1745;36 Pontevedra;2015;3224;Entre hombre y mujer
+1746;36 Pontevedra;2014;2934;Entre hombre y mujer
+1747;36 Pontevedra;2013;2917;Entre hombre y mujer
+1748;36 Pontevedra;2012;3185;Entre hombre y mujer
+1749;36 Pontevedra;2011;3179;Entre hombre y mujer
+1750;36 Pontevedra;2010;3440;Entre hombre y mujer
+1751;36 Pontevedra;2009;3440;Entre hombre y mujer
+1752;36 Pontevedra;2008;3868;Entre hombre y mujer
+1753;36 Pontevedra;2007;3958;Entre hombre y mujer
+1754;36 Pontevedra;2006;4036;Entre hombre y mujer
+1755;36 Pontevedra;2005;4061;Entre hombre y mujer
+1756;36 Pontevedra;2004;4123;Entre hombre y mujer
+1757;36 Pontevedra;2003;4013;Entre hombre y mujer
+1758;36 Pontevedra;2002;4212;Entre hombre y mujer
+1759;36 Pontevedra;2001;4199;Entre hombre y mujer
+1760;36 Pontevedra;2000;4354;Entre hombre y mujer
+1761;36 Pontevedra;1999;4401;Entre hombre y mujer
+1762;36 Pontevedra;1998;4416;Entre hombre y mujer
+1763;36 Pontevedra;1997;4129;Entre hombre y mujer
+1764;36 Pontevedra;1996;4058;Entre hombre y mujer
+1765;36 Pontevedra;1995;4089;Entre hombre y mujer
+1766;36 Pontevedra;1994;4076;Entre hombre y mujer
+1767;36 Pontevedra;1993;4317;Entre hombre y mujer
+1768;36 Pontevedra;1992;4589;Entre hombre y mujer
+1769;36 Pontevedra;1991;4476;Entre hombre y mujer
+1770;36 Pontevedra;1990;4339;Entre hombre y mujer
+1771;36 Pontevedra;1989;4381;Entre hombre y mujer
+1772;36 Pontevedra;1988;4265;Entre hombre y mujer
+1773;36 Pontevedra;1987;4236;Entre hombre y mujer
+1774;36 Pontevedra;1986;3987;Entre hombre y mujer
+1775;36 Pontevedra;1985;3887;Entre hombre y mujer
+1776;36 Pontevedra;1984;4118;Entre hombre y mujer
+1777;36 Pontevedra;1983;3895;Entre hombre y mujer
+1778;36 Pontevedra;1982;4096;Entre hombre y mujer
+1779;36 Pontevedra;1981;4645;Entre hombre y mujer
+1780;36 Pontevedra;1980;5400;Entre hombre y mujer
+1781;36 Pontevedra;1979;5865;Entre hombre y mujer
+1782;36 Pontevedra;1978;6082;Entre hombre y mujer
+1783;36 Pontevedra;1977;6309;Entre hombre y mujer
+1784;36 Pontevedra;1976;6289;Entre hombre y mujer
+1785;36 Pontevedra;1975;6190;Entre hombre y mujer
+1786;26 Rioja, La;2021;953;Entre hombre y mujer
+1787;26 Rioja, La;2020;600;Entre hombre y mujer
+1788;26 Rioja, La;2019;1093;Entre hombre y mujer
+1789;26 Rioja, La;2018;1117;Entre hombre y mujer
+1790;26 Rioja, La;2017;1035;Entre hombre y mujer
+1791;26 Rioja, La;2016;1133;Entre hombre y mujer
+1792;26 Rioja, La;2015;1063;Entre hombre y mujer
+1793;26 Rioja, La;2014;1114;Entre hombre y mujer
+1794;26 Rioja, La;2013;994;Entre hombre y mujer
+1795;26 Rioja, La;2012;1111;Entre hombre y mujer
+1796;26 Rioja, La;2011;1069;Entre hombre y mujer
+1797;26 Rioja, La;2010;1126;Entre hombre y mujer
+1798;26 Rioja, La;2009;1205;Entre hombre y mujer
+1799;26 Rioja, La;2008;1323;Entre hombre y mujer
+1800;26 Rioja, La;2007;1354;Entre hombre y mujer
+1801;26 Rioja, La;2006;1373;Entre hombre y mujer
+1802;26 Rioja, La;2005;1407;Entre hombre y mujer
+1803;26 Rioja, La;2004;1477;Entre hombre y mujer
+1804;26 Rioja, La;2003;1466;Entre hombre y mujer
+1805;26 Rioja, La;2002;1380;Entre hombre y mujer
+1806;26 Rioja, La;2001;1392;Entre hombre y mujer
+1807;26 Rioja, La;2000;1439;Entre hombre y mujer
+1808;26 Rioja, La;1999;1295;Entre hombre y mujer
+1809;26 Rioja, La;1998;1309;Entre hombre y mujer
+1810;26 Rioja, La;1997;1322;Entre hombre y mujer
+1811;26 Rioja, La;1996;1270;Entre hombre y mujer
+1812;26 Rioja, La;1995;1187;Entre hombre y mujer
+1813;26 Rioja, La;1994;1237;Entre hombre y mujer
+1814;26 Rioja, La;1993;1199;Entre hombre y mujer
+1815;26 Rioja, La;1992;1303;Entre hombre y mujer
+1816;26 Rioja, La;1991;1309;Entre hombre y mujer
+1817;26 Rioja, La;1990;1318;Entre hombre y mujer
+1818;26 Rioja, La;1989;1378;Entre hombre y mujer
+1819;26 Rioja, La;1988;1339;Entre hombre y mujer
+1820;26 Rioja, La;1987;1420;Entre hombre y mujer
+1821;26 Rioja, La;1986;1357;Entre hombre y mujer
+1822;26 Rioja, La;1985;1325;Entre hombre y mujer
+1823;26 Rioja, La;1984;1419;Entre hombre y mujer
+1824;26 Rioja, La;1983;1365;Entre hombre y mujer
+1825;26 Rioja, La;1982;1208;Entre hombre y mujer
+1826;26 Rioja, La;1981;1245;Entre hombre y mujer
+1827;26 Rioja, La;1980;1449;Entre hombre y mujer
+1828;26 Rioja, La;1979;1749;Entre hombre y mujer
+1829;26 Rioja, La;1978;1689;Entre hombre y mujer
+1830;26 Rioja, La;1977;1681;Entre hombre y mujer
+1831;26 Rioja, La;1976;1592;Entre hombre y mujer
+1832;26 Rioja, La;1975;1746;Entre hombre y mujer
+1833;37 Salamanca;2021;740;Entre hombre y mujer
+1834;37 Salamanca;2020;367;Entre hombre y mujer
+1835;37 Salamanca;2019;944;Entre hombre y mujer
+1836;37 Salamanca;2018;974;Entre hombre y mujer
+1837;37 Salamanca;2017;1080;Entre hombre y mujer
+1838;37 Salamanca;2016;1041;Entre hombre y mujer
+1839;37 Salamanca;2015;1044;Entre hombre y mujer
+1840;37 Salamanca;2014;1081;Entre hombre y mujer
+1841;37 Salamanca;2013;1069;Entre hombre y mujer
+1842;37 Salamanca;2012;1139;Entre hombre y mujer
+1843;37 Salamanca;2011;935;Entre hombre y mujer
+1844;37 Salamanca;2010;1075;Entre hombre y mujer
+1845;37 Salamanca;2009;1211;Entre hombre y mujer
+1846;37 Salamanca;2008;1324;Entre hombre y mujer
+1847;37 Salamanca;2007;1370;Entre hombre y mujer
+1848;37 Salamanca;2006;1336;Entre hombre y mujer
+1849;37 Salamanca;2005;1408;Entre hombre y mujer
+1850;37 Salamanca;2004;1456;Entre hombre y mujer
+1851;37 Salamanca;2003;1494;Entre hombre y mujer
+1852;37 Salamanca;2002;1455;Entre hombre y mujer
+1853;37 Salamanca;2001;1461;Entre hombre y mujer
+1854;37 Salamanca;2000;1561;Entre hombre y mujer
+1855;37 Salamanca;1999;1535;Entre hombre y mujer
+1856;37 Salamanca;1998;1462;Entre hombre y mujer
+1857;37 Salamanca;1997;1454;Entre hombre y mujer
+1858;37 Salamanca;1996;1406;Entre hombre y mujer
+1859;37 Salamanca;1995;1462;Entre hombre y mujer
+1860;37 Salamanca;1994;1464;Entre hombre y mujer
+1861;37 Salamanca;1993;1551;Entre hombre y mujer
+1862;37 Salamanca;1992;1727;Entre hombre y mujer
+1863;37 Salamanca;1991;1755;Entre hombre y mujer
+1864;37 Salamanca;1990;1708;Entre hombre y mujer
+1865;37 Salamanca;1989;1850;Entre hombre y mujer
+1866;37 Salamanca;1988;1810;Entre hombre y mujer
+1867;37 Salamanca;1987;1798;Entre hombre y mujer
+1868;37 Salamanca;1986;1841;Entre hombre y mujer
+1869;37 Salamanca;1985;1599;Entre hombre y mujer
+1870;37 Salamanca;1984;1429;Entre hombre y mujer
+1871;37 Salamanca;1983;749;Entre hombre y mujer
+1872;37 Salamanca;1982;556;Entre hombre y mujer
+1873;37 Salamanca;1981;596;Entre hombre y mujer
+1874;37 Salamanca;1980;745;Entre hombre y mujer
+1875;37 Salamanca;1979;2091;Entre hombre y mujer
+1876;37 Salamanca;1978;2068;Entre hombre y mujer
+1877;37 Salamanca;1977;1987;Entre hombre y mujer
+1878;37 Salamanca;1976;1913;Entre hombre y mujer
+1879;37 Salamanca;1975;2003;Entre hombre y mujer
+1880;38 Santa Cruz de Tenerife;2021;3095;Entre hombre y mujer
+1881;38 Santa Cruz de Tenerife;2020;2209;Entre hombre y mujer
+1882;38 Santa Cruz de Tenerife;2019;3475;Entre hombre y mujer
+1883;38 Santa Cruz de Tenerife;2018;3514;Entre hombre y mujer
+1884;38 Santa Cruz de Tenerife;2017;3449;Entre hombre y mujer
+1885;38 Santa Cruz de Tenerife;2016;3314;Entre hombre y mujer
+1886;38 Santa Cruz de Tenerife;2015;3176;Entre hombre y mujer
+1887;38 Santa Cruz de Tenerife;2014;2992;Entre hombre y mujer
+1888;38 Santa Cruz de Tenerife;2013;2697;Entre hombre y mujer
+1889;38 Santa Cruz de Tenerife;2012;2683;Entre hombre y mujer
+1890;38 Santa Cruz de Tenerife;2011;2676;Entre hombre y mujer
+1891;38 Santa Cruz de Tenerife;2010;2753;Entre hombre y mujer
+1892;38 Santa Cruz de Tenerife;2009;2990;Entre hombre y mujer
+1893;38 Santa Cruz de Tenerife;2008;3185;Entre hombre y mujer
+1894;38 Santa Cruz de Tenerife;2007;3129;Entre hombre y mujer
+1895;38 Santa Cruz de Tenerife;2006;3456;Entre hombre y mujer
+1896;38 Santa Cruz de Tenerife;2005;3401;Entre hombre y mujer
+1897;38 Santa Cruz de Tenerife;2004;3318;Entre hombre y mujer
+1898;38 Santa Cruz de Tenerife;2003;3261;Entre hombre y mujer
+1899;38 Santa Cruz de Tenerife;2002;3337;Entre hombre y mujer
+1900;38 Santa Cruz de Tenerife;2001;3290;Entre hombre y mujer
+1901;38 Santa Cruz de Tenerife;2000;3558;Entre hombre y mujer
+1902;38 Santa Cruz de Tenerife;1999;3828;Entre hombre y mujer
+1903;38 Santa Cruz de Tenerife;1998;3956;Entre hombre y mujer
+1904;38 Santa Cruz de Tenerife;1997;3600;Entre hombre y mujer
+1905;38 Santa Cruz de Tenerife;1996;3618;Entre hombre y mujer
+1906;38 Santa Cruz de Tenerife;1995;3840;Entre hombre y mujer
+1907;38 Santa Cruz de Tenerife;1994;3985;Entre hombre y mujer
+1908;38 Santa Cruz de Tenerife;1993;3796;Entre hombre y mujer
+1909;38 Santa Cruz de Tenerife;1992;4129;Entre hombre y mujer
+1910;38 Santa Cruz de Tenerife;1991;4245;Entre hombre y mujer
+1911;38 Santa Cruz de Tenerife;1990;4417;Entre hombre y mujer
+1912;38 Santa Cruz de Tenerife;1989;4230;Entre hombre y mujer
+1913;38 Santa Cruz de Tenerife;1988;4592;Entre hombre y mujer
+1914;38 Santa Cruz de Tenerife;1987;4343;Entre hombre y mujer
+1915;38 Santa Cruz de Tenerife;1986;4032;Entre hombre y mujer
+1916;38 Santa Cruz de Tenerife;1985;3907;Entre hombre y mujer
+1917;38 Santa Cruz de Tenerife;1984;4173;Entre hombre y mujer
+1918;38 Santa Cruz de Tenerife;1983;4166;Entre hombre y mujer
+1919;38 Santa Cruz de Tenerife;1982;4098;Entre hombre y mujer
+1920;38 Santa Cruz de Tenerife;1981;3971;Entre hombre y mujer
+1921;38 Santa Cruz de Tenerife;1980;4463;Entre hombre y mujer
+1922;38 Santa Cruz de Tenerife;1979;4835;Entre hombre y mujer
+1923;38 Santa Cruz de Tenerife;1978;4656;Entre hombre y mujer
+1924;38 Santa Cruz de Tenerife;1977;4446;Entre hombre y mujer
+1925;38 Santa Cruz de Tenerife;1976;4576;Entre hombre y mujer
+1926;38 Santa Cruz de Tenerife;1975;4546;Entre hombre y mujer
+1927;40 Segovia;2021;406;Entre hombre y mujer
+1928;40 Segovia;2020;228;Entre hombre y mujer
+1929;40 Segovia;2019;532;Entre hombre y mujer
+1930;40 Segovia;2018;481;Entre hombre y mujer
+1931;40 Segovia;2017;549;Entre hombre y mujer
+1932;40 Segovia;2016;484;Entre hombre y mujer
+1933;40 Segovia;2015;520;Entre hombre y mujer
+1934;40 Segovia;2014;452;Entre hombre y mujer
+1935;40 Segovia;2013;439;Entre hombre y mujer
+1936;40 Segovia;2012;481;Entre hombre y mujer
+1937;40 Segovia;2011;513;Entre hombre y mujer
+1938;40 Segovia;2010;534;Entre hombre y mujer
+1939;40 Segovia;2009;566;Entre hombre y mujer
+1940;40 Segovia;2008;664;Entre hombre y mujer
+1941;40 Segovia;2007;594;Entre hombre y mujer
+1942;40 Segovia;2006;586;Entre hombre y mujer
+1943;40 Segovia;2005;604;Entre hombre y mujer
+1944;40 Segovia;2004;644;Entre hombre y mujer
+1945;40 Segovia;2003;586;Entre hombre y mujer
+1946;40 Segovia;2002;686;Entre hombre y mujer
+1947;40 Segovia;2001;611;Entre hombre y mujer
+1948;40 Segovia;2000;644;Entre hombre y mujer
+1949;40 Segovia;1999;658;Entre hombre y mujer
+1950;40 Segovia;1998;652;Entre hombre y mujer
+1951;40 Segovia;1997;635;Entre hombre y mujer
+1952;40 Segovia;1996;641;Entre hombre y mujer
+1953;40 Segovia;1995;599;Entre hombre y mujer
+1954;40 Segovia;1994;655;Entre hombre y mujer
+1955;40 Segovia;1993;683;Entre hombre y mujer
+1956;40 Segovia;1992;707;Entre hombre y mujer
+1957;40 Segovia;1991;697;Entre hombre y mujer
+1958;40 Segovia;1990;719;Entre hombre y mujer
+1959;40 Segovia;1989;698;Entre hombre y mujer
+1960;40 Segovia;1988;768;Entre hombre y mujer
+1961;40 Segovia;1987;691;Entre hombre y mujer
+1962;40 Segovia;1986;742;Entre hombre y mujer
+1963;40 Segovia;1985;713;Entre hombre y mujer
+1964;40 Segovia;1984;722;Entre hombre y mujer
+1965;40 Segovia;1983;734;Entre hombre y mujer
+1966;40 Segovia;1982;698;Entre hombre y mujer
+1967;40 Segovia;1981;693;Entre hombre y mujer
+1968;40 Segovia;1980;753;Entre hombre y mujer
+1969;40 Segovia;1979;788;Entre hombre y mujer
+1970;40 Segovia;1978;783;Entre hombre y mujer
+1971;40 Segovia;1977;878;Entre hombre y mujer
+1972;40 Segovia;1976;754;Entre hombre y mujer
+1973;40 Segovia;1975;860;Entre hombre y mujer
+1974;41 Sevilla;2021;6541;Entre hombre y mujer
+1975;41 Sevilla;2020;3663;Entre hombre y mujer
+1976;41 Sevilla;2019;7601;Entre hombre y mujer
+1977;41 Sevilla;2018;7346;Entre hombre y mujer
+1978;41 Sevilla;2017;7284;Entre hombre y mujer
+1979;41 Sevilla;2016;7681;Entre hombre y mujer
+1980;41 Sevilla;2015;7456;Entre hombre y mujer
+1981;41 Sevilla;2014;7105;Entre hombre y mujer
+1982;41 Sevilla;2013;6643;Entre hombre y mujer
+1983;41 Sevilla;2012;7312;Entre hombre y mujer
+1984;41 Sevilla;2011;7110;Entre hombre y mujer
+1985;41 Sevilla;2010;7528;Entre hombre y mujer
+1986;41 Sevilla;2009;8150;Entre hombre y mujer
+1987;41 Sevilla;2008;9565;Entre hombre y mujer
+1988;41 Sevilla;2007;10365;Entre hombre y mujer
+1989;41 Sevilla;2006;10574;Entre hombre y mujer
+1990;41 Sevilla;2005;10885;Entre hombre y mujer
+1991;41 Sevilla;2004;10625;Entre hombre y mujer
+1992;41 Sevilla;2003;10159;Entre hombre y mujer
+1993;41 Sevilla;2002;10216;Entre hombre y mujer
+1994;41 Sevilla;2001;10020;Entre hombre y mujer
+1995;41 Sevilla;2000;10267;Entre hombre y mujer
+1996;41 Sevilla;1999;9768;Entre hombre y mujer
+1997;41 Sevilla;1998;9672;Entre hombre y mujer
+1998;41 Sevilla;1997;9196;Entre hombre y mujer
+1999;41 Sevilla;1996;8905;Entre hombre y mujer
+2000;41 Sevilla;1995;9140;Entre hombre y mujer
+2001;41 Sevilla;1994;9222;Entre hombre y mujer
+2002;41 Sevilla;1993;9587;Entre hombre y mujer
+2003;41 Sevilla;1992;9881;Entre hombre y mujer
+2004;41 Sevilla;1991;10397;Entre hombre y mujer
+2005;41 Sevilla;1990;10252;Entre hombre y mujer
+2006;41 Sevilla;1989;10264;Entre hombre y mujer
+2007;41 Sevilla;1988;9948;Entre hombre y mujer
+2008;41 Sevilla;1987;9780;Entre hombre y mujer
+2009;41 Sevilla;1986;9239;Entre hombre y mujer
+2010;41 Sevilla;1985;8719;Entre hombre y mujer
+2011;41 Sevilla;1984;8924;Entre hombre y mujer
+2012;41 Sevilla;1983;8985;Entre hombre y mujer
+2013;41 Sevilla;1982;8844;Entre hombre y mujer
+2014;41 Sevilla;1981;8794;Entre hombre y mujer
+2015;41 Sevilla;1980;9443;Entre hombre y mujer
+2016;41 Sevilla;1979;10206;Entre hombre y mujer
+2017;41 Sevilla;1978;10548;Entre hombre y mujer
+2018;41 Sevilla;1977;10793;Entre hombre y mujer
+2019;41 Sevilla;1976;10521;Entre hombre y mujer
+2020;41 Sevilla;1975;10388;Entre hombre y mujer
+2021;42 Soria;2021;238;Entre hombre y mujer
+2022;42 Soria;2020;147;Entre hombre y mujer
+2023;42 Soria;2019;269;Entre hombre y mujer
+2024;42 Soria;2018;273;Entre hombre y mujer
+2025;42 Soria;2017;262;Entre hombre y mujer
+2026;42 Soria;2016;270;Entre hombre y mujer
+2027;42 Soria;2015;240;Entre hombre y mujer
+2028;42 Soria;2014;253;Entre hombre y mujer
+2029;42 Soria;2013;233;Entre hombre y mujer
+2030;42 Soria;2012;277;Entre hombre y mujer
+2031;42 Soria;2011;250;Entre hombre y mujer
+2032;42 Soria;2010;273;Entre hombre y mujer
+2033;42 Soria;2009;290;Entre hombre y mujer
+2034;42 Soria;2008;254;Entre hombre y mujer
+2035;42 Soria;2007;288;Entre hombre y mujer
+2036;42 Soria;2006;308;Entre hombre y mujer
+2037;42 Soria;2005;290;Entre hombre y mujer
+2038;42 Soria;2004;320;Entre hombre y mujer
+2039;42 Soria;2003;356;Entre hombre y mujer
+2040;42 Soria;2002;362;Entre hombre y mujer
+2041;42 Soria;2001;317;Entre hombre y mujer
+2042;42 Soria;2000;323;Entre hombre y mujer
+2043;42 Soria;1999;362;Entre hombre y mujer
+2044;42 Soria;1998;381;Entre hombre y mujer
+2045;42 Soria;1997;347;Entre hombre y mujer
+2046;42 Soria;1996;343;Entre hombre y mujer
+2047;42 Soria;1995;368;Entre hombre y mujer
+2048;42 Soria;1994;363;Entre hombre y mujer
+2049;42 Soria;1993;376;Entre hombre y mujer
+2050;42 Soria;1992;436;Entre hombre y mujer
+2051;42 Soria;1991;372;Entre hombre y mujer
+2052;42 Soria;1990;389;Entre hombre y mujer
+2053;42 Soria;1989;423;Entre hombre y mujer
+2054;42 Soria;1988;422;Entre hombre y mujer
+2055;42 Soria;1987;421;Entre hombre y mujer
+2056;42 Soria;1986;415;Entre hombre y mujer
+2057;42 Soria;1985;436;Entre hombre y mujer
+2058;42 Soria;1984;413;Entre hombre y mujer
+2059;42 Soria;1983;451;Entre hombre y mujer
+2060;42 Soria;1982;409;Entre hombre y mujer
+2061;42 Soria;1981;432;Entre hombre y mujer
+2062;42 Soria;1980;461;Entre hombre y mujer
+2063;42 Soria;1979;440;Entre hombre y mujer
+2064;42 Soria;1978;467;Entre hombre y mujer
+2065;42 Soria;1977;476;Entre hombre y mujer
+2066;42 Soria;1976;444;Entre hombre y mujer
+2067;42 Soria;1975;517;Entre hombre y mujer
+2068;43 Tarragona;2021;2482;Entre hombre y mujer
+2069;43 Tarragona;2020;1726;Entre hombre y mujer
+2070;43 Tarragona;2019;2725;Entre hombre y mujer
+2071;43 Tarragona;2018;2633;Entre hombre y mujer
+2072;43 Tarragona;2017;2861;Entre hombre y mujer
+2073;43 Tarragona;2016;2948;Entre hombre y mujer
+2074;43 Tarragona;2015;2832;Entre hombre y mujer
+2075;43 Tarragona;2014;2705;Entre hombre y mujer
+2076;43 Tarragona;2013;2620;Entre hombre y mujer
+2077;43 Tarragona;2012;2783;Entre hombre y mujer
+2078;43 Tarragona;2011;2714;Entre hombre y mujer
+2079;43 Tarragona;2010;2955;Entre hombre y mujer
+2080;43 Tarragona;2009;3028;Entre hombre y mujer
+2081;43 Tarragona;2008;3454;Entre hombre y mujer
+2082;43 Tarragona;2007;3477;Entre hombre y mujer
+2083;43 Tarragona;2006;3508;Entre hombre y mujer
+2084;43 Tarragona;2005;3482;Entre hombre y mujer
+2085;43 Tarragona;2004;3662;Entre hombre y mujer
+2086;43 Tarragona;2003;3444;Entre hombre y mujer
+2087;43 Tarragona;2002;3265;Entre hombre y mujer
+2088;43 Tarragona;2001;3138;Entre hombre y mujer
+2089;43 Tarragona;2000;3190;Entre hombre y mujer
+2090;43 Tarragona;1999;3154;Entre hombre y mujer
+2091;43 Tarragona;1998;3114;Entre hombre y mujer
+2092;43 Tarragona;1997;2944;Entre hombre y mujer
+2093;43 Tarragona;1996;2893;Entre hombre y mujer
+2094;43 Tarragona;1995;3049;Entre hombre y mujer
+2095;43 Tarragona;1994;2880;Entre hombre y mujer
+2096;43 Tarragona;1993;2737;Entre hombre y mujer
+2097;43 Tarragona;1992;3073;Entre hombre y mujer
+2098;43 Tarragona;1991;3004;Entre hombre y mujer
+2099;43 Tarragona;1990;3051;Entre hombre y mujer
+2100;43 Tarragona;1989;3121;Entre hombre y mujer
+2101;43 Tarragona;1988;3042;Entre hombre y mujer
+2102;43 Tarragona;1987;2987;Entre hombre y mujer
+2103;43 Tarragona;1986;2869;Entre hombre y mujer
+2104;43 Tarragona;1985;2847;Entre hombre y mujer
+2105;43 Tarragona;1984;2839;Entre hombre y mujer
+2106;43 Tarragona;1983;2755;Entre hombre y mujer
+2107;43 Tarragona;1982;2847;Entre hombre y mujer
+2108;43 Tarragona;1981;2726;Entre hombre y mujer
+2109;43 Tarragona;1980;3136;Entre hombre y mujer
+2110;43 Tarragona;1979;3471;Entre hombre y mujer
+2111;43 Tarragona;1978;3837;Entre hombre y mujer
+2112;43 Tarragona;1977;3814;Entre hombre y mujer
+2113;43 Tarragona;1976;3702;Entre hombre y mujer
+2114;43 Tarragona;1975;3796;Entre hombre y mujer
+2115;44 Teruel;2021;358;Entre hombre y mujer
+2116;44 Teruel;2020;257;Entre hombre y mujer
+2117;44 Teruel;2019;367;Entre hombre y mujer
+2118;44 Teruel;2018;377;Entre hombre y mujer
+2119;44 Teruel;2017;397;Entre hombre y mujer
+2120;44 Teruel;2016;386;Entre hombre y mujer
+2121;44 Teruel;2015;377;Entre hombre y mujer
+2122;44 Teruel;2014;430;Entre hombre y mujer
+2123;44 Teruel;2013;407;Entre hombre y mujer
+2124;44 Teruel;2012;421;Entre hombre y mujer
+2125;44 Teruel;2011;397;Entre hombre y mujer
+2126;44 Teruel;2010;415;Entre hombre y mujer
+2127;44 Teruel;2009;428;Entre hombre y mujer
+2128;44 Teruel;2008;453;Entre hombre y mujer
+2129;44 Teruel;2007;481;Entre hombre y mujer
+2130;44 Teruel;2006;489;Entre hombre y mujer
+2131;44 Teruel;2005;532;Entre hombre y mujer
+2132;44 Teruel;2004;513;Entre hombre y mujer
+2133;44 Teruel;2003;584;Entre hombre y mujer
+2134;44 Teruel;2002;561;Entre hombre y mujer
+2135;44 Teruel;2001;485;Entre hombre y mujer
+2136;44 Teruel;2000;547;Entre hombre y mujer
+2137;44 Teruel;1999;513;Entre hombre y mujer
+2138;44 Teruel;1998;513;Entre hombre y mujer
+2139;44 Teruel;1997;469;Entre hombre y mujer
+2140;44 Teruel;1996;516;Entre hombre y mujer
+2141;44 Teruel;1995;496;Entre hombre y mujer
+2142;44 Teruel;1994;582;Entre hombre y mujer
+2143;44 Teruel;1993;579;Entre hombre y mujer
+2144;44 Teruel;1992;665;Entre hombre y mujer
+2145;44 Teruel;1991;612;Entre hombre y mujer
+2146;44 Teruel;1990;642;Entre hombre y mujer
+2147;44 Teruel;1989;709;Entre hombre y mujer
+2148;44 Teruel;1988;775;Entre hombre y mujer
+2149;44 Teruel;1987;732;Entre hombre y mujer
+2150;44 Teruel;1986;714;Entre hombre y mujer
+2151;44 Teruel;1985;728;Entre hombre y mujer
+2152;44 Teruel;1984;765;Entre hombre y mujer
+2153;44 Teruel;1983;802;Entre hombre y mujer
+2154;44 Teruel;1982;789;Entre hombre y mujer
+2155;44 Teruel;1981;687;Entre hombre y mujer
+2156;44 Teruel;1980;754;Entre hombre y mujer
+2157;44 Teruel;1979;823;Entre hombre y mujer
+2158;44 Teruel;1978;905;Entre hombre y mujer
+2159;44 Teruel;1977;812;Entre hombre y mujer
+2160;44 Teruel;1976;792;Entre hombre y mujer
+2161;44 Teruel;1975;750;Entre hombre y mujer
+2162;45 Toledo;2021;2282;Entre hombre y mujer
+2163;45 Toledo;2020;1185;Entre hombre y mujer
+2164;45 Toledo;2019;2496;Entre hombre y mujer
+2165;45 Toledo;2018;2520;Entre hombre y mujer
+2166;45 Toledo;2017;2579;Entre hombre y mujer
+2167;45 Toledo;2016;2597;Entre hombre y mujer
+2168;45 Toledo;2015;2423;Entre hombre y mujer
+2169;45 Toledo;2014;2438;Entre hombre y mujer
+2170;45 Toledo;2013;2302;Entre hombre y mujer
+2171;45 Toledo;2012;2663;Entre hombre y mujer
+2172;45 Toledo;2011;2627;Entre hombre y mujer
+2173;45 Toledo;2010;2603;Entre hombre y mujer
+2174;45 Toledo;2009;2847;Entre hombre y mujer
+2175;45 Toledo;2008;3291;Entre hombre y mujer
+2176;45 Toledo;2007;3091;Entre hombre y mujer
+2177;45 Toledo;2006;3034;Entre hombre y mujer
+2178;45 Toledo;2005;3063;Entre hombre y mujer
+2179;45 Toledo;2004;3048;Entre hombre y mujer
+2180;45 Toledo;2003;2826;Entre hombre y mujer
+2181;45 Toledo;2002;2838;Entre hombre y mujer
+2182;45 Toledo;2001;2855;Entre hombre y mujer
+2183;45 Toledo;2000;2723;Entre hombre y mujer
+2184;45 Toledo;1999;2686;Entre hombre y mujer
+2185;45 Toledo;1998;2561;Entre hombre y mujer
+2186;45 Toledo;1997;2499;Entre hombre y mujer
+2187;45 Toledo;1996;2438;Entre hombre y mujer
+2188;45 Toledo;1995;2622;Entre hombre y mujer
+2189;45 Toledo;1994;2693;Entre hombre y mujer
+2190;45 Toledo;1993;2602;Entre hombre y mujer
+2191;45 Toledo;1992;2770;Entre hombre y mujer
+2192;45 Toledo;1991;2710;Entre hombre y mujer
+2193;45 Toledo;1990;2705;Entre hombre y mujer
+2194;45 Toledo;1989;2777;Entre hombre y mujer
+2195;45 Toledo;1988;2856;Entre hombre y mujer
+2196;45 Toledo;1987;2782;Entre hombre y mujer
+2197;45 Toledo;1986;2616;Entre hombre y mujer
+2198;45 Toledo;1985;2620;Entre hombre y mujer
+2199;45 Toledo;1984;2686;Entre hombre y mujer
+2200;45 Toledo;1983;2725;Entre hombre y mujer
+2201;45 Toledo;1982;2572;Entre hombre y mujer
+2202;45 Toledo;1981;2737;Entre hombre y mujer
+2203;45 Toledo;1980;2539;Entre hombre y mujer
+2204;45 Toledo;1979;2897;Entre hombre y mujer
+2205;45 Toledo;1978;2882;Entre hombre y mujer
+2206;45 Toledo;1977;2791;Entre hombre y mujer
+2207;45 Toledo;1976;2712;Entre hombre y mujer
+2208;45 Toledo;1975;2928;Entre hombre y mujer
+2209;46 Valencia/València;2021;8354;Entre hombre y mujer
+2210;46 Valencia/València;2020;5279;Entre hombre y mujer
+2211;46 Valencia/València;2019;8937;Entre hombre y mujer
+2212;46 Valencia/València;2018;9328;Entre hombre y mujer
+2213;46 Valencia/València;2017;9450;Entre hombre y mujer
+2214;46 Valencia/València;2016;9834;Entre hombre y mujer
+2215;46 Valencia/València;2015;9589;Entre hombre y mujer
+2216;46 Valencia/València;2014;9281;Entre hombre y mujer
+2217;46 Valencia/València;2013;8989;Entre hombre y mujer
+2218;46 Valencia/València;2012;9437;Entre hombre y mujer
+2219;46 Valencia/València;2011;9285;Entre hombre y mujer
+2220;46 Valencia/València;2010;9676;Entre hombre y mujer
+2221;46 Valencia/València;2009;10130;Entre hombre y mujer
+2222;46 Valencia/València;2008;11407;Entre hombre y mujer
+2223;46 Valencia/València;2007;12165;Entre hombre y mujer
+2224;46 Valencia/València;2006;12652;Entre hombre y mujer
+2225;46 Valencia/València;2005;13391;Entre hombre y mujer
+2226;46 Valencia/València;2004;14454;Entre hombre y mujer
+2227;46 Valencia/València;2003;13933;Entre hombre y mujer
+2228;46 Valencia/València;2002;13358;Entre hombre y mujer
+2229;46 Valencia/València;2001;12726;Entre hombre y mujer
+2230;46 Valencia/València;2000;12984;Entre hombre y mujer
+2231;46 Valencia/València;1999;12358;Entre hombre y mujer
+2232;46 Valencia/València;1998;12622;Entre hombre y mujer
+2233;46 Valencia/València;1997;11547;Entre hombre y mujer
+2234;46 Valencia/València;1996;11400;Entre hombre y mujer
+2235;46 Valencia/València;1995;11672;Entre hombre y mujer
+2236;46 Valencia/València;1994;11210;Entre hombre y mujer
+2237;46 Valencia/València;1993;11367;Entre hombre y mujer
+2238;46 Valencia/València;1992;12516;Entre hombre y mujer
+2239;46 Valencia/València;1991;12028;Entre hombre y mujer
+2240;46 Valencia/València;1990;12073;Entre hombre y mujer
+2241;46 Valencia/València;1989;12221;Entre hombre y mujer
+2242;46 Valencia/València;1988;12122;Entre hombre y mujer
+2243;46 Valencia/València;1987;11776;Entre hombre y mujer
+2244;46 Valencia/València;1986;11330;Entre hombre y mujer
+2245;46 Valencia/València;1985;10986;Entre hombre y mujer
+2246;46 Valencia/València;1984;11960;Entre hombre y mujer
+2247;46 Valencia/València;1983;12204;Entre hombre y mujer
+2248;46 Valencia/València;1982;11954;Entre hombre y mujer
+2249;46 Valencia/València;1981;12144;Entre hombre y mujer
+2250;46 Valencia/València;1980;13493;Entre hombre y mujer
+2251;46 Valencia/València;1979;14953;Entre hombre y mujer
+2252;46 Valencia/València;1978;15800;Entre hombre y mujer
+2253;46 Valencia/València;1977;15650;Entre hombre y mujer
+2254;46 Valencia/València;1976;15172;Entre hombre y mujer
+2255;46 Valencia/València;1975;15402;Entre hombre y mujer
+2256;47 Valladolid;2021;1388;Entre hombre y mujer
+2257;47 Valladolid;2020;751;Entre hombre y mujer
+2258;47 Valladolid;2019;1642;Entre hombre y mujer
+2259;47 Valladolid;2018;1642;Entre hombre y mujer
+2260;47 Valladolid;2017;1806;Entre hombre y mujer
+2261;47 Valladolid;2016;1764;Entre hombre y mujer
+2262;47 Valladolid;2015;1784;Entre hombre y mujer
+2263;47 Valladolid;2014;1805;Entre hombre y mujer
+2264;47 Valladolid;2013;1770;Entre hombre y mujer
+2265;47 Valladolid;2012;1975;Entre hombre y mujer
+2266;47 Valladolid;2011;1911;Entre hombre y mujer
+2267;47 Valladolid;2010;1999;Entre hombre y mujer
+2268;47 Valladolid;2009;2147;Entre hombre y mujer
+2269;47 Valladolid;2008;2342;Entre hombre y mujer
+2270;47 Valladolid;2007;2553;Entre hombre y mujer
+2271;47 Valladolid;2006;2504;Entre hombre y mujer
+2272;47 Valladolid;2005;2499;Entre hombre y mujer
+2273;47 Valladolid;2004;2585;Entre hombre y mujer
+2274;47 Valladolid;2003;2427;Entre hombre y mujer
+2275;47 Valladolid;2002;2496;Entre hombre y mujer
+2276;47 Valladolid;2001;2538;Entre hombre y mujer
+2277;47 Valladolid;2000;2563;Entre hombre y mujer
+2278;47 Valladolid;1999;2347;Entre hombre y mujer
+2279;47 Valladolid;1998;2260;Entre hombre y mujer
+2280;47 Valladolid;1997;2030;Entre hombre y mujer
+2281;47 Valladolid;1996;2145;Entre hombre y mujer
+2282;47 Valladolid;1995;2210;Entre hombre y mujer
+2283;47 Valladolid;1994;2207;Entre hombre y mujer
+2284;47 Valladolid;1993;2280;Entre hombre y mujer
+2285;47 Valladolid;1992;2489;Entre hombre y mujer
+2286;47 Valladolid;1991;2584;Entre hombre y mujer
+2287;47 Valladolid;1990;2565;Entre hombre y mujer
+2288;47 Valladolid;1989;2439;Entre hombre y mujer
+2289;47 Valladolid;1988;2239;Entre hombre y mujer
+2290;47 Valladolid;1987;2099;Entre hombre y mujer
+2291;47 Valladolid;1986;1118;Entre hombre y mujer
+2292;47 Valladolid;1985;930;Entre hombre y mujer
+2293;47 Valladolid;1984;1361;Entre hombre y mujer
+2294;47 Valladolid;1983;1820;Entre hombre y mujer
+2295;47 Valladolid;1982;980;Entre hombre y mujer
+2296;47 Valladolid;1981;759;Entre hombre y mujer
+2297;47 Valladolid;1980;1025;Entre hombre y mujer
+2298;47 Valladolid;1979;3043;Entre hombre y mujer
+2299;47 Valladolid;1978;3240;Entre hombre y mujer
+2300;47 Valladolid;1977;3348;Entre hombre y mujer
+2301;47 Valladolid;1976;3222;Entre hombre y mujer
+2302;47 Valladolid;1975;3317;Entre hombre y mujer
+2303;49 Zamora;2021;353;Entre hombre y mujer
+2304;49 Zamora;2020;186;Entre hombre y mujer
+2305;49 Zamora;2019;395;Entre hombre y mujer
+2306;49 Zamora;2018;416;Entre hombre y mujer
+2307;49 Zamora;2017;402;Entre hombre y mujer
+2308;49 Zamora;2016;447;Entre hombre y mujer
+2309;49 Zamora;2015;425;Entre hombre y mujer
+2310;49 Zamora;2014;422;Entre hombre y mujer
+2311;49 Zamora;2013;386;Entre hombre y mujer
+2312;49 Zamora;2012;477;Entre hombre y mujer
+2313;49 Zamora;2011;464;Entre hombre y mujer
+2314;49 Zamora;2010;480;Entre hombre y mujer
+2315;49 Zamora;2009;537;Entre hombre y mujer
+2316;49 Zamora;2008;551;Entre hombre y mujer
+2317;49 Zamora;2007;597;Entre hombre y mujer
+2318;49 Zamora;2006;565;Entre hombre y mujer
+2319;49 Zamora;2005;597;Entre hombre y mujer
+2320;49 Zamora;2004;623;Entre hombre y mujer
+2321;49 Zamora;2003;694;Entre hombre y mujer
+2322;49 Zamora;2002;633;Entre hombre y mujer
+2323;49 Zamora;2001;618;Entre hombre y mujer
+2324;49 Zamora;2000;678;Entre hombre y mujer
+2325;49 Zamora;1999;706;Entre hombre y mujer
+2326;49 Zamora;1998;705;Entre hombre y mujer
+2327;49 Zamora;1997;736;Entre hombre y mujer
+2328;49 Zamora;1996;728;Entre hombre y mujer
+2329;49 Zamora;1995;748;Entre hombre y mujer
+2330;49 Zamora;1994;796;Entre hombre y mujer
+2331;49 Zamora;1993;782;Entre hombre y mujer
+2332;49 Zamora;1992;826;Entre hombre y mujer
+2333;49 Zamora;1991;856;Entre hombre y mujer
+2334;49 Zamora;1990;933;Entre hombre y mujer
+2335;49 Zamora;1989;954;Entre hombre y mujer
+2336;49 Zamora;1988;967;Entre hombre y mujer
+2337;49 Zamora;1987;987;Entre hombre y mujer
+2338;49 Zamora;1986;1036;Entre hombre y mujer
+2339;49 Zamora;1985;1030;Entre hombre y mujer
+2340;49 Zamora;1984;1096;Entre hombre y mujer
+2341;49 Zamora;1983;961;Entre hombre y mujer
+2342;49 Zamora;1982;984;Entre hombre y mujer
+2343;49 Zamora;1981;1127;Entre hombre y mujer
+2344;49 Zamora;1980;1036;Entre hombre y mujer
+2345;49 Zamora;1979;1157;Entre hombre y mujer
+2346;49 Zamora;1978;1235;Entre hombre y mujer
+2347;49 Zamora;1977;1150;Entre hombre y mujer
+2348;49 Zamora;1976;1156;Entre hombre y mujer
+2349;49 Zamora;1975;1168;Entre hombre y mujer
+2350;50 Zaragoza;2021;3009;Entre hombre y mujer
+2351;50 Zaragoza;2020;1625;Entre hombre y mujer
+2352;50 Zaragoza;2019;2832;Entre hombre y mujer
+2353;50 Zaragoza;2018;3089;Entre hombre y mujer
+2354;50 Zaragoza;2017;3214;Entre hombre y mujer
+2355;50 Zaragoza;2016;3297;Entre hombre y mujer
+2356;50 Zaragoza;2015;3263;Entre hombre y mujer
+2357;50 Zaragoza;2014;3059;Entre hombre y mujer
+2358;50 Zaragoza;2013;3273;Entre hombre y mujer
+2359;50 Zaragoza;2012;3478;Entre hombre y mujer
+2360;50 Zaragoza;2011;3245;Entre hombre y mujer
+2361;50 Zaragoza;2010;3352;Entre hombre y mujer
+2362;50 Zaragoza;2009;3597;Entre hombre y mujer
+2363;50 Zaragoza;2008;3861;Entre hombre y mujer
+2364;50 Zaragoza;2007;4031;Entre hombre y mujer
+2365;50 Zaragoza;2006;4192;Entre hombre y mujer
+2366;50 Zaragoza;2005;4347;Entre hombre y mujer
+2367;50 Zaragoza;2004;4506;Entre hombre y mujer
+2368;50 Zaragoza;2003;4365;Entre hombre y mujer
+2369;50 Zaragoza;2002;4588;Entre hombre y mujer
+2370;50 Zaragoza;2001;4425;Entre hombre y mujer
+2371;50 Zaragoza;2000;4625;Entre hombre y mujer
+2372;50 Zaragoza;1999;4377;Entre hombre y mujer
+2373;50 Zaragoza;1998;4384;Entre hombre y mujer
+2374;50 Zaragoza;1997;4223;Entre hombre y mujer
+2375;50 Zaragoza;1996;4063;Entre hombre y mujer
+2376;50 Zaragoza;1995;4103;Entre hombre y mujer
+2377;50 Zaragoza;1994;4059;Entre hombre y mujer
+2378;50 Zaragoza;1993;4303;Entre hombre y mujer
+2379;50 Zaragoza;1992;4620;Entre hombre y mujer
+2380;50 Zaragoza;1991;4558;Entre hombre y mujer
+2381;50 Zaragoza;1990;4559;Entre hombre y mujer
+2382;50 Zaragoza;1989;4574;Entre hombre y mujer
+2383;50 Zaragoza;1988;4530;Entre hombre y mujer
+2384;50 Zaragoza;1987;4610;Entre hombre y mujer
+2385;50 Zaragoza;1986;4297;Entre hombre y mujer
+2386;50 Zaragoza;1985;4139;Entre hombre y mujer
+2387;50 Zaragoza;1984;4547;Entre hombre y mujer
+2388;50 Zaragoza;1983;4585;Entre hombre y mujer
+2389;50 Zaragoza;1982;4545;Entre hombre y mujer
+2390;50 Zaragoza;1981;4294;Entre hombre y mujer
+2391;50 Zaragoza;1980;4785;Entre hombre y mujer
+2392;50 Zaragoza;1979;5218;Entre hombre y mujer
+2393;50 Zaragoza;1978;5611;Entre hombre y mujer
+2394;50 Zaragoza;1977;5538;Entre hombre y mujer
+2395;50 Zaragoza;1976;5197;Entre hombre y mujer
+2396;50 Zaragoza;1975;6088;Entre hombre y mujer
+2397;51 Ceuta;2021;424;Entre hombre y mujer
+2398;51 Ceuta;2020;253;Entre hombre y mujer
+2399;51 Ceuta;2019;502;Entre hombre y mujer
+2400;51 Ceuta;2018;429;Entre hombre y mujer
+2401;51 Ceuta;2017;445;Entre hombre y mujer
+2402;51 Ceuta;2016;494;Entre hombre y mujer
+2403;51 Ceuta;2015;423;Entre hombre y mujer
+2404;51 Ceuta;2014;394;Entre hombre y mujer
+2405;51 Ceuta;2013;383;Entre hombre y mujer
+2406;51 Ceuta;2012;407;Entre hombre y mujer
+2407;51 Ceuta;2011;445;Entre hombre y mujer
+2408;51 Ceuta;2010;397;Entre hombre y mujer
+2409;51 Ceuta;2009;397;Entre hombre y mujer
+2410;51 Ceuta;2008;366;Entre hombre y mujer
+2411;51 Ceuta;2007;373;Entre hombre y mujer
+2412;51 Ceuta;2006;325;Entre hombre y mujer
+2413;51 Ceuta;2005;361;Entre hombre y mujer
+2414;51 Ceuta;2004;374;Entre hombre y mujer
+2415;51 Ceuta;2003;345;Entre hombre y mujer
+2416;51 Ceuta;2002;330;Entre hombre y mujer
+2417;51 Ceuta;2001;326;Entre hombre y mujer
+2418;51 Ceuta;2000;322;Entre hombre y mujer
+2419;51 Ceuta;1999;296;Entre hombre y mujer
+2420;51 Ceuta;1998;314;Entre hombre y mujer
+2421;51 Ceuta;1997;343;Entre hombre y mujer
+2422;51 Ceuta;1996;351;Entre hombre y mujer
+2423;51 Ceuta;1995;292;Entre hombre y mujer
+2424;51 Ceuta;1994;304;Entre hombre y mujer
+2425;51 Ceuta;1993;307;Entre hombre y mujer
+2426;51 Ceuta;1992;350;Entre hombre y mujer
+2427;51 Ceuta;1991;399;Entre hombre y mujer
+2428;51 Ceuta;1990;386;Entre hombre y mujer
+2429;51 Ceuta;1989;403;Entre hombre y mujer
+2430;51 Ceuta;1988;486;Entre hombre y mujer
+2431;51 Ceuta;1987;532;Entre hombre y mujer
+2432;51 Ceuta;1986;408;Entre hombre y mujer
+2433;51 Ceuta;1985;346;Entre hombre y mujer
+2434;51 Ceuta;1984;380;Entre hombre y mujer
+2435;51 Ceuta;1983;342;Entre hombre y mujer
+2436;51 Ceuta;1982;341;Entre hombre y mujer
+2437;51 Ceuta;1981;370;Entre hombre y mujer
+2438;51 Ceuta;1980;323;Entre hombre y mujer
+2439;51 Ceuta;1979;352;Entre hombre y mujer
+2440;51 Ceuta;1978;379;Entre hombre y mujer
+2441;51 Ceuta;1977;378;Entre hombre y mujer
+2442;51 Ceuta;1976;421;Entre hombre y mujer
+2443;51 Ceuta;1975;413;Entre hombre y mujer
+2444;52 Melilla;2021;301;Entre hombre y mujer
+2445;52 Melilla;2020;157;Entre hombre y mujer
+2446;52 Melilla;2019;306;Entre hombre y mujer
+2447;52 Melilla;2018;313;Entre hombre y mujer
+2448;52 Melilla;2017;362;Entre hombre y mujer
+2449;52 Melilla;2016;395;Entre hombre y mujer
+2450;52 Melilla;2015;288;Entre hombre y mujer
+2451;52 Melilla;2014;319;Entre hombre y mujer
+2452;52 Melilla;2013;311;Entre hombre y mujer
+2453;52 Melilla;2012;381;Entre hombre y mujer
+2454;52 Melilla;2011;323;Entre hombre y mujer
+2455;52 Melilla;2010;444;Entre hombre y mujer
+2456;52 Melilla;2009;409;Entre hombre y mujer
+2457;52 Melilla;2008;470;Entre hombre y mujer
+2458;52 Melilla;2007;525;Entre hombre y mujer
+2459;52 Melilla;2006;399;Entre hombre y mujer
+2460;52 Melilla;2005;323;Entre hombre y mujer
+2461;52 Melilla;2004;407;Entre hombre y mujer
+2462;52 Melilla;2003;447;Entre hombre y mujer
+2463;52 Melilla;2002;402;Entre hombre y mujer
+2464;52 Melilla;2001;435;Entre hombre y mujer
+2465;52 Melilla;2000;546;Entre hombre y mujer
+2466;52 Melilla;1999;546;Entre hombre y mujer
+2467;52 Melilla;1998;451;Entre hombre y mujer
+2468;52 Melilla;1997;427;Entre hombre y mujer
+2469;52 Melilla;1996;404;Entre hombre y mujer
+2470;52 Melilla;1995;401;Entre hombre y mujer
+2471;52 Melilla;1994;413;Entre hombre y mujer
+2472;52 Melilla;1993;430;Entre hombre y mujer
+2473;52 Melilla;1992;420;Entre hombre y mujer
+2474;52 Melilla;1991;395;Entre hombre y mujer
+2475;52 Melilla;1990;370;Entre hombre y mujer
+2476;52 Melilla;1989;401;Entre hombre y mujer
+2477;52 Melilla;1988;303;Entre hombre y mujer
+2478;52 Melilla;1987;422;Entre hombre y mujer
+2479;52 Melilla;1986;428;Entre hombre y mujer
+2480;52 Melilla;1985;373;Entre hombre y mujer
+2481;52 Melilla;1984;333;Entre hombre y mujer
+2482;52 Melilla;1983;353;Entre hombre y mujer
+2483;52 Melilla;1982;370;Entre hombre y mujer
+2484;52 Melilla;1981;339;Entre hombre y mujer
+2485;52 Melilla;1980;308;Entre hombre y mujer
+2486;52 Melilla;1979;318;Entre hombre y mujer
+2487;52 Melilla;1978;322;Entre hombre y mujer
+2488;52 Melilla;1977;300;Entre hombre y mujer
+2489;52 Melilla;1976;312;Entre hombre y mujer
+2490;52 Melilla;1975;269;Entre hombre y mujer
+2491;No residente;2021;882;Entre hombre y mujer
+2492;No residente;2020;373;Entre hombre y mujer
+2493;No residente;2019;1325;Entre hombre y mujer
+2494;No residente;2018;2044;Entre hombre y mujer
+2495;No residente;2017;2259;Entre hombre y mujer
+2496;No residente;2016;2258;Entre hombre y mujer
+2497;No residente;2015;2217;Entre hombre y mujer
+2498;No residente;2014;2245;Entre hombre y mujer
+2499;No residente;2013;1942;Entre hombre y mujer
+2500;No residente;2012;1928;Entre hombre y mujer
+2501;No residente;2011;1578;Entre hombre y mujer
+2502;No residente;2010;1606;Entre hombre y mujer
+2503;No residente;2009;1705;Entre hombre y mujer
+2504;No residente;2008;1899;Entre hombre y mujer
+2505;No residente;2007;1919;Entre hombre y mujer
+2506;No residente;2006;1887;Entre hombre y mujer
+2507;No residente;2005;1714;Entre hombre y mujer
+2508;No residente;2004;1840;Entre hombre y mujer
+2509;No residente;2003;1823;Entre hombre y mujer
+2510;No residente;2002;1972;Entre hombre y mujer
+2511;No residente;2001;1791;Entre hombre y mujer
+2512;No residente;2000;1942;Entre hombre y mujer
+2513;No residente;1999;1826;Entre hombre y mujer
+2514;No residente;1998;1907;Entre hombre y mujer
+2515;No residente;1997;1834;Entre hombre y mujer
+2516;No residente;1996;1722;Entre hombre y mujer
+2517;No residente;1995;1740;Entre hombre y mujer
+2518;No residente;1994;1723;Entre hombre y mujer
+2519;No residente;1993;1477;Entre hombre y mujer
+2520;No residente;1992;1421;Entre hombre y mujer
+2521;No residente;1991;1387;Entre hombre y mujer
+2522;No residente;1990;1448;Entre hombre y mujer
+2523;No residente;1989;1386;Entre hombre y mujer
+2524;No residente;1988;1430;Entre hombre y mujer
+2525;No residente;1987;1213;Entre hombre y mujer
+2526;No residente;1986;1020;Entre hombre y mujer
+2527;No residente;1985;971;Entre hombre y mujer
+2528;No residente;1984;957;Entre hombre y mujer
+2529;No residente;1983;669;Entre hombre y mujer
+2530;No residente;1982;852;Entre hombre y mujer
+2531;No residente;1981;1013;Entre hombre y mujer
+2532;No residente;1980;929;Entre hombre y mujer
+2533;No residente;1979;1182;Entre hombre y mujer
+2534;No residente;1978;1308;Entre hombre y mujer
+2535;No residente;1977;1403;Entre hombre y mujer
+2536;No residente;1976;1582;Entre hombre y mujer
+2537;No residente;1975;1826;Entre hombre y mujer
+0;Total;2021;2206;Entre hombres
+1;Total;2020;1504;Entre hombres
+2;Total;2019;2492;Entre hombres
+3;Total;2018;2358;Entre hombres
+4;Total;2017;2323;Entre hombres
+5;Total;2016;2188;Entre hombres
+6;Total;2015;1925;Entre hombres
+7;Total;2014;1679;Entre hombres
+8;Total;2013;1648;Entre hombres
+9;Total;2012;1935;Entre hombres
+10;Total;2011;2073;Entre hombres
+11;Total;2010;1955;Entre hombres
+12;Total;2009;1984;Entre hombres
+13;Total;2008;2051;Entre hombres
+14;Total;2007;2141;Entre hombres
+15;Total;2006;3000;Entre hombres
+16;Total;2005;914;Entre hombres
+17;02 Albacete;2021;6;Entre hombres
+18;02 Albacete;2020;6;Entre hombres
+19;02 Albacete;2019;8;Entre hombres
+20;02 Albacete;2018;10;Entre hombres
+21;02 Albacete;2017;9;Entre hombres
+22;02 Albacete;2016;6;Entre hombres
+23;02 Albacete;2015;8;Entre hombres
+24;02 Albacete;2014;8;Entre hombres
+25;02 Albacete;2013;1;Entre hombres
+26;02 Albacete;2012;6;Entre hombres
+27;02 Albacete;2011;7;Entre hombres
+28;02 Albacete;2010;5;Entre hombres
+29;02 Albacete;2009;3;Entre hombres
+30;02 Albacete;2008;3;Entre hombres
+31;02 Albacete;2007;2;Entre hombres
+32;02 Albacete;2006;9;Entre hombres
+33;02 Albacete;2005;1;Entre hombres
+34;03 Alicante/Alacant;2021;108;Entre hombres
+35;03 Alicante/Alacant;2020;82;Entre hombres
+36;03 Alicante/Alacant;2019;96;Entre hombres
+37;03 Alicante/Alacant;2018;116;Entre hombres
+38;03 Alicante/Alacant;2017;137;Entre hombres
+39;03 Alicante/Alacant;2016;109;Entre hombres
+40;03 Alicante/Alacant;2015;88;Entre hombres
+41;03 Alicante/Alacant;2014;91;Entre hombres
+42;03 Alicante/Alacant;2013;79;Entre hombres
+43;03 Alicante/Alacant;2012;95;Entre hombres
+44;03 Alicante/Alacant;2011;86;Entre hombres
+45;03 Alicante/Alacant;2010;83;Entre hombres
+46;03 Alicante/Alacant;2009;101;Entre hombres
+47;03 Alicante/Alacant;2008;90;Entre hombres
+48;03 Alicante/Alacant;2007;117;Entre hombres
+49;03 Alicante/Alacant;2006;168;Entre hombres
+50;03 Alicante/Alacant;2005;39;Entre hombres
+51;04 Almería;2021;19;Entre hombres
+52;04 Almería;2020;17;Entre hombres
+53;04 Almería;2019;25;Entre hombres
+54;04 Almería;2018;19;Entre hombres
+55;04 Almería;2017;22;Entre hombres
+56;04 Almería;2016;13;Entre hombres
+57;04 Almería;2015;16;Entre hombres
+58;04 Almería;2014;13;Entre hombres
+59;04 Almería;2013;22;Entre hombres
+60;04 Almería;2012;9;Entre hombres
+61;04 Almería;2011;16;Entre hombres
+62;04 Almería;2010;20;Entre hombres
+63;04 Almería;2009;11;Entre hombres
+64;04 Almería;2008;21;Entre hombres
+65;04 Almería;2007;12;Entre hombres
+66;04 Almería;2006;30;Entre hombres
+67;04 Almería;2005;5;Entre hombres
+68;01 Araba/Álava;2021;15;Entre hombres
+69;01 Araba/Álava;2020;7;Entre hombres
+70;01 Araba/Álava;2019;13;Entre hombres
+71;01 Araba/Álava;2018;11;Entre hombres
+72;01 Araba/Álava;2017;7;Entre hombres
+73;01 Araba/Álava;2016;7;Entre hombres
+74;01 Araba/Álava;2015;6;Entre hombres
+75;01 Araba/Álava;2014;9;Entre hombres
+76;01 Araba/Álava;2013;11;Entre hombres
+77;01 Araba/Álava;2012;4;Entre hombres
+78;01 Araba/Álava;2011;15;Entre hombres
+79;01 Araba/Álava;2010;13;Entre hombres
+80;01 Araba/Álava;2009;2;Entre hombres
+81;01 Araba/Álava;2008;6;Entre hombres
+82;01 Araba/Álava;2007;10;Entre hombres
+83;01 Araba/Álava;2006;6;Entre hombres
+84;01 Araba/Álava;2005;6;Entre hombres
+85;33 Asturias;2021;45;Entre hombres
+86;33 Asturias;2020;28;Entre hombres
+87;33 Asturias;2019;45;Entre hombres
+88;33 Asturias;2018;29;Entre hombres
+89;33 Asturias;2017;36;Entre hombres
+90;33 Asturias;2016;30;Entre hombres
+91;33 Asturias;2015;32;Entre hombres
+92;33 Asturias;2014;23;Entre hombres
+93;33 Asturias;2013;22;Entre hombres
+94;33 Asturias;2012;25;Entre hombres
+95;33 Asturias;2011;23;Entre hombres
+96;33 Asturias;2010;34;Entre hombres
+97;33 Asturias;2009;36;Entre hombres
+98;33 Asturias;2008;35;Entre hombres
+99;33 Asturias;2007;27;Entre hombres
+100;33 Asturias;2006;51;Entre hombres
+101;33 Asturias;2005;24;Entre hombres
+102;05 Ávila;2021;4;Entre hombres
+103;05 Ávila;2020;1;Entre hombres
+104;05 Ávila;2019;3;Entre hombres
+105;05 Ávila;2018;3;Entre hombres
+106;05 Ávila;2017;2;Entre hombres
+107;05 Ávila;2016;5;Entre hombres
+108;05 Ávila;2015;0;Entre hombres
+109;05 Ávila;2014;3;Entre hombres
+110;05 Ávila;2013;0;Entre hombres
+111;05 Ávila;2012;1;Entre hombres
+112;05 Ávila;2011;0;Entre hombres
+113;05 Ávila;2010;1;Entre hombres
+114;05 Ávila;2009;4;Entre hombres
+115;05 Ávila;2008;2;Entre hombres
+116;05 Ávila;2007;2;Entre hombres
+117;05 Ávila;2006;2;Entre hombres
+118;05 Ávila;2005;0;Entre hombres
+119;06 Badajoz;2021;17;Entre hombres
+120;06 Badajoz;2020;6;Entre hombres
+121;06 Badajoz;2019;17;Entre hombres
+122;06 Badajoz;2018;25;Entre hombres
+123;06 Badajoz;2017;18;Entre hombres
+124;06 Badajoz;2016;11;Entre hombres
+125;06 Badajoz;2015;13;Entre hombres
+126;06 Badajoz;2014;9;Entre hombres
+127;06 Badajoz;2013;9;Entre hombres
+128;06 Badajoz;2012;15;Entre hombres
+129;06 Badajoz;2011;14;Entre hombres
+130;06 Badajoz;2010;10;Entre hombres
+131;06 Badajoz;2009;13;Entre hombres
+132;06 Badajoz;2008;7;Entre hombres
+133;06 Badajoz;2007;6;Entre hombres
+134;06 Badajoz;2006;7;Entre hombres
+135;06 Badajoz;2005;2;Entre hombres
+136;07 Balears, Illes;2021;83;Entre hombres
+137;07 Balears, Illes;2020;57;Entre hombres
+138;07 Balears, Illes;2019;114;Entre hombres
+139;07 Balears, Illes;2018;110;Entre hombres
+140;07 Balears, Illes;2017;84;Entre hombres
+141;07 Balears, Illes;2016;78;Entre hombres
+142;07 Balears, Illes;2015;72;Entre hombres
+143;07 Balears, Illes;2014;63;Entre hombres
+144;07 Balears, Illes;2013;75;Entre hombres
+145;07 Balears, Illes;2012;56;Entre hombres
+146;07 Balears, Illes;2011;82;Entre hombres
+147;07 Balears, Illes;2010;71;Entre hombres
+148;07 Balears, Illes;2009;86;Entre hombres
+149;07 Balears, Illes;2008;56;Entre hombres
+150;07 Balears, Illes;2007;87;Entre hombres
+151;07 Balears, Illes;2006;95;Entre hombres
+152;07 Balears, Illes;2005;33;Entre hombres
+153;08 Barcelona;2021;282;Entre hombres
+154;08 Barcelona;2020;191;Entre hombres
+155;08 Barcelona;2019;349;Entre hombres
+156;08 Barcelona;2018;410;Entre hombres
+157;08 Barcelona;2017;434;Entre hombres
+158;08 Barcelona;2016;414;Entre hombres
+159;08 Barcelona;2015;365;Entre hombres
+160;08 Barcelona;2014;304;Entre hombres
+161;08 Barcelona;2013;334;Entre hombres
+162;08 Barcelona;2012;413;Entre hombres
+163;08 Barcelona;2011;453;Entre hombres
+164;08 Barcelona;2010;446;Entre hombres
+165;08 Barcelona;2009;466;Entre hombres
+166;08 Barcelona;2008;474;Entre hombres
+167;08 Barcelona;2007;446;Entre hombres
+168;08 Barcelona;2006;636;Entre hombres
+169;08 Barcelona;2005;146;Entre hombres
+170;48 Bizkaia;2021;56;Entre hombres
+171;48 Bizkaia;2020;32;Entre hombres
+172;48 Bizkaia;2019;41;Entre hombres
+173;48 Bizkaia;2018;40;Entre hombres
+174;48 Bizkaia;2017;31;Entre hombres
+175;48 Bizkaia;2016;42;Entre hombres
+176;48 Bizkaia;2015;26;Entre hombres
+177;48 Bizkaia;2014;26;Entre hombres
+178;48 Bizkaia;2013;28;Entre hombres
+179;48 Bizkaia;2012;36;Entre hombres
+180;48 Bizkaia;2011;35;Entre hombres
+181;48 Bizkaia;2010;25;Entre hombres
+182;48 Bizkaia;2009;29;Entre hombres
+183;48 Bizkaia;2008;34;Entre hombres
+184;48 Bizkaia;2007;19;Entre hombres
+185;48 Bizkaia;2006;47;Entre hombres
+186;48 Bizkaia;2005;28;Entre hombres
+187;09 Burgos;2021;7;Entre hombres
+188;09 Burgos;2020;5;Entre hombres
+189;09 Burgos;2019;6;Entre hombres
+190;09 Burgos;2018;1;Entre hombres
+191;09 Burgos;2017;6;Entre hombres
+192;09 Burgos;2016;5;Entre hombres
+193;09 Burgos;2015;5;Entre hombres
+194;09 Burgos;2014;3;Entre hombres
+195;09 Burgos;2013;5;Entre hombres
+196;09 Burgos;2012;6;Entre hombres
+197;09 Burgos;2011;3;Entre hombres
+198;09 Burgos;2010;1;Entre hombres
+199;09 Burgos;2009;4;Entre hombres
+200;09 Burgos;2008;4;Entre hombres
+201;09 Burgos;2007;5;Entre hombres
+202;09 Burgos;2006;2;Entre hombres
+203;09 Burgos;2005;0;Entre hombres
+204;10 Cáceres;2021;13;Entre hombres
+205;10 Cáceres;2020;4;Entre hombres
+206;10 Cáceres;2019;8;Entre hombres
+207;10 Cáceres;2018;12;Entre hombres
+208;10 Cáceres;2017;7;Entre hombres
+209;10 Cáceres;2016;2;Entre hombres
+210;10 Cáceres;2015;5;Entre hombres
+211;10 Cáceres;2014;7;Entre hombres
+212;10 Cáceres;2013;3;Entre hombres
+213;10 Cáceres;2012;6;Entre hombres
+214;10 Cáceres;2011;4;Entre hombres
+215;10 Cáceres;2010;5;Entre hombres
+216;10 Cáceres;2009;3;Entre hombres
+217;10 Cáceres;2008;4;Entre hombres
+218;10 Cáceres;2007;7;Entre hombres
+219;10 Cáceres;2006;7;Entre hombres
+220;10 Cáceres;2005;3;Entre hombres
+221;11 Cádiz;2021;51;Entre hombres
+222;11 Cádiz;2020;17;Entre hombres
+223;11 Cádiz;2019;54;Entre hombres
+224;11 Cádiz;2018;52;Entre hombres
+225;11 Cádiz;2017;42;Entre hombres
+226;11 Cádiz;2016;36;Entre hombres
+227;11 Cádiz;2015;33;Entre hombres
+228;11 Cádiz;2014;39;Entre hombres
+229;11 Cádiz;2013;25;Entre hombres
+230;11 Cádiz;2012;26;Entre hombres
+231;11 Cádiz;2011;31;Entre hombres
+232;11 Cádiz;2010;37;Entre hombres
+233;11 Cádiz;2009;31;Entre hombres
+234;11 Cádiz;2008;22;Entre hombres
+235;11 Cádiz;2007;31;Entre hombres
+236;11 Cádiz;2006;54;Entre hombres
+237;11 Cádiz;2005;23;Entre hombres
+238;39 Cantabria;2021;33;Entre hombres
+239;39 Cantabria;2020;19;Entre hombres
+240;39 Cantabria;2019;21;Entre hombres
+241;39 Cantabria;2018;20;Entre hombres
+242;39 Cantabria;2017;19;Entre hombres
+243;39 Cantabria;2016;18;Entre hombres
+244;39 Cantabria;2015;16;Entre hombres
+245;39 Cantabria;2014;11;Entre hombres
+246;39 Cantabria;2013;15;Entre hombres
+247;39 Cantabria;2012;12;Entre hombres
+248;39 Cantabria;2011;16;Entre hombres
+249;39 Cantabria;2010;9;Entre hombres
+250;39 Cantabria;2009;11;Entre hombres
+251;39 Cantabria;2008;19;Entre hombres
+252;39 Cantabria;2007;12;Entre hombres
+253;39 Cantabria;2006;18;Entre hombres
+254;39 Cantabria;2005;9;Entre hombres
+255;12 Castellón/Castelló;2021;27;Entre hombres
+256;12 Castellón/Castelló;2020;12;Entre hombres
+257;12 Castellón/Castelló;2019;19;Entre hombres
+258;12 Castellón/Castelló;2018;27;Entre hombres
+259;12 Castellón/Castelló;2017;17;Entre hombres
+260;12 Castellón/Castelló;2016;10;Entre hombres
+261;12 Castellón/Castelló;2015;19;Entre hombres
+262;12 Castellón/Castelló;2014;10;Entre hombres
+263;12 Castellón/Castelló;2013;7;Entre hombres
+264;12 Castellón/Castelló;2012;19;Entre hombres
+265;12 Castellón/Castelló;2011;16;Entre hombres
+266;12 Castellón/Castelló;2010;13;Entre hombres
+267;12 Castellón/Castelló;2009;10;Entre hombres
+268;12 Castellón/Castelló;2008;13;Entre hombres
+269;12 Castellón/Castelló;2007;13;Entre hombres
+270;12 Castellón/Castelló;2006;20;Entre hombres
+271;12 Castellón/Castelló;2005;5;Entre hombres
+272;13 Ciudad Real;2021;12;Entre hombres
+273;13 Ciudad Real;2020;2;Entre hombres
+274;13 Ciudad Real;2019;13;Entre hombres
+275;13 Ciudad Real;2018;21;Entre hombres
+276;13 Ciudad Real;2017;10;Entre hombres
+277;13 Ciudad Real;2016;9;Entre hombres
+278;13 Ciudad Real;2015;2;Entre hombres
+279;13 Ciudad Real;2014;5;Entre hombres
+280;13 Ciudad Real;2013;6;Entre hombres
+281;13 Ciudad Real;2012;5;Entre hombres
+282;13 Ciudad Real;2011;6;Entre hombres
+283;13 Ciudad Real;2010;5;Entre hombres
+284;13 Ciudad Real;2009;5;Entre hombres
+285;13 Ciudad Real;2008;6;Entre hombres
+286;13 Ciudad Real;2007;7;Entre hombres
+287;13 Ciudad Real;2006;9;Entre hombres
+288;13 Ciudad Real;2005;5;Entre hombres
+289;14 Córdoba;2021;27;Entre hombres
+290;14 Córdoba;2020;17;Entre hombres
+291;14 Córdoba;2019;28;Entre hombres
+292;14 Córdoba;2018;29;Entre hombres
+293;14 Córdoba;2017;28;Entre hombres
+294;14 Córdoba;2016;24;Entre hombres
+295;14 Córdoba;2015;12;Entre hombres
+296;14 Córdoba;2014;17;Entre hombres
+297;14 Córdoba;2013;9;Entre hombres
+298;14 Córdoba;2012;11;Entre hombres
+299;14 Córdoba;2011;19;Entre hombres
+300;14 Córdoba;2010;14;Entre hombres
+301;14 Córdoba;2009;18;Entre hombres
+302;14 Córdoba;2008;11;Entre hombres
+303;14 Córdoba;2007;18;Entre hombres
+304;14 Córdoba;2006;23;Entre hombres
+305;14 Córdoba;2005;4;Entre hombres
+306;15 Coruña, A;2021;42;Entre hombres
+307;15 Coruña, A;2020;19;Entre hombres
+308;15 Coruña, A;2019;45;Entre hombres
+309;15 Coruña, A;2018;34;Entre hombres
+310;15 Coruña, A;2017;36;Entre hombres
+311;15 Coruña, A;2016;28;Entre hombres
+312;15 Coruña, A;2015;26;Entre hombres
+313;15 Coruña, A;2014;22;Entre hombres
+314;15 Coruña, A;2013;22;Entre hombres
+315;15 Coruña, A;2012;30;Entre hombres
+316;15 Coruña, A;2011;32;Entre hombres
+317;15 Coruña, A;2010;21;Entre hombres
+318;15 Coruña, A;2009;25;Entre hombres
+319;15 Coruña, A;2008;30;Entre hombres
+320;15 Coruña, A;2007;25;Entre hombres
+321;15 Coruña, A;2006;24;Entre hombres
+322;15 Coruña, A;2005;16;Entre hombres
+323;16 Cuenca;2021;8;Entre hombres
+324;16 Cuenca;2020;1;Entre hombres
+325;16 Cuenca;2019;3;Entre hombres
+326;16 Cuenca;2018;2;Entre hombres
+327;16 Cuenca;2017;4;Entre hombres
+328;16 Cuenca;2016;0;Entre hombres
+329;16 Cuenca;2015;7;Entre hombres
+330;16 Cuenca;2014;3;Entre hombres
+331;16 Cuenca;2013;2;Entre hombres
+332;16 Cuenca;2012;1;Entre hombres
+333;16 Cuenca;2011;0;Entre hombres
+334;16 Cuenca;2010;3;Entre hombres
+335;16 Cuenca;2009;0;Entre hombres
+336;16 Cuenca;2008;3;Entre hombres
+337;16 Cuenca;2007;1;Entre hombres
+338;16 Cuenca;2006;1;Entre hombres
+339;16 Cuenca;2005;1;Entre hombres
+340;20 Gipuzkoa;2021;29;Entre hombres
+341;20 Gipuzkoa;2020;6;Entre hombres
+342;20 Gipuzkoa;2019;23;Entre hombres
+343;20 Gipuzkoa;2018;29;Entre hombres
+344;20 Gipuzkoa;2017;30;Entre hombres
+345;20 Gipuzkoa;2016;26;Entre hombres
+346;20 Gipuzkoa;2015;18;Entre hombres
+347;20 Gipuzkoa;2014;17;Entre hombres
+348;20 Gipuzkoa;2013;17;Entre hombres
+349;20 Gipuzkoa;2012;19;Entre hombres
+350;20 Gipuzkoa;2011;25;Entre hombres
+351;20 Gipuzkoa;2010;23;Entre hombres
+352;20 Gipuzkoa;2009;23;Entre hombres
+353;20 Gipuzkoa;2008;9;Entre hombres
+354;20 Gipuzkoa;2007;22;Entre hombres
+355;20 Gipuzkoa;2006;37;Entre hombres
+356;20 Gipuzkoa;2005;19;Entre hombres
+357;17 Girona;2021;21;Entre hombres
+358;17 Girona;2020;15;Entre hombres
+359;17 Girona;2019;27;Entre hombres
+360;17 Girona;2018;21;Entre hombres
+361;17 Girona;2017;27;Entre hombres
+362;17 Girona;2016;37;Entre hombres
+363;17 Girona;2015;30;Entre hombres
+364;17 Girona;2014;23;Entre hombres
+365;17 Girona;2013;24;Entre hombres
+366;17 Girona;2012;31;Entre hombres
+367;17 Girona;2011;36;Entre hombres
+368;17 Girona;2010;27;Entre hombres
+369;17 Girona;2009;33;Entre hombres
+370;17 Girona;2008;26;Entre hombres
+371;17 Girona;2007;28;Entre hombres
+372;17 Girona;2006;42;Entre hombres
+373;17 Girona;2005;22;Entre hombres
+374;18 Granada;2021;38;Entre hombres
+375;18 Granada;2020;25;Entre hombres
+376;18 Granada;2019;57;Entre hombres
+377;18 Granada;2018;29;Entre hombres
+378;18 Granada;2017;36;Entre hombres
+379;18 Granada;2016;41;Entre hombres
+380;18 Granada;2015;31;Entre hombres
+381;18 Granada;2014;23;Entre hombres
+382;18 Granada;2013;18;Entre hombres
+383;18 Granada;2012;30;Entre hombres
+384;18 Granada;2011;30;Entre hombres
+385;18 Granada;2010;16;Entre hombres
+386;18 Granada;2009;30;Entre hombres
+387;18 Granada;2008;31;Entre hombres
+388;18 Granada;2007;24;Entre hombres
+389;18 Granada;2006;49;Entre hombres
+390;18 Granada;2005;10;Entre hombres
+391;19 Guadalajara;2021;9;Entre hombres
+392;19 Guadalajara;2020;4;Entre hombres
+393;19 Guadalajara;2019;9;Entre hombres
+394;19 Guadalajara;2018;8;Entre hombres
+395;19 Guadalajara;2017;6;Entre hombres
+396;19 Guadalajara;2016;7;Entre hombres
+397;19 Guadalajara;2015;3;Entre hombres
+398;19 Guadalajara;2014;7;Entre hombres
+399;19 Guadalajara;2013;5;Entre hombres
+400;19 Guadalajara;2012;4;Entre hombres
+401;19 Guadalajara;2011;10;Entre hombres
+402;19 Guadalajara;2010;11;Entre hombres
+403;19 Guadalajara;2009;4;Entre hombres
+404;19 Guadalajara;2008;7;Entre hombres
+405;19 Guadalajara;2007;8;Entre hombres
+406;19 Guadalajara;2006;12;Entre hombres
+407;19 Guadalajara;2005;1;Entre hombres
+408;21 Huelva;2021;22;Entre hombres
+409;21 Huelva;2020;13;Entre hombres
+410;21 Huelva;2019;12;Entre hombres
+411;21 Huelva;2018;10;Entre hombres
+412;21 Huelva;2017;14;Entre hombres
+413;21 Huelva;2016;21;Entre hombres
+414;21 Huelva;2015;17;Entre hombres
+415;21 Huelva;2014;12;Entre hombres
+416;21 Huelva;2013;11;Entre hombres
+417;21 Huelva;2012;12;Entre hombres
+418;21 Huelva;2011;8;Entre hombres
+419;21 Huelva;2010;11;Entre hombres
+420;21 Huelva;2009;7;Entre hombres
+421;21 Huelva;2008;13;Entre hombres
+422;21 Huelva;2007;5;Entre hombres
+423;21 Huelva;2006;9;Entre hombres
+424;21 Huelva;2005;6;Entre hombres
+425;22 Huesca;2021;5;Entre hombres
+426;22 Huesca;2020;2;Entre hombres
+427;22 Huesca;2019;3;Entre hombres
+428;22 Huesca;2018;1;Entre hombres
+429;22 Huesca;2017;2;Entre hombres
+430;22 Huesca;2016;2;Entre hombres
+431;22 Huesca;2015;4;Entre hombres
+432;22 Huesca;2014;2;Entre hombres
+433;22 Huesca;2013;1;Entre hombres
+434;22 Huesca;2012;1;Entre hombres
+435;22 Huesca;2011;3;Entre hombres
+436;22 Huesca;2010;6;Entre hombres
+437;22 Huesca;2009;1;Entre hombres
+438;22 Huesca;2008;6;Entre hombres
+439;22 Huesca;2007;1;Entre hombres
+440;22 Huesca;2006;6;Entre hombres
+441;22 Huesca;2005;1;Entre hombres
+442;23 Jaén;2021;13;Entre hombres
+443;23 Jaén;2020;17;Entre hombres
+444;23 Jaén;2019;21;Entre hombres
+445;23 Jaén;2018;20;Entre hombres
+446;23 Jaén;2017;16;Entre hombres
+447;23 Jaén;2016;15;Entre hombres
+448;23 Jaén;2015;9;Entre hombres
+449;23 Jaén;2014;10;Entre hombres
+450;23 Jaén;2013;8;Entre hombres
+451;23 Jaén;2012;7;Entre hombres
+452;23 Jaén;2011;9;Entre hombres
+453;23 Jaén;2010;9;Entre hombres
+454;23 Jaén;2009;5;Entre hombres
+455;23 Jaén;2008;10;Entre hombres
+456;23 Jaén;2007;6;Entre hombres
+457;23 Jaén;2006;11;Entre hombres
+458;23 Jaén;2005;5;Entre hombres
+459;24 León;2021;10;Entre hombres
+460;24 León;2020;7;Entre hombres
+461;24 León;2019;7;Entre hombres
+462;24 León;2018;8;Entre hombres
+463;24 León;2017;7;Entre hombres
+464;24 León;2016;12;Entre hombres
+465;24 León;2015;12;Entre hombres
+466;24 León;2014;8;Entre hombres
+467;24 León;2013;2;Entre hombres
+468;24 León;2012;6;Entre hombres
+469;24 León;2011;8;Entre hombres
+470;24 León;2010;4;Entre hombres
+471;24 León;2009;7;Entre hombres
+472;24 León;2008;4;Entre hombres
+473;24 León;2007;11;Entre hombres
+474;24 León;2006;9;Entre hombres
+475;24 León;2005;1;Entre hombres
+476;25 Lleida;2021;8;Entre hombres
+477;25 Lleida;2020;11;Entre hombres
+478;25 Lleida;2019;15;Entre hombres
+479;25 Lleida;2018;9;Entre hombres
+480;25 Lleida;2017;6;Entre hombres
+481;25 Lleida;2016;13;Entre hombres
+482;25 Lleida;2015;10;Entre hombres
+483;25 Lleida;2014;7;Entre hombres
+484;25 Lleida;2013;5;Entre hombres
+485;25 Lleida;2012;8;Entre hombres
+486;25 Lleida;2011;4;Entre hombres
+487;25 Lleida;2010;15;Entre hombres
+488;25 Lleida;2009;9;Entre hombres
+489;25 Lleida;2008;13;Entre hombres
+490;25 Lleida;2007;5;Entre hombres
+491;25 Lleida;2006;16;Entre hombres
+492;25 Lleida;2005;6;Entre hombres
+493;27 Lugo;2021;3;Entre hombres
+494;27 Lugo;2020;3;Entre hombres
+495;27 Lugo;2019;1;Entre hombres
+496;27 Lugo;2018;6;Entre hombres
+497;27 Lugo;2017;7;Entre hombres
+498;27 Lugo;2016;4;Entre hombres
+499;27 Lugo;2015;5;Entre hombres
+500;27 Lugo;2014;2;Entre hombres
+501;27 Lugo;2013;3;Entre hombres
+502;27 Lugo;2012;6;Entre hombres
+503;27 Lugo;2011;1;Entre hombres
+504;27 Lugo;2010;2;Entre hombres
+505;27 Lugo;2009;1;Entre hombres
+506;27 Lugo;2008;2;Entre hombres
+507;27 Lugo;2007;4;Entre hombres
+508;27 Lugo;2006;4;Entre hombres
+509;27 Lugo;2005;0;Entre hombres
+510;28 Madrid;2021;449;Entre hombres
+511;28 Madrid;2020;324;Entre hombres
+512;28 Madrid;2019;540;Entre hombres
+513;28 Madrid;2018;500;Entre hombres
+514;28 Madrid;2017;487;Entre hombres
+515;28 Madrid;2016;453;Entre hombres
+516;28 Madrid;2015;415;Entre hombres
+517;28 Madrid;2014;352;Entre hombres
+518;28 Madrid;2013;366;Entre hombres
+519;28 Madrid;2012;424;Entre hombres
+520;28 Madrid;2011;483;Entre hombres
+521;28 Madrid;2010;440;Entre hombres
+522;28 Madrid;2009;397;Entre hombres
+523;28 Madrid;2008;469;Entre hombres
+524;28 Madrid;2007;454;Entre hombres
+525;28 Madrid;2006;662;Entre hombres
+526;28 Madrid;2005;200;Entre hombres
+527;29 Málaga;2021;91;Entre hombres
+528;29 Málaga;2020;80;Entre hombres
+529;29 Málaga;2019;112;Entre hombres
+530;29 Málaga;2018;119;Entre hombres
+531;29 Málaga;2017;99;Entre hombres
+532;29 Málaga;2016;108;Entre hombres
+533;29 Málaga;2015;82;Entre hombres
+534;29 Málaga;2014;66;Entre hombres
+535;29 Málaga;2013;68;Entre hombres
+536;29 Málaga;2012;82;Entre hombres
+537;29 Málaga;2011;91;Entre hombres
+538;29 Málaga;2010;103;Entre hombres
+539;29 Málaga;2009;102;Entre hombres
+540;29 Málaga;2008;123;Entre hombres
+541;29 Málaga;2007;120;Entre hombres
+542;29 Málaga;2006;165;Entre hombres
+543;29 Málaga;2005;23;Entre hombres
+544;30 Murcia;2021;55;Entre hombres
+545;30 Murcia;2020;37;Entre hombres
+546;30 Murcia;2019;64;Entre hombres
+547;30 Murcia;2018;61;Entre hombres
+548;30 Murcia;2017;57;Entre hombres
+549;30 Murcia;2016;56;Entre hombres
+550;30 Murcia;2015;39;Entre hombres
+551;30 Murcia;2014;51;Entre hombres
+552;30 Murcia;2013;31;Entre hombres
+553;30 Murcia;2012;44;Entre hombres
+554;30 Murcia;2011;34;Entre hombres
+555;30 Murcia;2010;45;Entre hombres
+556;30 Murcia;2009;38;Entre hombres
+557;30 Murcia;2008;42;Entre hombres
+558;30 Murcia;2007;46;Entre hombres
+559;30 Murcia;2006;41;Entre hombres
+560;30 Murcia;2005;11;Entre hombres
+561;31 Navarra;2021;15;Entre hombres
+562;31 Navarra;2020;14;Entre hombres
+563;31 Navarra;2019;26;Entre hombres
+564;31 Navarra;2018;16;Entre hombres
+565;31 Navarra;2017;17;Entre hombres
+566;31 Navarra;2016;12;Entre hombres
+567;31 Navarra;2015;21;Entre hombres
+568;31 Navarra;2014;11;Entre hombres
+569;31 Navarra;2013;16;Entre hombres
+570;31 Navarra;2012;13;Entre hombres
+571;31 Navarra;2011;11;Entre hombres
+572;31 Navarra;2010;18;Entre hombres
+573;31 Navarra;2009;16;Entre hombres
+574;31 Navarra;2008;14;Entre hombres
+575;31 Navarra;2007;15;Entre hombres
+576;31 Navarra;2006;23;Entre hombres
+577;31 Navarra;2005;11;Entre hombres
+578;32 Ourense;2021;8;Entre hombres
+579;32 Ourense;2020;4;Entre hombres
+580;32 Ourense;2019;8;Entre hombres
+581;32 Ourense;2018;5;Entre hombres
+582;32 Ourense;2017;8;Entre hombres
+583;32 Ourense;2016;3;Entre hombres
+584;32 Ourense;2015;6;Entre hombres
+585;32 Ourense;2014;2;Entre hombres
+586;32 Ourense;2013;4;Entre hombres
+587;32 Ourense;2012;3;Entre hombres
+588;32 Ourense;2011;1;Entre hombres
+589;32 Ourense;2010;3;Entre hombres
+590;32 Ourense;2009;2;Entre hombres
+591;32 Ourense;2008;4;Entre hombres
+592;32 Ourense;2007;3;Entre hombres
+593;32 Ourense;2006;2;Entre hombres
+594;32 Ourense;2005;0;Entre hombres
+595;34 Palencia;2021;4;Entre hombres
+596;34 Palencia;2020;4;Entre hombres
+597;34 Palencia;2019;2;Entre hombres
+598;34 Palencia;2018;6;Entre hombres
+599;34 Palencia;2017;1;Entre hombres
+600;34 Palencia;2016;0;Entre hombres
+601;34 Palencia;2015;1;Entre hombres
+602;34 Palencia;2014;3;Entre hombres
+603;34 Palencia;2013;0;Entre hombres
+604;34 Palencia;2012;3;Entre hombres
+605;34 Palencia;2011;1;Entre hombres
+606;34 Palencia;2010;3;Entre hombres
+607;34 Palencia;2009;4;Entre hombres
+608;34 Palencia;2008;0;Entre hombres
+609;34 Palencia;2007;1;Entre hombres
+610;34 Palencia;2006;5;Entre hombres
+611;34 Palencia;2005;4;Entre hombres
+612;35 Palmas, Las;2021;84;Entre hombres
+613;35 Palmas, Las;2020;74;Entre hombres
+614;35 Palmas, Las;2019;115;Entre hombres
+615;35 Palmas, Las;2018;77;Entre hombres
+616;35 Palmas, Las;2017;91;Entre hombres
+617;35 Palmas, Las;2016;86;Entre hombres
+618;35 Palmas, Las;2015;70;Entre hombres
+619;35 Palmas, Las;2014;63;Entre hombres
+620;35 Palmas, Las;2013;63;Entre hombres
+621;35 Palmas, Las;2012;68;Entre hombres
+622;35 Palmas, Las;2011;58;Entre hombres
+623;35 Palmas, Las;2010;58;Entre hombres
+624;35 Palmas, Las;2009;67;Entre hombres
+625;35 Palmas, Las;2008;59;Entre hombres
+626;35 Palmas, Las;2007;91;Entre hombres
+627;35 Palmas, Las;2006;98;Entre hombres
+628;35 Palmas, Las;2005;22;Entre hombres
+629;36 Pontevedra;2021;24;Entre hombres
+630;36 Pontevedra;2020;15;Entre hombres
+631;36 Pontevedra;2019;22;Entre hombres
+632;36 Pontevedra;2018;16;Entre hombres
+633;36 Pontevedra;2017;14;Entre hombres
+634;36 Pontevedra;2016;26;Entre hombres
+635;36 Pontevedra;2015;10;Entre hombres
+636;36 Pontevedra;2014;17;Entre hombres
+637;36 Pontevedra;2013;21;Entre hombres
+638;36 Pontevedra;2012;13;Entre hombres
+639;36 Pontevedra;2011;20;Entre hombres
+640;36 Pontevedra;2010;14;Entre hombres
+641;36 Pontevedra;2009;13;Entre hombres
+642;36 Pontevedra;2008;16;Entre hombres
+643;36 Pontevedra;2007;17;Entre hombres
+644;36 Pontevedra;2006;18;Entre hombres
+645;36 Pontevedra;2005;9;Entre hombres
+646;26 Rioja, La;2021;7;Entre hombres
+647;26 Rioja, La;2020;5;Entre hombres
+648;26 Rioja, La;2019;9;Entre hombres
+649;26 Rioja, La;2018;13;Entre hombres
+650;26 Rioja, La;2017;8;Entre hombres
+651;26 Rioja, La;2016;8;Entre hombres
+652;26 Rioja, La;2015;8;Entre hombres
+653;26 Rioja, La;2014;4;Entre hombres
+654;26 Rioja, La;2013;4;Entre hombres
+655;26 Rioja, La;2012;11;Entre hombres
+656;26 Rioja, La;2011;14;Entre hombres
+657;26 Rioja, La;2010;4;Entre hombres
+658;26 Rioja, La;2009;6;Entre hombres
+659;26 Rioja, La;2008;5;Entre hombres
+660;26 Rioja, La;2007;6;Entre hombres
+661;26 Rioja, La;2006;9;Entre hombres
+662;26 Rioja, La;2005;2;Entre hombres
+663;37 Salamanca;2021;6;Entre hombres
+664;37 Salamanca;2020;5;Entre hombres
+665;37 Salamanca;2019;12;Entre hombres
+666;37 Salamanca;2018;7;Entre hombres
+667;37 Salamanca;2017;4;Entre hombres
+668;37 Salamanca;2016;6;Entre hombres
+669;37 Salamanca;2015;6;Entre hombres
+670;37 Salamanca;2014;4;Entre hombres
+671;37 Salamanca;2013;7;Entre hombres
+672;37 Salamanca;2012;5;Entre hombres
+673;37 Salamanca;2011;5;Entre hombres
+674;37 Salamanca;2010;3;Entre hombres
+675;37 Salamanca;2009;4;Entre hombres
+676;37 Salamanca;2008;4;Entre hombres
+677;37 Salamanca;2007;10;Entre hombres
+678;37 Salamanca;2006;9;Entre hombres
+679;37 Salamanca;2005;3;Entre hombres
+680;38 Santa Cruz de Tenerife;2021;59;Entre hombres
+681;38 Santa Cruz de Tenerife;2020;59;Entre hombres
+682;38 Santa Cruz de Tenerife;2019;92;Entre hombres
+683;38 Santa Cruz de Tenerife;2018;75;Entre hombres
+684;38 Santa Cruz de Tenerife;2017;75;Entre hombres
+685;38 Santa Cruz de Tenerife;2016;68;Entre hombres
+686;38 Santa Cruz de Tenerife;2015;54;Entre hombres
+687;38 Santa Cruz de Tenerife;2014;56;Entre hombres
+688;38 Santa Cruz de Tenerife;2013;35;Entre hombres
+689;38 Santa Cruz de Tenerife;2012;53;Entre hombres
+690;38 Santa Cruz de Tenerife;2011;52;Entre hombres
+691;38 Santa Cruz de Tenerife;2010;55;Entre hombres
+692;38 Santa Cruz de Tenerife;2009;55;Entre hombres
+693;38 Santa Cruz de Tenerife;2008;46;Entre hombres
+694;38 Santa Cruz de Tenerife;2007;56;Entre hombres
+695;38 Santa Cruz de Tenerife;2006;95;Entre hombres
+696;38 Santa Cruz de Tenerife;2005;31;Entre hombres
+697;40 Segovia;2021;4;Entre hombres
+698;40 Segovia;2020;0;Entre hombres
+699;40 Segovia;2019;5;Entre hombres
+700;40 Segovia;2018;1;Entre hombres
+701;40 Segovia;2017;3;Entre hombres
+702;40 Segovia;2016;2;Entre hombres
+703;40 Segovia;2015;7;Entre hombres
+704;40 Segovia;2014;1;Entre hombres
+705;40 Segovia;2013;3;Entre hombres
+706;40 Segovia;2012;1;Entre hombres
+707;40 Segovia;2011;3;Entre hombres
+708;40 Segovia;2010;2;Entre hombres
+709;40 Segovia;2009;2;Entre hombres
+710;40 Segovia;2008;3;Entre hombres
+711;40 Segovia;2007;2;Entre hombres
+712;40 Segovia;2006;2;Entre hombres
+713;40 Segovia;2005;3;Entre hombres
+714;41 Sevilla;2021;110;Entre hombres
+715;41 Sevilla;2020;64;Entre hombres
+716;41 Sevilla;2019;107;Entre hombres
+717;41 Sevilla;2018;86;Entre hombres
+718;41 Sevilla;2017;91;Entre hombres
+719;41 Sevilla;2016;81;Entre hombres
+720;41 Sevilla;2015;60;Entre hombres
+721;41 Sevilla;2014;54;Entre hombres
+722;41 Sevilla;2013;61;Entre hombres
+723;41 Sevilla;2012;63;Entre hombres
+724;41 Sevilla;2011;72;Entre hombres
+725;41 Sevilla;2010;59;Entre hombres
+726;41 Sevilla;2009;61;Entre hombres
+727;41 Sevilla;2008;60;Entre hombres
+728;41 Sevilla;2007;94;Entre hombres
+729;41 Sevilla;2006;112;Entre hombres
+730;41 Sevilla;2005;33;Entre hombres
+731;42 Soria;2021;0;Entre hombres
+732;42 Soria;2020;0;Entre hombres
+733;42 Soria;2019;5;Entre hombres
+734;42 Soria;2018;1;Entre hombres
+735;42 Soria;2017;1;Entre hombres
+736;42 Soria;2016;2;Entre hombres
+737;42 Soria;2015;2;Entre hombres
+738;42 Soria;2014;1;Entre hombres
+739;42 Soria;2013;1;Entre hombres
+740;42 Soria;2012;3;Entre hombres
+741;42 Soria;2011;0;Entre hombres
+742;42 Soria;2010;1;Entre hombres
+743;42 Soria;2009;0;Entre hombres
+744;42 Soria;2008;0;Entre hombres
+745;42 Soria;2007;1;Entre hombres
+746;42 Soria;2006;0;Entre hombres
+747;42 Soria;2005;0;Entre hombres
+748;43 Tarragona;2021;27;Entre hombres
+749;43 Tarragona;2020;17;Entre hombres
+750;43 Tarragona;2019;33;Entre hombres
+751;43 Tarragona;2018;33;Entre hombres
+752;43 Tarragona;2017;40;Entre hombres
+753;43 Tarragona;2016;36;Entre hombres
+754;43 Tarragona;2015;27;Entre hombres
+755;43 Tarragona;2014;22;Entre hombres
+756;43 Tarragona;2013;31;Entre hombres
+757;43 Tarragona;2012;24;Entre hombres
+758;43 Tarragona;2011;34;Entre hombres
+759;43 Tarragona;2010;40;Entre hombres
+760;43 Tarragona;2009;29;Entre hombres
+761;43 Tarragona;2008;44;Entre hombres
+762;43 Tarragona;2007;34;Entre hombres
+763;43 Tarragona;2006;39;Entre hombres
+764;43 Tarragona;2005;10;Entre hombres
+765;44 Teruel;2021;0;Entre hombres
+766;44 Teruel;2020;1;Entre hombres
+767;44 Teruel;2019;1;Entre hombres
+768;44 Teruel;2018;1;Entre hombres
+769;44 Teruel;2017;0;Entre hombres
+770;44 Teruel;2016;1;Entre hombres
+771;44 Teruel;2015;2;Entre hombres
+772;44 Teruel;2014;0;Entre hombres
+773;44 Teruel;2013;3;Entre hombres
+774;44 Teruel;2012;1;Entre hombres
+775;44 Teruel;2011;0;Entre hombres
+776;44 Teruel;2010;0;Entre hombres
+777;44 Teruel;2009;4;Entre hombres
+778;44 Teruel;2008;0;Entre hombres
+779;44 Teruel;2007;0;Entre hombres
+780;44 Teruel;2006;1;Entre hombres
+781;44 Teruel;2005;1;Entre hombres
+782;45 Toledo;2021;32;Entre hombres
+783;45 Toledo;2020;14;Entre hombres
+784;45 Toledo;2019;26;Entre hombres
+785;45 Toledo;2018;19;Entre hombres
+786;45 Toledo;2017;22;Entre hombres
+787;45 Toledo;2016;12;Entre hombres
+788;45 Toledo;2015;19;Entre hombres
+789;45 Toledo;2014;9;Entre hombres
+790;45 Toledo;2013;12;Entre hombres
+791;45 Toledo;2012;22;Entre hombres
+792;45 Toledo;2011;22;Entre hombres
+793;45 Toledo;2010;9;Entre hombres
+794;45 Toledo;2009;7;Entre hombres
+795;45 Toledo;2008;15;Entre hombres
+796;45 Toledo;2007;8;Entre hombres
+797;45 Toledo;2006;9;Entre hombres
+798;45 Toledo;2005;4;Entre hombres
+799;46 Valencia/València;2021;142;Entre hombres
+800;46 Valencia/València;2020;114;Entre hombres
+801;46 Valencia/València;2019;150;Entre hombres
+802;46 Valencia/València;2018;138;Entre hombres
+803;46 Valencia/València;2017;131;Entre hombres
+804;46 Valencia/València;2016;137;Entre hombres
+805;46 Valencia/València;2015;139;Entre hombres
+806;46 Valencia/València;2014;107;Entre hombres
+807;46 Valencia/València;2013;95;Entre hombres
+808;46 Valencia/València;2012;137;Entre hombres
+809;46 Valencia/València;2011;125;Entre hombres
+810;46 Valencia/València;2010;93;Entre hombres
+811;46 Valencia/València;2009;145;Entre hombres
+812;46 Valencia/València;2008;126;Entre hombres
+813;46 Valencia/València;2007;158;Entre hombres
+814;46 Valencia/València;2006;207;Entre hombres
+815;46 Valencia/València;2005;101;Entre hombres
+816;47 Valladolid;2021;12;Entre hombres
+817;47 Valladolid;2020;6;Entre hombres
+818;47 Valladolid;2019;20;Entre hombres
+819;47 Valladolid;2018;16;Entre hombres
+820;47 Valladolid;2017;8;Entre hombres
+821;47 Valladolid;2016;12;Entre hombres
+822;47 Valladolid;2015;9;Entre hombres
+823;47 Valladolid;2014;14;Entre hombres
+824;47 Valladolid;2013;8;Entre hombres
+825;47 Valladolid;2012;10;Entre hombres
+826;47 Valladolid;2011;9;Entre hombres
+827;47 Valladolid;2010;9;Entre hombres
+828;47 Valladolid;2009;8;Entre hombres
+829;47 Valladolid;2008;10;Entre hombres
+830;47 Valladolid;2007;6;Entre hombres
+831;47 Valladolid;2006;11;Entre hombres
+832;47 Valladolid;2005;1;Entre hombres
+833;49 Zamora;2021;2;Entre hombres
+834;49 Zamora;2020;0;Entre hombres
+835;49 Zamora;2019;3;Entre hombres
+836;49 Zamora;2018;1;Entre hombres
+837;49 Zamora;2017;3;Entre hombres
+838;49 Zamora;2016;1;Entre hombres
+839;49 Zamora;2015;2;Entre hombres
+840;49 Zamora;2014;2;Entre hombres
+841;49 Zamora;2013;1;Entre hombres
+842;49 Zamora;2012;1;Entre hombres
+843;49 Zamora;2011;1;Entre hombres
+844;49 Zamora;2010;1;Entre hombres
+845;49 Zamora;2009;1;Entre hombres
+846;49 Zamora;2008;2;Entre hombres
+847;49 Zamora;2007;0;Entre hombres
+848;49 Zamora;2006;2;Entre hombres
+849;49 Zamora;2005;1;Entre hombres
+850;50 Zaragoza;2021;37;Entre hombres
+851;50 Zaragoza;2020;21;Entre hombres
+852;50 Zaragoza;2019;32;Entre hombres
+853;50 Zaragoza;2018;30;Entre hombres
+854;50 Zaragoza;2017;32;Entre hombres
+855;50 Zaragoza;2016;25;Entre hombres
+856;50 Zaragoza;2015;24;Entre hombres
+857;50 Zaragoza;2014;24;Entre hombres
+858;50 Zaragoza;2013;21;Entre hombres
+859;50 Zaragoza;2012;25;Entre hombres
+860;50 Zaragoza;2011;19;Entre hombres
+861;50 Zaragoza;2010;17;Entre hombres
+862;50 Zaragoza;2009;19;Entre hombres
+863;50 Zaragoza;2008;20;Entre hombres
+864;50 Zaragoza;2007;22;Entre hombres
+865;50 Zaragoza;2006;49;Entre hombres
+866;50 Zaragoza;2005;9;Entre hombres
+867;51 Ceuta;2021;2;Entre hombres
+868;51 Ceuta;2020;3;Entre hombres
+869;51 Ceuta;2019;4;Entre hombres
+870;51 Ceuta;2018;2;Entre hombres
+871;51 Ceuta;2017;1;Entre hombres
+872;51 Ceuta;2016;2;Entre hombres
+873;51 Ceuta;2015;1;Entre hombres
+874;51 Ceuta;2014;0;Entre hombres
+875;51 Ceuta;2013;0;Entre hombres
+876;51 Ceuta;2012;0;Entre hombres
+877;51 Ceuta;2011;2;Entre hombres
+878;51 Ceuta;2010;2;Entre hombres
+879;51 Ceuta;2009;1;Entre hombres
+880;51 Ceuta;2008;2;Entre hombres
+881;51 Ceuta;2007;0;Entre hombres
+882;51 Ceuta;2006;0;Entre hombres
+883;51 Ceuta;2005;1;Entre hombres
+884;52 Melilla;2021;1;Entre hombres
+885;52 Melilla;2020;0;Entre hombres
+886;52 Melilla;2019;2;Entre hombres
+887;52 Melilla;2018;0;Entre hombres
+888;52 Melilla;2017;1;Entre hombres
+889;52 Melilla;2016;1;Entre hombres
+890;52 Melilla;2015;1;Entre hombres
+891;52 Melilla;2014;0;Entre hombres
+892;52 Melilla;2013;1;Entre hombres
+893;52 Melilla;2012;0;Entre hombres
+894;52 Melilla;2011;1;Entre hombres
+895;52 Melilla;2010;1;Entre hombres
+896;52 Melilla;2009;1;Entre hombres
+897;52 Melilla;2008;1;Entre hombres
+898;52 Melilla;2007;2;Entre hombres
+899;52 Melilla;2006;1;Entre hombres
+900;52 Melilla;2005;0;Entre hombres
+901;No residente;2021;22;Entre hombres
+902;No residente;2020;17;Entre hombres
+903;No residente;2019;19;Entre hombres
+904;No residente;2018;23;Entre hombres
+905;No residente;2017;29;Entre hombres
+906;No residente;2016;25;Entre hombres
+907;No residente;2015;30;Entre hombres
+908;No residente;2014;39;Entre hombres
+909;No residente;2013;27;Entre hombres
+910;No residente;2012;29;Entre hombres
+911;No residente;2011;23;Entre hombres
+912;No residente;2010;35;Entre hombres
+913;No residente;2009;24;Entre hombres
+914;No residente;2008;25;Entre hombres
+915;No residente;2007;34;Entre hombres
+916;No residente;2006;36;Entre hombres
+917;No residente;2005;13;Entre hombres
+0;Total;2021;2867;Entre mujeres
+1;Total;2020;1685;Entre mujeres
+2;Total;2019;2649;Entre mujeres
+3;Total;2018;2512;Entre mujeres
+4;Total;2017;2314;Entre mujeres
+5;Total;2016;2132;Entre mujeres
+6;Total;2015;1813;Entre mujeres
+7;Total;2014;1596;Entre mujeres
+8;Total;2013;1423;Entre mujeres
+9;Total;2012;1520;Entre mujeres
+10;Total;2011;1467;Entre mujeres
+11;Total;2010;1238;Entre mujeres
+12;Total;2009;1098;Entre mujeres
+13;Total;2008;1143;Entre mujeres
+14;Total;2007;1052;Entre mujeres
+15;Total;2006;1313;Entre mujeres
+16;Total;2005;355;Entre mujeres
+17;02 Albacete;2021;13;Entre mujeres
+18;02 Albacete;2020;9;Entre mujeres
+19;02 Albacete;2019;17;Entre mujeres
+20;02 Albacete;2018;17;Entre mujeres
+21;02 Albacete;2017;7;Entre mujeres
+22;02 Albacete;2016;6;Entre mujeres
+23;02 Albacete;2015;5;Entre mujeres
+24;02 Albacete;2014;8;Entre mujeres
+25;02 Albacete;2013;11;Entre mujeres
+26;02 Albacete;2012;1;Entre mujeres
+27;02 Albacete;2011;5;Entre mujeres
+28;02 Albacete;2010;2;Entre mujeres
+29;02 Albacete;2009;7;Entre mujeres
+30;02 Albacete;2008;4;Entre mujeres
+31;02 Albacete;2007;2;Entre mujeres
+32;02 Albacete;2006;4;Entre mujeres
+33;02 Albacete;2005;0;Entre mujeres
+34;03 Alicante/Alacant;2021;134;Entre mujeres
+35;03 Alicante/Alacant;2020;76;Entre mujeres
+36;03 Alicante/Alacant;2019;117;Entre mujeres
+37;03 Alicante/Alacant;2018;123;Entre mujeres
+38;03 Alicante/Alacant;2017;115;Entre mujeres
+39;03 Alicante/Alacant;2016;87;Entre mujeres
+40;03 Alicante/Alacant;2015;79;Entre mujeres
+41;03 Alicante/Alacant;2014;84;Entre mujeres
+42;03 Alicante/Alacant;2013;68;Entre mujeres
+43;03 Alicante/Alacant;2012;58;Entre mujeres
+44;03 Alicante/Alacant;2011;70;Entre mujeres
+45;03 Alicante/Alacant;2010;39;Entre mujeres
+46;03 Alicante/Alacant;2009;47;Entre mujeres
+47;03 Alicante/Alacant;2008;60;Entre mujeres
+48;03 Alicante/Alacant;2007;39;Entre mujeres
+49;03 Alicante/Alacant;2006;72;Entre mujeres
+50;03 Alicante/Alacant;2005;16;Entre mujeres
+51;04 Almería;2021;29;Entre mujeres
+52;04 Almería;2020;21;Entre mujeres
+53;04 Almería;2019;28;Entre mujeres
+54;04 Almería;2018;24;Entre mujeres
+55;04 Almería;2017;21;Entre mujeres
+56;04 Almería;2016;15;Entre mujeres
+57;04 Almería;2015;25;Entre mujeres
+58;04 Almería;2014;11;Entre mujeres
+59;04 Almería;2013;17;Entre mujeres
+60;04 Almería;2012;15;Entre mujeres
+61;04 Almería;2011;19;Entre mujeres
+62;04 Almería;2010;16;Entre mujeres
+63;04 Almería;2009;6;Entre mujeres
+64;04 Almería;2008;14;Entre mujeres
+65;04 Almería;2007;9;Entre mujeres
+66;04 Almería;2006;12;Entre mujeres
+67;04 Almería;2005;1;Entre mujeres
+68;01 Araba/Álava;2021;25;Entre mujeres
+69;01 Araba/Álava;2020;14;Entre mujeres
+70;01 Araba/Álava;2019;15;Entre mujeres
+71;01 Araba/Álava;2018;15;Entre mujeres
+72;01 Araba/Álava;2017;16;Entre mujeres
+73;01 Araba/Álava;2016;13;Entre mujeres
+74;01 Araba/Álava;2015;12;Entre mujeres
+75;01 Araba/Álava;2014;16;Entre mujeres
+76;01 Araba/Álava;2013;5;Entre mujeres
+77;01 Araba/Álava;2012;6;Entre mujeres
+78;01 Araba/Álava;2011;10;Entre mujeres
+79;01 Araba/Álava;2010;5;Entre mujeres
+80;01 Araba/Álava;2009;10;Entre mujeres
+81;01 Araba/Álava;2008;3;Entre mujeres
+82;01 Araba/Álava;2007;3;Entre mujeres
+83;01 Araba/Álava;2006;8;Entre mujeres
+84;01 Araba/Álava;2005;2;Entre mujeres
+85;33 Asturias;2021;34;Entre mujeres
+86;33 Asturias;2020;14;Entre mujeres
+87;33 Asturias;2019;34;Entre mujeres
+88;33 Asturias;2018;21;Entre mujeres
+89;33 Asturias;2017;29;Entre mujeres
+90;33 Asturias;2016;18;Entre mujeres
+91;33 Asturias;2015;22;Entre mujeres
+92;33 Asturias;2014;26;Entre mujeres
+93;33 Asturias;2013;14;Entre mujeres
+94;33 Asturias;2012;19;Entre mujeres
+95;33 Asturias;2011;23;Entre mujeres
+96;33 Asturias;2010;20;Entre mujeres
+97;33 Asturias;2009;16;Entre mujeres
+98;33 Asturias;2008;27;Entre mujeres
+99;33 Asturias;2007;22;Entre mujeres
+100;33 Asturias;2006;20;Entre mujeres
+101;33 Asturias;2005;7;Entre mujeres
+102;05 Ávila;2021;3;Entre mujeres
+103;05 Ávila;2020;1;Entre mujeres
+104;05 Ávila;2019;3;Entre mujeres
+105;05 Ávila;2018;5;Entre mujeres
+106;05 Ávila;2017;2;Entre mujeres
+107;05 Ávila;2016;3;Entre mujeres
+108;05 Ávila;2015;2;Entre mujeres
+109;05 Ávila;2014;1;Entre mujeres
+110;05 Ávila;2013;3;Entre mujeres
+111;05 Ávila;2012;2;Entre mujeres
+112;05 Ávila;2011;4;Entre mujeres
+113;05 Ávila;2010;7;Entre mujeres
+114;05 Ávila;2009;0;Entre mujeres
+115;05 Ávila;2008;1;Entre mujeres
+116;05 Ávila;2007;1;Entre mujeres
+117;05 Ávila;2006;2;Entre mujeres
+118;05 Ávila;2005;1;Entre mujeres
+119;06 Badajoz;2021;29;Entre mujeres
+120;06 Badajoz;2020;19;Entre mujeres
+121;06 Badajoz;2019;30;Entre mujeres
+122;06 Badajoz;2018;22;Entre mujeres
+123;06 Badajoz;2017;23;Entre mujeres
+124;06 Badajoz;2016;25;Entre mujeres
+125;06 Badajoz;2015;11;Entre mujeres
+126;06 Badajoz;2014;13;Entre mujeres
+127;06 Badajoz;2013;10;Entre mujeres
+128;06 Badajoz;2012;24;Entre mujeres
+129;06 Badajoz;2011;14;Entre mujeres
+130;06 Badajoz;2010;15;Entre mujeres
+131;06 Badajoz;2009;6;Entre mujeres
+132;06 Badajoz;2008;6;Entre mujeres
+133;06 Badajoz;2007;2;Entre mujeres
+134;06 Badajoz;2006;3;Entre mujeres
+135;06 Badajoz;2005;3;Entre mujeres
+136;07 Balears, Illes;2021;114;Entre mujeres
+137;07 Balears, Illes;2020;56;Entre mujeres
+138;07 Balears, Illes;2019;88;Entre mujeres
+139;07 Balears, Illes;2018;84;Entre mujeres
+140;07 Balears, Illes;2017;96;Entre mujeres
+141;07 Balears, Illes;2016;80;Entre mujeres
+142;07 Balears, Illes;2015;66;Entre mujeres
+143;07 Balears, Illes;2014;60;Entre mujeres
+144;07 Balears, Illes;2013;54;Entre mujeres
+145;07 Balears, Illes;2012;50;Entre mujeres
+146;07 Balears, Illes;2011;43;Entre mujeres
+147;07 Balears, Illes;2010;42;Entre mujeres
+148;07 Balears, Illes;2009;38;Entre mujeres
+149;07 Balears, Illes;2008;36;Entre mujeres
+150;07 Balears, Illes;2007;42;Entre mujeres
+151;07 Balears, Illes;2006;53;Entre mujeres
+152;07 Balears, Illes;2005;9;Entre mujeres
+153;08 Barcelona;2021;392;Entre mujeres
+154;08 Barcelona;2020;251;Entre mujeres
+155;08 Barcelona;2019;400;Entre mujeres
+156;08 Barcelona;2018;426;Entre mujeres
+157;08 Barcelona;2017;439;Entre mujeres
+158;08 Barcelona;2016;381;Entre mujeres
+159;08 Barcelona;2015;289;Entre mujeres
+160;08 Barcelona;2014;283;Entre mujeres
+161;08 Barcelona;2013;253;Entre mujeres
+162;08 Barcelona;2012;302;Entre mujeres
+163;08 Barcelona;2011;298;Entre mujeres
+164;08 Barcelona;2010;253;Entre mujeres
+165;08 Barcelona;2009;255;Entre mujeres
+166;08 Barcelona;2008;222;Entre mujeres
+167;08 Barcelona;2007;213;Entre mujeres
+168;08 Barcelona;2006;290;Entre mujeres
+169;08 Barcelona;2005;74;Entre mujeres
+170;48 Bizkaia;2021;63;Entre mujeres
+171;48 Bizkaia;2020;49;Entre mujeres
+172;48 Bizkaia;2019;59;Entre mujeres
+173;48 Bizkaia;2018;55;Entre mujeres
+174;48 Bizkaia;2017;48;Entre mujeres
+175;48 Bizkaia;2016;45;Entre mujeres
+176;48 Bizkaia;2015;44;Entre mujeres
+177;48 Bizkaia;2014;37;Entre mujeres
+178;48 Bizkaia;2013;34;Entre mujeres
+179;48 Bizkaia;2012;28;Entre mujeres
+180;48 Bizkaia;2011;25;Entre mujeres
+181;48 Bizkaia;2010;29;Entre mujeres
+182;48 Bizkaia;2009;21;Entre mujeres
+183;48 Bizkaia;2008;27;Entre mujeres
+184;48 Bizkaia;2007;23;Entre mujeres
+185;48 Bizkaia;2006;31;Entre mujeres
+186;48 Bizkaia;2005;6;Entre mujeres
+187;09 Burgos;2021;8;Entre mujeres
+188;09 Burgos;2020;5;Entre mujeres
+189;09 Burgos;2019;10;Entre mujeres
+190;09 Burgos;2018;5;Entre mujeres
+191;09 Burgos;2017;10;Entre mujeres
+192;09 Burgos;2016;7;Entre mujeres
+193;09 Burgos;2015;4;Entre mujeres
+194;09 Burgos;2014;3;Entre mujeres
+195;09 Burgos;2013;5;Entre mujeres
+196;09 Burgos;2012;5;Entre mujeres
+197;09 Burgos;2011;6;Entre mujeres
+198;09 Burgos;2010;3;Entre mujeres
+199;09 Burgos;2009;5;Entre mujeres
+200;09 Burgos;2008;5;Entre mujeres
+201;09 Burgos;2007;8;Entre mujeres
+202;09 Burgos;2006;4;Entre mujeres
+203;09 Burgos;2005;2;Entre mujeres
+204;10 Cáceres;2021;10;Entre mujeres
+205;10 Cáceres;2020;5;Entre mujeres
+206;10 Cáceres;2019;13;Entre mujeres
+207;10 Cáceres;2018;7;Entre mujeres
+208;10 Cáceres;2017;8;Entre mujeres
+209;10 Cáceres;2016;7;Entre mujeres
+210;10 Cáceres;2015;1;Entre mujeres
+211;10 Cáceres;2014;10;Entre mujeres
+212;10 Cáceres;2013;4;Entre mujeres
+213;10 Cáceres;2012;5;Entre mujeres
+214;10 Cáceres;2011;5;Entre mujeres
+215;10 Cáceres;2010;6;Entre mujeres
+216;10 Cáceres;2009;4;Entre mujeres
+217;10 Cáceres;2008;1;Entre mujeres
+218;10 Cáceres;2007;0;Entre mujeres
+219;10 Cáceres;2006;4;Entre mujeres
+220;10 Cáceres;2005;3;Entre mujeres
+221;11 Cádiz;2021;58;Entre mujeres
+222;11 Cádiz;2020;47;Entre mujeres
+223;11 Cádiz;2019;70;Entre mujeres
+224;11 Cádiz;2018;48;Entre mujeres
+225;11 Cádiz;2017;74;Entre mujeres
+226;11 Cádiz;2016;59;Entre mujeres
+227;11 Cádiz;2015;60;Entre mujeres
+228;11 Cádiz;2014;47;Entre mujeres
+229;11 Cádiz;2013;24;Entre mujeres
+230;11 Cádiz;2012;37;Entre mujeres
+231;11 Cádiz;2011;30;Entre mujeres
+232;11 Cádiz;2010;17;Entre mujeres
+233;11 Cádiz;2009;24;Entre mujeres
+234;11 Cádiz;2008;22;Entre mujeres
+235;11 Cádiz;2007;19;Entre mujeres
+236;11 Cádiz;2006;21;Entre mujeres
+237;11 Cádiz;2005;12;Entre mujeres
+238;39 Cantabria;2021;24;Entre mujeres
+239;39 Cantabria;2020;16;Entre mujeres
+240;39 Cantabria;2019;28;Entre mujeres
+241;39 Cantabria;2018;21;Entre mujeres
+242;39 Cantabria;2017;23;Entre mujeres
+243;39 Cantabria;2016;18;Entre mujeres
+244;39 Cantabria;2015;11;Entre mujeres
+245;39 Cantabria;2014;17;Entre mujeres
+246;39 Cantabria;2013;11;Entre mujeres
+247;39 Cantabria;2012;11;Entre mujeres
+248;39 Cantabria;2011;11;Entre mujeres
+249;39 Cantabria;2010;11;Entre mujeres
+250;39 Cantabria;2009;7;Entre mujeres
+251;39 Cantabria;2008;8;Entre mujeres
+252;39 Cantabria;2007;9;Entre mujeres
+253;39 Cantabria;2006;11;Entre mujeres
+254;39 Cantabria;2005;3;Entre mujeres
+255;12 Castellón/Castelló;2021;31;Entre mujeres
+256;12 Castellón/Castelló;2020;19;Entre mujeres
+257;12 Castellón/Castelló;2019;27;Entre mujeres
+258;12 Castellón/Castelló;2018;18;Entre mujeres
+259;12 Castellón/Castelló;2017;17;Entre mujeres
+260;12 Castellón/Castelló;2016;25;Entre mujeres
+261;12 Castellón/Castelló;2015;20;Entre mujeres
+262;12 Castellón/Castelló;2014;9;Entre mujeres
+263;12 Castellón/Castelló;2013;13;Entre mujeres
+264;12 Castellón/Castelló;2012;13;Entre mujeres
+265;12 Castellón/Castelló;2011;18;Entre mujeres
+266;12 Castellón/Castelló;2010;16;Entre mujeres
+267;12 Castellón/Castelló;2009;10;Entre mujeres
+268;12 Castellón/Castelló;2008;12;Entre mujeres
+269;12 Castellón/Castelló;2007;16;Entre mujeres
+270;12 Castellón/Castelló;2006;8;Entre mujeres
+271;12 Castellón/Castelló;2005;3;Entre mujeres
+272;13 Ciudad Real;2021;22;Entre mujeres
+273;13 Ciudad Real;2020;9;Entre mujeres
+274;13 Ciudad Real;2019;15;Entre mujeres
+275;13 Ciudad Real;2018;13;Entre mujeres
+276;13 Ciudad Real;2017;10;Entre mujeres
+277;13 Ciudad Real;2016;12;Entre mujeres
+278;13 Ciudad Real;2015;10;Entre mujeres
+279;13 Ciudad Real;2014;6;Entre mujeres
+280;13 Ciudad Real;2013;5;Entre mujeres
+281;13 Ciudad Real;2012;5;Entre mujeres
+282;13 Ciudad Real;2011;3;Entre mujeres
+283;13 Ciudad Real;2010;3;Entre mujeres
+284;13 Ciudad Real;2009;6;Entre mujeres
+285;13 Ciudad Real;2008;8;Entre mujeres
+286;13 Ciudad Real;2007;2;Entre mujeres
+287;13 Ciudad Real;2006;4;Entre mujeres
+288;13 Ciudad Real;2005;0;Entre mujeres
+289;14 Córdoba;2021;30;Entre mujeres
+290;14 Córdoba;2020;14;Entre mujeres
+291;14 Córdoba;2019;32;Entre mujeres
+292;14 Córdoba;2018;30;Entre mujeres
+293;14 Córdoba;2017;24;Entre mujeres
+294;14 Córdoba;2016;29;Entre mujeres
+295;14 Córdoba;2015;25;Entre mujeres
+296;14 Córdoba;2014;19;Entre mujeres
+297;14 Córdoba;2013;16;Entre mujeres
+298;14 Córdoba;2012;14;Entre mujeres
+299;14 Córdoba;2011;18;Entre mujeres
+300;14 Córdoba;2010;15;Entre mujeres
+301;14 Córdoba;2009;6;Entre mujeres
+302;14 Córdoba;2008;15;Entre mujeres
+303;14 Córdoba;2007;11;Entre mujeres
+304;14 Córdoba;2006;13;Entre mujeres
+305;14 Córdoba;2005;4;Entre mujeres
+306;15 Coruña, A;2021;50;Entre mujeres
+307;15 Coruña, A;2020;22;Entre mujeres
+308;15 Coruña, A;2019;30;Entre mujeres
+309;15 Coruña, A;2018;31;Entre mujeres
+310;15 Coruña, A;2017;31;Entre mujeres
+311;15 Coruña, A;2016;36;Entre mujeres
+312;15 Coruña, A;2015;28;Entre mujeres
+313;15 Coruña, A;2014;29;Entre mujeres
+314;15 Coruña, A;2013;19;Entre mujeres
+315;15 Coruña, A;2012;19;Entre mujeres
+316;15 Coruña, A;2011;17;Entre mujeres
+317;15 Coruña, A;2010;24;Entre mujeres
+318;15 Coruña, A;2009;10;Entre mujeres
+319;15 Coruña, A;2008;7;Entre mujeres
+320;15 Coruña, A;2007;15;Entre mujeres
+321;15 Coruña, A;2006;13;Entre mujeres
+322;15 Coruña, A;2005;11;Entre mujeres
+323;16 Cuenca;2021;4;Entre mujeres
+324;16 Cuenca;2020;2;Entre mujeres
+325;16 Cuenca;2019;3;Entre mujeres
+326;16 Cuenca;2018;4;Entre mujeres
+327;16 Cuenca;2017;6;Entre mujeres
+328;16 Cuenca;2016;1;Entre mujeres
+329;16 Cuenca;2015;2;Entre mujeres
+330;16 Cuenca;2014;2;Entre mujeres
+331;16 Cuenca;2013;2;Entre mujeres
+332;16 Cuenca;2012;4;Entre mujeres
+333;16 Cuenca;2011;1;Entre mujeres
+334;16 Cuenca;2010;3;Entre mujeres
+335;16 Cuenca;2009;0;Entre mujeres
+336;16 Cuenca;2008;1;Entre mujeres
+337;16 Cuenca;2007;0;Entre mujeres
+338;16 Cuenca;2006;1;Entre mujeres
+339;16 Cuenca;2005;0;Entre mujeres
+340;20 Gipuzkoa;2021;62;Entre mujeres
+341;20 Gipuzkoa;2020;28;Entre mujeres
+342;20 Gipuzkoa;2019;42;Entre mujeres
+343;20 Gipuzkoa;2018;41;Entre mujeres
+344;20 Gipuzkoa;2017;45;Entre mujeres
+345;20 Gipuzkoa;2016;36;Entre mujeres
+346;20 Gipuzkoa;2015;32;Entre mujeres
+347;20 Gipuzkoa;2014;22;Entre mujeres
+348;20 Gipuzkoa;2013;19;Entre mujeres
+349;20 Gipuzkoa;2012;31;Entre mujeres
+350;20 Gipuzkoa;2011;15;Entre mujeres
+351;20 Gipuzkoa;2010;18;Entre mujeres
+352;20 Gipuzkoa;2009;17;Entre mujeres
+353;20 Gipuzkoa;2008;21;Entre mujeres
+354;20 Gipuzkoa;2007;15;Entre mujeres
+355;20 Gipuzkoa;2006;21;Entre mujeres
+356;20 Gipuzkoa;2005;7;Entre mujeres
+357;17 Girona;2021;53;Entre mujeres
+358;17 Girona;2020;29;Entre mujeres
+359;17 Girona;2019;48;Entre mujeres
+360;17 Girona;2018;41;Entre mujeres
+361;17 Girona;2017;48;Entre mujeres
+362;17 Girona;2016;40;Entre mujeres
+363;17 Girona;2015;30;Entre mujeres
+364;17 Girona;2014;39;Entre mujeres
+365;17 Girona;2013;21;Entre mujeres
+366;17 Girona;2012;22;Entre mujeres
+367;17 Girona;2011;21;Entre mujeres
+368;17 Girona;2010;20;Entre mujeres
+369;17 Girona;2009;22;Entre mujeres
+370;17 Girona;2008;26;Entre mujeres
+371;17 Girona;2007;17;Entre mujeres
+372;17 Girona;2006;21;Entre mujeres
+373;17 Girona;2005;6;Entre mujeres
+374;18 Granada;2021;49;Entre mujeres
+375;18 Granada;2020;30;Entre mujeres
+376;18 Granada;2019;50;Entre mujeres
+377;18 Granada;2018;42;Entre mujeres
+378;18 Granada;2017;45;Entre mujeres
+379;18 Granada;2016;37;Entre mujeres
+380;18 Granada;2015;33;Entre mujeres
+381;18 Granada;2014;27;Entre mujeres
+382;18 Granada;2013;29;Entre mujeres
+383;18 Granada;2012;21;Entre mujeres
+384;18 Granada;2011;23;Entre mujeres
+385;18 Granada;2010;24;Entre mujeres
+386;18 Granada;2009;17;Entre mujeres
+387;18 Granada;2008;28;Entre mujeres
+388;18 Granada;2007;14;Entre mujeres
+389;18 Granada;2006;17;Entre mujeres
+390;18 Granada;2005;3;Entre mujeres
+391;19 Guadalajara;2021;23;Entre mujeres
+392;19 Guadalajara;2020;12;Entre mujeres
+393;19 Guadalajara;2019;15;Entre mujeres
+394;19 Guadalajara;2018;10;Entre mujeres
+395;19 Guadalajara;2017;8;Entre mujeres
+396;19 Guadalajara;2016;9;Entre mujeres
+397;19 Guadalajara;2015;10;Entre mujeres
+398;19 Guadalajara;2014;6;Entre mujeres
+399;19 Guadalajara;2013;12;Entre mujeres
+400;19 Guadalajara;2012;4;Entre mujeres
+401;19 Guadalajara;2011;9;Entre mujeres
+402;19 Guadalajara;2010;10;Entre mujeres
+403;19 Guadalajara;2009;7;Entre mujeres
+404;19 Guadalajara;2008;5;Entre mujeres
+405;19 Guadalajara;2007;4;Entre mujeres
+406;19 Guadalajara;2006;10;Entre mujeres
+407;19 Guadalajara;2005;1;Entre mujeres
+408;21 Huelva;2021;37;Entre mujeres
+409;21 Huelva;2020;16;Entre mujeres
+410;21 Huelva;2019;31;Entre mujeres
+411;21 Huelva;2018;22;Entre mujeres
+412;21 Huelva;2017;27;Entre mujeres
+413;21 Huelva;2016;19;Entre mujeres
+414;21 Huelva;2015;17;Entre mujeres
+415;21 Huelva;2014;12;Entre mujeres
+416;21 Huelva;2013;12;Entre mujeres
+417;21 Huelva;2012;21;Entre mujeres
+418;21 Huelva;2011;19;Entre mujeres
+419;21 Huelva;2010;11;Entre mujeres
+420;21 Huelva;2009;3;Entre mujeres
+421;21 Huelva;2008;11;Entre mujeres
+422;21 Huelva;2007;8;Entre mujeres
+423;21 Huelva;2006;5;Entre mujeres
+424;21 Huelva;2005;4;Entre mujeres
+425;22 Huesca;2021;9;Entre mujeres
+426;22 Huesca;2020;2;Entre mujeres
+427;22 Huesca;2019;6;Entre mujeres
+428;22 Huesca;2018;1;Entre mujeres
+429;22 Huesca;2017;6;Entre mujeres
+430;22 Huesca;2016;1;Entre mujeres
+431;22 Huesca;2015;2;Entre mujeres
+432;22 Huesca;2014;4;Entre mujeres
+433;22 Huesca;2013;2;Entre mujeres
+434;22 Huesca;2012;2;Entre mujeres
+435;22 Huesca;2011;4;Entre mujeres
+436;22 Huesca;2010;3;Entre mujeres
+437;22 Huesca;2009;2;Entre mujeres
+438;22 Huesca;2008;1;Entre mujeres
+439;22 Huesca;2007;0;Entre mujeres
+440;22 Huesca;2006;2;Entre mujeres
+441;22 Huesca;2005;0;Entre mujeres
+442;23 Jaén;2021;21;Entre mujeres
+443;23 Jaén;2020;10;Entre mujeres
+444;23 Jaén;2019;25;Entre mujeres
+445;23 Jaén;2018;21;Entre mujeres
+446;23 Jaén;2017;18;Entre mujeres
+447;23 Jaén;2016;12;Entre mujeres
+448;23 Jaén;2015;7;Entre mujeres
+449;23 Jaén;2014;8;Entre mujeres
+450;23 Jaén;2013;7;Entre mujeres
+451;23 Jaén;2012;7;Entre mujeres
+452;23 Jaén;2011;7;Entre mujeres
+453;23 Jaén;2010;3;Entre mujeres
+454;23 Jaén;2009;5;Entre mujeres
+455;23 Jaén;2008;2;Entre mujeres
+456;23 Jaén;2007;2;Entre mujeres
+457;23 Jaén;2006;3;Entre mujeres
+458;23 Jaén;2005;2;Entre mujeres
+459;24 León;2021;11;Entre mujeres
+460;24 León;2020;6;Entre mujeres
+461;24 León;2019;8;Entre mujeres
+462;24 León;2018;9;Entre mujeres
+463;24 León;2017;9;Entre mujeres
+464;24 León;2016;9;Entre mujeres
+465;24 León;2015;8;Entre mujeres
+466;24 León;2014;7;Entre mujeres
+467;24 León;2013;3;Entre mujeres
+468;24 León;2012;7;Entre mujeres
+469;24 León;2011;4;Entre mujeres
+470;24 León;2010;8;Entre mujeres
+471;24 León;2009;5;Entre mujeres
+472;24 León;2008;4;Entre mujeres
+473;24 León;2007;2;Entre mujeres
+474;24 León;2006;4;Entre mujeres
+475;24 León;2005;2;Entre mujeres
+476;25 Lleida;2021;11;Entre mujeres
+477;25 Lleida;2020;12;Entre mujeres
+478;25 Lleida;2019;13;Entre mujeres
+479;25 Lleida;2018;8;Entre mujeres
+480;25 Lleida;2017;10;Entre mujeres
+481;25 Lleida;2016;10;Entre mujeres
+482;25 Lleida;2015;14;Entre mujeres
+483;25 Lleida;2014;10;Entre mujeres
+484;25 Lleida;2013;5;Entre mujeres
+485;25 Lleida;2012;10;Entre mujeres
+486;25 Lleida;2011;11;Entre mujeres
+487;25 Lleida;2010;6;Entre mujeres
+488;25 Lleida;2009;11;Entre mujeres
+489;25 Lleida;2008;7;Entre mujeres
+490;25 Lleida;2007;6;Entre mujeres
+491;25 Lleida;2006;11;Entre mujeres
+492;25 Lleida;2005;2;Entre mujeres
+493;27 Lugo;2021;7;Entre mujeres
+494;27 Lugo;2020;5;Entre mujeres
+495;27 Lugo;2019;4;Entre mujeres
+496;27 Lugo;2018;7;Entre mujeres
+497;27 Lugo;2017;7;Entre mujeres
+498;27 Lugo;2016;3;Entre mujeres
+499;27 Lugo;2015;1;Entre mujeres
+500;27 Lugo;2014;3;Entre mujeres
+501;27 Lugo;2013;3;Entre mujeres
+502;27 Lugo;2012;3;Entre mujeres
+503;27 Lugo;2011;4;Entre mujeres
+504;27 Lugo;2010;2;Entre mujeres
+505;27 Lugo;2009;3;Entre mujeres
+506;27 Lugo;2008;0;Entre mujeres
+507;27 Lugo;2007;1;Entre mujeres
+508;27 Lugo;2006;2;Entre mujeres
+509;27 Lugo;2005;0;Entre mujeres
+510;28 Madrid;2021;481;Entre mujeres
+511;28 Madrid;2020;247;Entre mujeres
+512;28 Madrid;2019;482;Entre mujeres
+513;28 Madrid;2018;456;Entre mujeres
+514;28 Madrid;2017;347;Entre mujeres
+515;28 Madrid;2016;329;Entre mujeres
+516;28 Madrid;2015;311;Entre mujeres
+517;28 Madrid;2014;241;Entre mujeres
+518;28 Madrid;2013;268;Entre mujeres
+519;28 Madrid;2012;250;Entre mujeres
+520;28 Madrid;2011;246;Entre mujeres
+521;28 Madrid;2010;193;Entre mujeres
+522;28 Madrid;2009;156;Entre mujeres
+523;28 Madrid;2008;203;Entre mujeres
+524;28 Madrid;2007;186;Entre mujeres
+525;28 Madrid;2006;236;Entre mujeres
+526;28 Madrid;2005;58;Entre mujeres
+527;29 Málaga;2021;114;Entre mujeres
+528;29 Málaga;2020;77;Entre mujeres
+529;29 Málaga;2019;125;Entre mujeres
+530;29 Málaga;2018;108;Entre mujeres
+531;29 Málaga;2017;84;Entre mujeres
+532;29 Málaga;2016;83;Entre mujeres
+533;29 Málaga;2015;65;Entre mujeres
+534;29 Málaga;2014;49;Entre mujeres
+535;29 Málaga;2013;48;Entre mujeres
+536;29 Málaga;2012;48;Entre mujeres
+537;29 Málaga;2011;35;Entre mujeres
+538;29 Málaga;2010;49;Entre mujeres
+539;29 Málaga;2009;35;Entre mujeres
+540;29 Málaga;2008;40;Entre mujeres
+541;29 Málaga;2007;45;Entre mujeres
+542;29 Málaga;2006;55;Entre mujeres
+543;29 Málaga;2005;10;Entre mujeres
+544;30 Murcia;2021;87;Entre mujeres
+545;30 Murcia;2020;51;Entre mujeres
+546;30 Murcia;2019;74;Entre mujeres
+547;30 Murcia;2018;84;Entre mujeres
+548;30 Murcia;2017;64;Entre mujeres
+549;30 Murcia;2016;54;Entre mujeres
+550;30 Murcia;2015;46;Entre mujeres
+551;30 Murcia;2014;44;Entre mujeres
+552;30 Murcia;2013;35;Entre mujeres
+553;30 Murcia;2012;46;Entre mujeres
+554;30 Murcia;2011;37;Entre mujeres
+555;30 Murcia;2010;40;Entre mujeres
+556;30 Murcia;2009;24;Entre mujeres
+557;30 Murcia;2008;17;Entre mujeres
+558;30 Murcia;2007;22;Entre mujeres
+559;30 Murcia;2006;22;Entre mujeres
+560;30 Murcia;2005;4;Entre mujeres
+561;31 Navarra;2021;31;Entre mujeres
+562;31 Navarra;2020;16;Entre mujeres
+563;31 Navarra;2019;34;Entre mujeres
+564;31 Navarra;2018;34;Entre mujeres
+565;31 Navarra;2017;18;Entre mujeres
+566;31 Navarra;2016;28;Entre mujeres
+567;31 Navarra;2015;29;Entre mujeres
+568;31 Navarra;2014;10;Entre mujeres
+569;31 Navarra;2013;10;Entre mujeres
+570;31 Navarra;2012;18;Entre mujeres
+571;31 Navarra;2011;13;Entre mujeres
+572;31 Navarra;2010;20;Entre mujeres
+573;31 Navarra;2009;15;Entre mujeres
+574;31 Navarra;2008;19;Entre mujeres
+575;31 Navarra;2007;12;Entre mujeres
+576;31 Navarra;2006;13;Entre mujeres
+577;31 Navarra;2005;2;Entre mujeres
+578;32 Ourense;2021;8;Entre mujeres
+579;32 Ourense;2020;5;Entre mujeres
+580;32 Ourense;2019;6;Entre mujeres
+581;32 Ourense;2018;6;Entre mujeres
+582;32 Ourense;2017;5;Entre mujeres
+583;32 Ourense;2016;6;Entre mujeres
+584;32 Ourense;2015;5;Entre mujeres
+585;32 Ourense;2014;2;Entre mujeres
+586;32 Ourense;2013;0;Entre mujeres
+587;32 Ourense;2012;1;Entre mujeres
+588;32 Ourense;2011;1;Entre mujeres
+589;32 Ourense;2010;2;Entre mujeres
+590;32 Ourense;2009;5;Entre mujeres
+591;32 Ourense;2008;2;Entre mujeres
+592;32 Ourense;2007;0;Entre mujeres
+593;32 Ourense;2006;2;Entre mujeres
+594;32 Ourense;2005;0;Entre mujeres
+595;34 Palencia;2021;5;Entre mujeres
+596;34 Palencia;2020;2;Entre mujeres
+597;34 Palencia;2019;4;Entre mujeres
+598;34 Palencia;2018;2;Entre mujeres
+599;34 Palencia;2017;4;Entre mujeres
+600;34 Palencia;2016;4;Entre mujeres
+601;34 Palencia;2015;1;Entre mujeres
+602;34 Palencia;2014;0;Entre mujeres
+603;34 Palencia;2013;2;Entre mujeres
+604;34 Palencia;2012;3;Entre mujeres
+605;34 Palencia;2011;3;Entre mujeres
+606;34 Palencia;2010;2;Entre mujeres
+607;34 Palencia;2009;0;Entre mujeres
+608;34 Palencia;2008;0;Entre mujeres
+609;34 Palencia;2007;1;Entre mujeres
+610;34 Palencia;2006;1;Entre mujeres
+611;34 Palencia;2005;0;Entre mujeres
+612;35 Palmas, Las;2021;118;Entre mujeres
+613;35 Palmas, Las;2020;63;Entre mujeres
+614;35 Palmas, Las;2019;122;Entre mujeres
+615;35 Palmas, Las;2018;103;Entre mujeres
+616;35 Palmas, Las;2017;86;Entre mujeres
+617;35 Palmas, Las;2016;95;Entre mujeres
+618;35 Palmas, Las;2015;86;Entre mujeres
+619;35 Palmas, Las;2014;67;Entre mujeres
+620;35 Palmas, Las;2013;69;Entre mujeres
+621;35 Palmas, Las;2012;57;Entre mujeres
+622;35 Palmas, Las;2011;57;Entre mujeres
+623;35 Palmas, Las;2010;41;Entre mujeres
+624;35 Palmas, Las;2009;43;Entre mujeres
+625;35 Palmas, Las;2008;50;Entre mujeres
+626;35 Palmas, Las;2007;41;Entre mujeres
+627;35 Palmas, Las;2006;53;Entre mujeres
+628;35 Palmas, Las;2005;10;Entre mujeres
+629;36 Pontevedra;2021;34;Entre mujeres
+630;36 Pontevedra;2020;28;Entre mujeres
+631;36 Pontevedra;2019;20;Entre mujeres
+632;36 Pontevedra;2018;19;Entre mujeres
+633;36 Pontevedra;2017;29;Entre mujeres
+634;36 Pontevedra;2016;27;Entre mujeres
+635;36 Pontevedra;2015;17;Entre mujeres
+636;36 Pontevedra;2014;8;Entre mujeres
+637;36 Pontevedra;2013;10;Entre mujeres
+638;36 Pontevedra;2012;10;Entre mujeres
+639;36 Pontevedra;2011;16;Entre mujeres
+640;36 Pontevedra;2010;12;Entre mujeres
+641;36 Pontevedra;2009;10;Entre mujeres
+642;36 Pontevedra;2008;13;Entre mujeres
+643;36 Pontevedra;2007;9;Entre mujeres
+644;36 Pontevedra;2006;12;Entre mujeres
+645;36 Pontevedra;2005;2;Entre mujeres
+646;26 Rioja, La;2021;12;Entre mujeres
+647;26 Rioja, La;2020;18;Entre mujeres
+648;26 Rioja, La;2019;15;Entre mujeres
+649;26 Rioja, La;2018;11;Entre mujeres
+650;26 Rioja, La;2017;8;Entre mujeres
+651;26 Rioja, La;2016;9;Entre mujeres
+652;26 Rioja, La;2015;7;Entre mujeres
+653;26 Rioja, La;2014;9;Entre mujeres
+654;26 Rioja, La;2013;5;Entre mujeres
+655;26 Rioja, La;2012;11;Entre mujeres
+656;26 Rioja, La;2011;8;Entre mujeres
+657;26 Rioja, La;2010;5;Entre mujeres
+658;26 Rioja, La;2009;6;Entre mujeres
+659;26 Rioja, La;2008;4;Entre mujeres
+660;26 Rioja, La;2007;2;Entre mujeres
+661;26 Rioja, La;2006;3;Entre mujeres
+662;26 Rioja, La;2005;3;Entre mujeres
+663;37 Salamanca;2021;11;Entre mujeres
+664;37 Salamanca;2020;1;Entre mujeres
+665;37 Salamanca;2019;12;Entre mujeres
+666;37 Salamanca;2018;8;Entre mujeres
+667;37 Salamanca;2017;7;Entre mujeres
+668;37 Salamanca;2016;7;Entre mujeres
+669;37 Salamanca;2015;7;Entre mujeres
+670;37 Salamanca;2014;4;Entre mujeres
+671;37 Salamanca;2013;9;Entre mujeres
+672;37 Salamanca;2012;8;Entre mujeres
+673;37 Salamanca;2011;4;Entre mujeres
+674;37 Salamanca;2010;3;Entre mujeres
+675;37 Salamanca;2009;3;Entre mujeres
+676;37 Salamanca;2008;7;Entre mujeres
+677;37 Salamanca;2007;2;Entre mujeres
+678;37 Salamanca;2006;2;Entre mujeres
+679;37 Salamanca;2005;0;Entre mujeres
+680;38 Santa Cruz de Tenerife;2021;93;Entre mujeres
+681;38 Santa Cruz de Tenerife;2020;65;Entre mujeres
+682;38 Santa Cruz de Tenerife;2019;94;Entre mujeres
+683;38 Santa Cruz de Tenerife;2018;78;Entre mujeres
+684;38 Santa Cruz de Tenerife;2017;75;Entre mujeres
+685;38 Santa Cruz de Tenerife;2016;85;Entre mujeres
+686;38 Santa Cruz de Tenerife;2015;55;Entre mujeres
+687;38 Santa Cruz de Tenerife;2014;59;Entre mujeres
+688;38 Santa Cruz de Tenerife;2013;52;Entre mujeres
+689;38 Santa Cruz de Tenerife;2012;42;Entre mujeres
+690;38 Santa Cruz de Tenerife;2011;36;Entre mujeres
+691;38 Santa Cruz de Tenerife;2010;33;Entre mujeres
+692;38 Santa Cruz de Tenerife;2009;41;Entre mujeres
+693;38 Santa Cruz de Tenerife;2008;30;Entre mujeres
+694;38 Santa Cruz de Tenerife;2007;33;Entre mujeres
+695;38 Santa Cruz de Tenerife;2006;29;Entre mujeres
+696;38 Santa Cruz de Tenerife;2005;7;Entre mujeres
+697;40 Segovia;2021;2;Entre mujeres
+698;40 Segovia;2020;3;Entre mujeres
+699;40 Segovia;2019;4;Entre mujeres
+700;40 Segovia;2018;3;Entre mujeres
+701;40 Segovia;2017;6;Entre mujeres
+702;40 Segovia;2016;4;Entre mujeres
+703;40 Segovia;2015;3;Entre mujeres
+704;40 Segovia;2014;2;Entre mujeres
+705;40 Segovia;2013;2;Entre mujeres
+706;40 Segovia;2012;2;Entre mujeres
+707;40 Segovia;2011;5;Entre mujeres
+708;40 Segovia;2010;6;Entre mujeres
+709;40 Segovia;2009;1;Entre mujeres
+710;40 Segovia;2008;1;Entre mujeres
+711;40 Segovia;2007;1;Entre mujeres
+712;40 Segovia;2006;4;Entre mujeres
+713;40 Segovia;2005;1;Entre mujeres
+714;41 Sevilla;2021;124;Entre mujeres
+715;41 Sevilla;2020;87;Entre mujeres
+716;41 Sevilla;2019;123;Entre mujeres
+717;41 Sevilla;2018;115;Entre mujeres
+718;41 Sevilla;2017;104;Entre mujeres
+719;41 Sevilla;2016;113;Entre mujeres
+720;41 Sevilla;2015;83;Entre mujeres
+721;41 Sevilla;2014;76;Entre mujeres
+722;41 Sevilla;2013;64;Entre mujeres
+723;41 Sevilla;2012;59;Entre mujeres
+724;41 Sevilla;2011;57;Entre mujeres
+725;41 Sevilla;2010;38;Entre mujeres
+726;41 Sevilla;2009;42;Entre mujeres
+727;41 Sevilla;2008;48;Entre mujeres
+728;41 Sevilla;2007;53;Entre mujeres
+729;41 Sevilla;2006;64;Entre mujeres
+730;41 Sevilla;2005;15;Entre mujeres
+731;42 Soria;2021;4;Entre mujeres
+732;42 Soria;2020;2;Entre mujeres
+733;42 Soria;2019;3;Entre mujeres
+734;42 Soria;2018;3;Entre mujeres
+735;42 Soria;2017;0;Entre mujeres
+736;42 Soria;2016;1;Entre mujeres
+737;42 Soria;2015;2;Entre mujeres
+738;42 Soria;2014;0;Entre mujeres
+739;42 Soria;2013;1;Entre mujeres
+740;42 Soria;2012;0;Entre mujeres
+741;42 Soria;2011;1;Entre mujeres
+742;42 Soria;2010;0;Entre mujeres
+743;42 Soria;2009;0;Entre mujeres
+744;42 Soria;2008;0;Entre mujeres
+745;42 Soria;2007;1;Entre mujeres
+746;42 Soria;2006;0;Entre mujeres
+747;42 Soria;2005;0;Entre mujeres
+748;43 Tarragona;2021;74;Entre mujeres
+749;43 Tarragona;2020;29;Entre mujeres
+750;43 Tarragona;2019;38;Entre mujeres
+751;43 Tarragona;2018;39;Entre mujeres
+752;43 Tarragona;2017;26;Entre mujeres
+753;43 Tarragona;2016;28;Entre mujeres
+754;43 Tarragona;2015;34;Entre mujeres
+755;43 Tarragona;2014;21;Entre mujeres
+756;43 Tarragona;2013;29;Entre mujeres
+757;43 Tarragona;2012;39;Entre mujeres
+758;43 Tarragona;2011;29;Entre mujeres
+759;43 Tarragona;2010;24;Entre mujeres
+760;43 Tarragona;2009;21;Entre mujeres
+761;43 Tarragona;2008;19;Entre mujeres
+762;43 Tarragona;2007;22;Entre mujeres
+763;43 Tarragona;2006;24;Entre mujeres
+764;43 Tarragona;2005;11;Entre mujeres
+765;44 Teruel;2021;2;Entre mujeres
+766;44 Teruel;2020;2;Entre mujeres
+767;44 Teruel;2019;2;Entre mujeres
+768;44 Teruel;2018;1;Entre mujeres
+769;44 Teruel;2017;1;Entre mujeres
+770;44 Teruel;2016;1;Entre mujeres
+771;44 Teruel;2015;0;Entre mujeres
+772;44 Teruel;2014;2;Entre mujeres
+773;44 Teruel;2013;0;Entre mujeres
+774;44 Teruel;2012;1;Entre mujeres
+775;44 Teruel;2011;0;Entre mujeres
+776;44 Teruel;2010;2;Entre mujeres
+777;44 Teruel;2009;1;Entre mujeres
+778;44 Teruel;2008;1;Entre mujeres
+779;44 Teruel;2007;1;Entre mujeres
+780;44 Teruel;2006;1;Entre mujeres
+781;44 Teruel;2005;0;Entre mujeres
+782;45 Toledo;2021;35;Entre mujeres
+783;45 Toledo;2020;13;Entre mujeres
+784;45 Toledo;2019;23;Entre mujeres
+785;45 Toledo;2018;31;Entre mujeres
+786;45 Toledo;2017;24;Entre mujeres
+787;45 Toledo;2016;20;Entre mujeres
+788;45 Toledo;2015;17;Entre mujeres
+789;45 Toledo;2014;19;Entre mujeres
+790;45 Toledo;2013;13;Entre mujeres
+791;45 Toledo;2012;23;Entre mujeres
+792;45 Toledo;2011;17;Entre mujeres
+793;45 Toledo;2010;9;Entre mujeres
+794;45 Toledo;2009;9;Entre mujeres
+795;45 Toledo;2008;6;Entre mujeres
+796;45 Toledo;2007;4;Entre mujeres
+797;45 Toledo;2006;5;Entre mujeres
+798;45 Toledo;2005;3;Entre mujeres
+799;46 Valencia/València;2021;188;Entre mujeres
+800;46 Valencia/València;2020;138;Entre mujeres
+801;46 Valencia/València;2019;146;Entre mujeres
+802;46 Valencia/València;2018;167;Entre mujeres
+803;46 Valencia/València;2017;142;Entre mujeres
+804;46 Valencia/València;2016;144;Entre mujeres
+805;46 Valencia/València;2015;126;Entre mujeres
+806;46 Valencia/València;2014;114;Entre mujeres
+807;46 Valencia/València;2013;88;Entre mujeres
+808;46 Valencia/València;2012;107;Entre mujeres
+809;46 Valencia/València;2011;121;Entre mujeres
+810;46 Valencia/València;2010;78;Entre mujeres
+811;46 Valencia/València;2009;78;Entre mujeres
+812;46 Valencia/València;2008;68;Entre mujeres
+813;46 Valencia/València;2007;79;Entre mujeres
+814;46 Valencia/València;2006;85;Entre mujeres
+815;46 Valencia/València;2005;36;Entre mujeres
+816;47 Valladolid;2021;16;Entre mujeres
+817;47 Valladolid;2020;12;Entre mujeres
+818;47 Valladolid;2019;16;Entre mujeres
+819;47 Valladolid;2018;12;Entre mujeres
+820;47 Valladolid;2017;12;Entre mujeres
+821;47 Valladolid;2016;10;Entre mujeres
+822;47 Valladolid;2015;10;Entre mujeres
+823;47 Valladolid;2014;7;Entre mujeres
+824;47 Valladolid;2013;3;Entre mujeres
+825;47 Valladolid;2012;9;Entre mujeres
+826;47 Valladolid;2011;7;Entre mujeres
+827;47 Valladolid;2010;7;Entre mujeres
+828;47 Valladolid;2009;4;Entre mujeres
+829;47 Valladolid;2008;4;Entre mujeres
+830;47 Valladolid;2007;3;Entre mujeres
+831;47 Valladolid;2006;5;Entre mujeres
+832;47 Valladolid;2005;2;Entre mujeres
+833;49 Zamora;2021;2;Entre mujeres
+834;49 Zamora;2020;0;Entre mujeres
+835;49 Zamora;2019;0;Entre mujeres
+836;49 Zamora;2018;1;Entre mujeres
+837;49 Zamora;2017;1;Entre mujeres
+838;49 Zamora;2016;1;Entre mujeres
+839;49 Zamora;2015;2;Entre mujeres
+840;49 Zamora;2014;0;Entre mujeres
+841;49 Zamora;2013;1;Entre mujeres
+842;49 Zamora;2012;0;Entre mujeres
+843;49 Zamora;2011;0;Entre mujeres
+844;49 Zamora;2010;0;Entre mujeres
+845;49 Zamora;2009;1;Entre mujeres
+846;49 Zamora;2008;0;Entre mujeres
+847;49 Zamora;2007;1;Entre mujeres
+848;49 Zamora;2006;1;Entre mujeres
+849;49 Zamora;2005;0;Entre mujeres
+850;50 Zaragoza;2021;52;Entre mujeres
+851;50 Zaragoza;2020;20;Entre mujeres
+852;50 Zaragoza;2019;32;Entre mujeres
+853;50 Zaragoza;2018;34;Entre mujeres
+854;50 Zaragoza;2017;27;Entre mujeres
+855;50 Zaragoza;2016;26;Entre mujeres
+856;50 Zaragoza;2015;23;Entre mujeres
+857;50 Zaragoza;2014;26;Entre mujeres
+858;50 Zaragoza;2013;26;Entre mujeres
+859;50 Zaragoza;2012;21;Entre mujeres
+860;50 Zaragoza;2011;21;Entre mujeres
+861;50 Zaragoza;2010;28;Entre mujeres
+862;50 Zaragoza;2009;22;Entre mujeres
+863;50 Zaragoza;2008;12;Entre mujeres
+864;50 Zaragoza;2007;14;Entre mujeres
+865;50 Zaragoza;2006;20;Entre mujeres
+866;50 Zaragoza;2005;4;Entre mujeres
+867;51 Ceuta;2021;6;Entre mujeres
+868;51 Ceuta;2020;1;Entre mujeres
+869;51 Ceuta;2019;1;Entre mujeres
+870;51 Ceuta;2018;0;Entre mujeres
+871;51 Ceuta;2017;2;Entre mujeres
+872;51 Ceuta;2016;1;Entre mujeres
+873;51 Ceuta;2015;0;Entre mujeres
+874;51 Ceuta;2014;1;Entre mujeres
+875;51 Ceuta;2013;0;Entre mujeres
+876;51 Ceuta;2012;2;Entre mujeres
+877;51 Ceuta;2011;1;Entre mujeres
+878;51 Ceuta;2010;1;Entre mujeres
+879;51 Ceuta;2009;2;Entre mujeres
+880;51 Ceuta;2008;1;Entre mujeres
+881;51 Ceuta;2007;1;Entre mujeres
+882;51 Ceuta;2006;0;Entre mujeres
+883;51 Ceuta;2005;1;Entre mujeres
+884;52 Melilla;2021;1;Entre mujeres
+885;52 Melilla;2020;1;Entre mujeres
+886;52 Melilla;2019;3;Entre mujeres
+887;52 Melilla;2018;7;Entre mujeres
+888;52 Melilla;2017;2;Entre mujeres
+889;52 Melilla;2016;2;Entre mujeres
+890;52 Melilla;2015;2;Entre mujeres
+891;52 Melilla;2014;2;Entre mujeres
+892;52 Melilla;2013;0;Entre mujeres
+893;52 Melilla;2012;0;Entre mujeres
+894;52 Melilla;2011;2;Entre mujeres
+895;52 Melilla;2010;0;Entre mujeres
+896;52 Melilla;2009;3;Entre mujeres
+897;52 Melilla;2008;2;Entre mujeres
+898;52 Melilla;2007;2;Entre mujeres
+899;52 Melilla;2006;0;Entre mujeres
+900;52 Melilla;2005;0;Entre mujeres
+901;No residente;2021;11;Entre mujeres
+902;No residente;2020;5;Entre mujeres
+903;No residente;2019;9;Entre mujeres
+904;No residente;2018;19;Entre mujeres
+905;No residente;2017;18;Entre mujeres
+906;No residente;2016;11;Entre mujeres
+907;No residente;2015;12;Entre mujeres
+908;No residente;2014;14;Entre mujeres
+909;No residente;2013;7;Entre mujeres
+910;No residente;2012;17;Entre mujeres
+911;No residente;2011;13;Entre mujeres
+912;No residente;2010;14;Entre mujeres
+913;No residente;2009;6;Entre mujeres
+914;No residente;2008;12;Entre mujeres
+915;No residente;2007;12;Entre mujeres
+916;No residente;2006;6;Entre mujeres
+917;No residente;2005;2;Entre mujeres
